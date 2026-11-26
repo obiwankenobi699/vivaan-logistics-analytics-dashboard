@@ -14,7 +14,8 @@ import streamlit as st
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 from data_prep import load_and_clean  # noqa: E402
 
-DATA = Path(__file__).parent / "data" / "vivaan_shipments.csv"
+DATA_DIR = Path(__file__).parent / "data"
+DATA = sorted((DATA_DIR / "parts").glob("shipments_part*.csv"))
 ZONES = ["Local NCR", "North Zone", "Metro / Rest of India"]
 SERVICES = ["Standard", "Express", "Same Day", "Surface Cargo"]
 DOW = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
