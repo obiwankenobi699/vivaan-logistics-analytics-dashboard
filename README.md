@@ -4,7 +4,7 @@ An interactive Streamlit dashboard that turns a shipment file into the numbers a
 
 It was built as the project for an industrial internship at **Vivaan Logistics** (courier, cargo and supply chain services, Ghaziabad, Delhi NCR) by **Riddhi** (B.Tech CSE, SGT University), supervised by **Mukul Mishra**, June 2026. The project report describes the same dataset, KPIs and charts that this dashboard shows.
 
-> **Data note:** `data/vivaan_shipments.csv` is a synthetic sample made for this project. It contains no real customers or real shipments. You can load your own file with the same columns from the sidebar.
+> **Data note:** the six files in `data/parts/` together make up a synthetic sample made for this project. It contains no real customers or real shipments. You can load your own file with the same columns from the sidebar.
 
 ## Credit
 
@@ -67,7 +67,7 @@ Cleaning rules (`src/data_prep.py`): lower-case column names, parse the booking 
 ```
 .
 ├── app.py                    Streamlit dashboard
-├── data/vivaan_shipments.csv Sample shipment data (synthetic)
+├── data/parts/               Sample shipment data in six CSV parts (synthetic)
 ├── src/
 │   ├── data_prep.py          Loading and cleaning
 │   └── generate_data.py      Script that creates the sample data
