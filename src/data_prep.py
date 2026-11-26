@@ -3,7 +3,10 @@ import pandas as pd
 
 
 def load_and_clean(path):
-    df = pd.read_csv(path)
+    if isinstance(path, (list, tuple)):
+        df = pd.concat([pd.read_csv(p) for p in path], ignore_index=True)
+    else:
+        df = pd.read_csv(path)
     df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
     df["booking_date"] = pd.to_datetime(df["booking_date"], errors="coerce")
     df = df.dropna(subset=["booking_date"]).drop_duplicates("awb")
