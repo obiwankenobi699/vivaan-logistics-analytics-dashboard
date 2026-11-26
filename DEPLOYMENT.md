@@ -16,7 +16,7 @@ The app opens at http://localhost:8501.
 1. Push this folder to a GitHub repository.
 2. Go to https://share.streamlit.io and sign in with GitHub.
 3. Choose **New app**, select your repository, branch `main` and the main file `app.py`.
-4. Click **Deploy**. The dataset in `data/vivaan_shipments.csv` is part of the repository, so no extra setup is needed.
+4. Click **Deploy**. The dataset in `data/parts/` (six CSV parts) is part of the repository, so no extra setup is needed.
 
 ## Docker
 
