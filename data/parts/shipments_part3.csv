@@ -1,0 +1,1614 @@
+awb,booking_date,hour,city,zone,service,weight_kg,promised_days,actual_days,status,cost_inr,cod,delay_reason,delayed,month,dow
+VL2026023583,2026-02-28,13,Chennai,Metro / Rest of India,Standard,0.35,5,6,Delivered,76.58,True,Hub sorting delay,True,2026-02,Saturday
+VL2026023590,2026-02-28,13,Gurugram,Local NCR,Standard,3.51,2,2,Delivered,77.17,False,,False,2026-02,Saturday
+VL2026023597,2026-02-28,14,Delhi,Local NCR,Express,1.83,2,1,Delivered,86.0,False,,False,2026-02,Saturday
+VL2026023604,2026-02-28,14,Bengaluru,Metro / Rest of India,Standard,1.56,5,4,Delivered,111.6,False,,False,2026-02,Saturday
+VL2026023611,2026-02-28,14,Noida,Local NCR,Standard,1.14,2,1,Delivered,42.82,False,,False,2026-02,Saturday
+VL2026023618,2026-02-28,14,Delhi,Local NCR,Express,3.18,2,3,Delivered,120.13,True,Traffic / hub congestion,True,2026-02,Saturday
+VL2026023625,2026-02-28,14,Faridabad,Local NCR,Standard,2.02,2,1,Delivered,53.57,False,,False,2026-02,Saturday
+VL2026023632,2026-02-28,14,Noida,Local NCR,Standard,1.61,2,1,Delivered,53.46,False,,False,2026-02,Saturday
+VL2026023639,2026-02-28,14,Delhi,Local NCR,Express,1.83,2,1,Delivered,86.96,False,,False,2026-02,Saturday
+VL2026023646,2026-02-28,14,Ghaziabad,Local NCR,Same Day,2.31,2,1,Delivered,173.18,False,,False,2026-02,Saturday
+VL2026023653,2026-02-28,14,Mumbai,Metro / Rest of India,Express,0.85,5,5,Delivered,155.06,False,,False,2026-02,Saturday
+VL2026023660,2026-02-28,14,Gurugram,Local NCR,Standard,1.85,2,1,Delivered,53.08,False,,False,2026-02,Saturday
+VL2026023667,2026-02-28,14,Delhi,Local NCR,Express,4.46,2,1,Delivered,154.44,False,,False,2026-02,Saturday
+VL2026023674,2026-02-28,14,Ghaziabad,Local NCR,Standard,1.42,2,1,Delivered,44.88,False,,False,2026-02,Saturday
+VL2026023681,2026-02-28,14,Chandigarh,North Zone,Express,2.52,3,3,Delivered,187.9,False,,False,2026-02,Saturday
+VL2026023688,2026-02-28,14,Ghaziabad,Local NCR,Express,0.67,2,1,Delivered,65.18,True,,False,2026-02,Saturday
+VL2026023695,2026-02-28,15,Mumbai,Metro / Rest of India,Standard,1.61,5,4,Delivered,120.1,False,,False,2026-02,Saturday
+VL2026023702,2026-02-28,15,Delhi,Local NCR,Standard,2.32,2,1,Delivered,56.84,True,,False,2026-02,Saturday
+VL2026023709,2026-02-28,15,Lucknow,North Zone,Standard,3.95,3,3,Delivered,138.12,True,,False,2026-02,Saturday
+VL2026023716,2026-02-28,15,Delhi,Local NCR,Standard,1.45,2,1,Delivered,46.72,True,,False,2026-02,Saturday
+VL2026023723,2026-02-28,15,Ghaziabad,Local NCR,Standard,0.29,2,1,Delivered,36.81,False,,False,2026-02,Saturday
+VL2026023730,2026-02-28,15,Delhi,Local NCR,Express,4.42,2,1,Delivered,139.53,False,,False,2026-02,Saturday
+VL2026023737,2026-02-28,15,Mumbai,Metro / Rest of India,Standard,2.39,5,5,Delivered,149.22,False,,False,2026-02,Saturday
+VL2026023744,2026-02-28,15,Lucknow,North Zone,Standard,0.33,3,3,Delivered,54.93,False,,False,2026-02,Saturday
+VL2026023751,2026-02-28,15,Noida,Local NCR,Standard,0.73,2,1,Delivered,39.7,False,,False,2026-02,Saturday
+VL2026023758,2026-02-28,15,Kolkata,Metro / Rest of India,Express,0.4,5,4,Delivered,129.49,False,,False,2026-02,Saturday
+VL2026023765,2026-02-28,15,Delhi,Local NCR,Standard,1.57,2,1,Delivered,46.99,False,,False,2026-02,Saturday
+VL2026023772,2026-02-28,16,Jaipur,North Zone,Standard,4.13,3,6,Delivered,140.01,False,Hub sorting delay,True,2026-02,Saturday
+VL2026023779,2026-02-28,16,Noida,Local NCR,Standard,1.45,2,1,Delivered,50.73,False,,False,2026-02,Saturday
+VL2026023786,2026-02-28,16,Chennai,Metro / Rest of India,Surface Cargo,0.87,5,5,Delivered,63.69,True,,False,2026-02,Saturday
+VL2026023793,2026-02-28,16,Chennai,Metro / Rest of India,Standard,1.66,5,5,Delivered,111.93,False,,False,2026-02,Saturday
+VL2026023800,2026-02-28,16,Faridabad,Local NCR,Standard,1.41,2,1,Delivered,49.02,False,,False,2026-02,Saturday
+VL2026023807,2026-02-28,16,Ghaziabad,Local NCR,Same Day,2.21,2,1,Delivered,139.86,True,,False,2026-02,Saturday
+VL2026023814,2026-02-28,16,Ghaziabad,Local NCR,Standard,1.05,2,3,Delivered,46.42,True,Weather,True,2026-02,Saturday
+VL2026023821,2026-02-28,17,Jaipur,North Zone,Standard,0.68,3,3,Delivered,62.81,False,,False,2026-02,Saturday
+VL2026023828,2026-02-28,17,Gurugram,Local NCR,Express,3.69,2,1,Delivered,127.64,True,,False,2026-02,Saturday
+VL2026023835,2026-02-28,17,Lucknow,North Zone,Express,0.59,3,3,Delivered,103.72,True,,False,2026-02,Saturday
+VL2026023842,2026-02-28,17,Bengaluru,Metro / Rest of India,Standard,1.29,5,5,Delivered,104.4,False,,False,2026-02,Saturday
+VL2026023849,2026-02-28,17,Jaipur,North Zone,Express,0.27,3,3,Delivered,97.42,False,,False,2026-02,Saturday
+VL2026023856,2026-02-28,18,Delhi,Local NCR,Standard,1.01,2,1,Delivered,46.45,False,,False,2026-02,Saturday
+VL2026023863,2026-02-28,18,Pune,Metro / Rest of India,Express,6.79,5,6,Delivered,456.22,False,Hub sorting delay,True,2026-02,Saturday
+VL2026023870,2026-02-28,18,Ghaziabad,Local NCR,Surface Cargo,1.01,2,1,Delivered,28.85,True,,False,2026-02,Saturday
+VL2026023877,2026-02-28,18,Ghaziabad,Local NCR,Express,6.05,2,1,Delivered,189.98,True,,False,2026-02,Saturday
+VL2026023884,2026-02-28,19,Faridabad,Local NCR,Standard,0.92,2,1,Delivered,43.13,True,,False,2026-02,Saturday
+VL2026023891,2026-02-28,21,Gurugram,Local NCR,Standard,0.69,2,1,Delivered,39.67,False,,False,2026-02,Saturday
+VL2026023898,2026-03-01,9,Chandigarh,North Zone,Standard,1.36,3,3,Delivered,80.69,False,,False,2026-03,Sunday
+VL2026023905,2026-03-01,10,Kolkata,Metro / Rest of India,Standard,3.03,5,6,Delivered,161.63,True,Customer unavailable,True,2026-03,Sunday
+VL2026023912,2026-03-01,10,Delhi,Local NCR,Standard,1.24,2,1,Delivered,49.21,False,,False,2026-03,Sunday
+VL2026023919,2026-03-01,10,Kolkata,Metro / Rest of India,Surface Cargo,0.57,5,7,Delivered,53.83,False,Customer unavailable,True,2026-03,Sunday
+VL2026023926,2026-03-01,10,Jaipur,North Zone,Express,1.69,3,3,Delivered,138.78,False,,False,2026-03,Sunday
+VL2026023933,2026-03-01,11,Delhi,Local NCR,Standard,0.89,2,1,Delivered,40.11,False,,False,2026-03,Sunday
+VL2026023940,2026-03-01,12,Chandigarh,North Zone,Express,0.3,3,3,Delivered,86.15,False,,False,2026-03,Sunday
+VL2026023947,2026-03-01,12,Bengaluru,Metro / Rest of India,Same Day,0.97,5,5,Delivered,236.32,True,,False,2026-03,Sunday
+VL2026023954,2026-03-01,12,Dehradun,North Zone,Express,2.17,3,3,Delivered,161.05,True,,False,2026-03,Sunday
+VL2026023961,2026-03-01,12,Delhi,Local NCR,Standard,2.95,2,2,Delivered,72.97,True,,False,2026-03,Sunday
+VL2026023968,2026-03-01,12,Jaipur,North Zone,Same Day,2.13,3,2,Delivered,250.23,False,,False,2026-03,Sunday
+VL2026023975,2026-03-01,12,Hyderabad,Metro / Rest of India,Same Day,1.13,5,6,Delivered,265.99,True,Vehicle breakdown,True,2026-03,Sunday
+VL2026023982,2026-03-01,12,Ghaziabad,Local NCR,Standard,1.85,2,1,Delivered,52.22,False,,False,2026-03,Sunday
+VL2026023989,2026-03-01,13,Ghaziabad,Local NCR,Express,2.11,2,4,Delivered,96.25,False,Customer unavailable,True,2026-03,Sunday
+VL2026023996,2026-03-01,13,Mumbai,Metro / Rest of India,Surface Cargo,1.11,5,4,Delivered,64.79,True,,False,2026-03,Sunday
+VL2026024003,2026-03-01,13,Gurugram,Local NCR,Standard,1.64,2,1,Delivered,47.57,False,,False,2026-03,Sunday
+VL2026024010,2026-03-01,13,Jaipur,North Zone,Surface Cargo,0.88,3,3,Delivered,39.55,False,,False,2026-03,Sunday
+VL2026024017,2026-03-01,14,Ghaziabad,Local NCR,Standard,1.94,2,1,Delivered,55.46,False,,False,2026-03,Sunday
+VL2026024024,2026-03-01,14,Hyderabad,Metro / Rest of India,Standard,0.68,5,4,Delivered,87.37,True,,False,2026-03,Sunday
+VL2026024031,2026-03-01,15,Kolkata,Metro / Rest of India,Standard,1.15,5,5,Delivered,95.8,False,,False,2026-03,Sunday
+VL2026024038,2026-03-01,15,Agra,North Zone,Standard,1.94,3,3,RTO,91.79,True,,False,2026-03,Sunday
+VL2026024045,2026-03-01,16,Hyderabad,Metro / Rest of India,Standard,3.29,5,5,Lost/Damaged,156.97,False,,False,2026-03,Sunday
+VL2026024052,2026-03-01,16,Chennai,Metro / Rest of India,Express,0.35,5,4,Delivered,137.66,True,,False,2026-03,Sunday
+VL2026024059,2026-03-01,16,Delhi,Local NCR,Express,0.88,2,1,Delivered,72.75,False,,False,2026-03,Sunday
+VL2026024066,2026-03-01,18,Delhi,Local NCR,Same Day,4.29,2,3,Delivered,202.49,True,Wrong / incomplete address,True,2026-03,Sunday
+VL2026024073,2026-03-02,8,Mumbai,Metro / Rest of India,Express,1.55,5,4,Delivered,194.69,False,,False,2026-03,Monday
+VL2026024080,2026-03-02,8,Kolkata,Metro / Rest of India,Express,8.06,5,4,Delivered,477.31,False,,False,2026-03,Monday
+VL2026024087,2026-03-02,9,Delhi,Local NCR,Express,0.59,2,1,Delivered,68.78,True,,False,2026-03,Monday
+VL2026024094,2026-03-02,9,Delhi,Local NCR,Standard,5.41,2,1,Delivered,102.79,True,,False,2026-03,Monday
+VL2026024101,2026-03-02,9,Delhi,Local NCR,Surface Cargo,3.03,2,1,Delivered,48.31,True,,False,2026-03,Monday
+VL2026024108,2026-03-02,9,Lucknow,North Zone,Same Day,2.3,3,3,Delivered,260.16,False,,False,2026-03,Monday
+VL2026024115,2026-03-02,9,Ghaziabad,Local NCR,Standard,1.62,2,3,Delivered,56.16,False,Customer unavailable,True,2026-03,Monday
+VL2026024122,2026-03-02,9,Faridabad,Local NCR,Express,1.05,2,2,Delivered,81.6,False,,False,2026-03,Monday
+VL2026024129,2026-03-02,9,Chennai,Metro / Rest of India,Express,3.04,5,5,Delivered,272.03,True,,False,2026-03,Monday
+VL2026024136,2026-03-02,10,Delhi,Local NCR,Standard,10.78,2,1,Delivered,170.08,False,,False,2026-03,Monday
+VL2026024143,2026-03-02,10,Chennai,Metro / Rest of India,Standard,0.69,5,4,Delivered,83.59,False,,False,2026-03,Monday
+VL2026024150,2026-03-02,10,Delhi,Local NCR,Standard,0.56,2,1,Delivered,35.78,True,,False,2026-03,Monday
+VL2026024157,2026-03-02,10,Mumbai,Metro / Rest of India,Standard,0.59,5,4,Delivered,83.54,True,,False,2026-03,Monday
+VL2026024164,2026-03-02,10,Delhi,Local NCR,Standard,0.52,2,1,Delivered,38.86,True,,False,2026-03,Monday
+VL2026024171,2026-03-02,10,Chandigarh,North Zone,Standard,1.53,3,2,Delivered,76.17,True,,False,2026-03,Monday
+VL2026024178,2026-03-02,11,Chennai,Metro / Rest of India,Express,2.42,5,4,Delivered,231.05,False,,False,2026-03,Monday
+VL2026024185,2026-03-02,11,Chandigarh,North Zone,Standard,1.13,3,3,Delivered,63.05,True,,False,2026-03,Monday
+VL2026024192,2026-03-02,11,Bengaluru,Metro / Rest of India,Standard,0.59,5,7,Delivered,85.19,False,Hub sorting delay,True,2026-03,Monday
+VL2026024199,2026-03-02,11,Delhi,Local NCR,Standard,2.43,2,1,Delivered,61.19,True,,False,2026-03,Monday
+VL2026024206,2026-03-02,11,Noida,Local NCR,Standard,1.64,2,1,Delivered,56.69,False,,False,2026-03,Monday
+VL2026024213,2026-03-02,12,Delhi,Local NCR,Standard,4.15,2,3,Delivered,97.67,False,Hub sorting delay,True,2026-03,Monday
+VL2026024220,2026-03-02,12,Delhi,Local NCR,Standard,2.66,2,2,Delivered,62.54,False,,False,2026-03,Monday
+VL2026024227,2026-03-02,12,Delhi,Local NCR,Standard,0.64,2,1,Delivered,38.74,True,,False,2026-03,Monday
+VL2026024234,2026-03-02,12,Noida,Local NCR,Same Day,3.2,2,1,Delivered,196.55,False,,False,2026-03,Monday
+VL2026024241,2026-03-02,12,Noida,Local NCR,Express,0.81,2,1,Delivered,67.87,True,,False,2026-03,Monday
+VL2026024248,2026-03-02,13,Delhi,Local NCR,Standard,1.51,2,1,Delivered,56.64,False,,False,2026-03,Monday
+VL2026024255,2026-03-02,13,Mumbai,Metro / Rest of India,Express,6.04,5,4,Delivered,387.18,False,,False,2026-03,Monday
+VL2026024262,2026-03-02,13,Noida,Local NCR,Standard,4.84,2,1,Delivered,96.18,False,,False,2026-03,Monday
+VL2026024269,2026-03-02,13,Pune,Metro / Rest of India,Standard,1.06,5,4,Delivered,98.77,False,,False,2026-03,Monday
+VL2026024276,2026-03-02,13,Mumbai,Metro / Rest of India,Same Day,1.15,5,6,Delivered,264.5,False,Weather,True,2026-03,Monday
+VL2026024283,2026-03-02,13,Noida,Local NCR,Express,1.3,2,1,Delivered,77.54,False,,False,2026-03,Monday
+VL2026024290,2026-03-02,14,Pune,Metro / Rest of India,Surface Cargo,0.87,5,4,Delivered,63.33,False,,False,2026-03,Monday
+VL2026024297,2026-03-02,14,Ghaziabad,Local NCR,Standard,0.88,2,1,Delivered,43.98,False,,False,2026-03,Monday
+VL2026024304,2026-03-02,14,Lucknow,North Zone,Standard,0.36,3,2,Delivered,58.76,True,,False,2026-03,Monday
+VL2026024311,2026-03-02,14,Pune,Metro / Rest of India,Standard,0.68,5,4,Delivered,91.93,False,,False,2026-03,Monday
+VL2026024318,2026-03-02,14,Bengaluru,Metro / Rest of India,Express,0.41,5,6,Delivered,133.74,True,Customer unavailable,True,2026-03,Monday
+VL2026024325,2026-03-02,14,Hyderabad,Metro / Rest of India,Standard,0.34,5,4,Delivered,83.44,False,,False,2026-03,Monday
+VL2026024332,2026-03-02,14,Gurugram,Local NCR,Standard,3.14,2,1,Delivered,71.34,True,,False,2026-03,Monday
+VL2026024339,2026-03-02,15,Delhi,Local NCR,Express,0.64,2,1,Delivered,67.2,True,,False,2026-03,Monday
+VL2026024346,2026-03-02,15,Jaipur,North Zone,Standard,3.34,3,3,Delivered,135.92,False,,False,2026-03,Monday
+VL2026024353,2026-03-02,15,Gurugram,Local NCR,Standard,0.97,2,1,Delivered,45.45,True,,False,2026-03,Monday
+VL2026024360,2026-03-02,15,Bengaluru,Metro / Rest of India,Express,3.26,5,4,Delivered,280.76,False,,False,2026-03,Monday
+VL2026024367,2026-03-02,15,Ghaziabad,Local NCR,Express,2.75,2,1,Delivered,124.36,True,,False,2026-03,Monday
+VL2026024374,2026-03-02,15,Noida,Local NCR,Standard,0.57,2,4,Delivered,38.0,False,Customer unavailable,True,2026-03,Monday
+VL2026024381,2026-03-02,16,Faridabad,Local NCR,Surface Cargo,1.19,2,2,Delivered,29.88,False,,False,2026-03,Monday
+VL2026024388,2026-03-02,16,Gurugram,Local NCR,Standard,1.28,2,1,Delivered,49.34,False,,False,2026-03,Monday
+VL2026024395,2026-03-02,16,Gurugram,Local NCR,Surface Cargo,1.92,2,1,Delivered,35.64,True,,False,2026-03,Monday
+VL2026024402,2026-03-02,16,Ghaziabad,Local NCR,Express,0.92,2,4,Delivered,67.61,False,Customer unavailable,True,2026-03,Monday
+VL2026024409,2026-03-02,17,Hyderabad,Metro / Rest of India,Express,0.88,5,4,Delivered,155.3,True,,False,2026-03,Monday
+VL2026024416,2026-03-02,18,Hyderabad,Metro / Rest of India,Express,1.02,5,5,RTO,171.18,False,,False,2026-03,Monday
+VL2026024423,2026-03-02,18,Gurugram,Local NCR,Surface Cargo,1.08,2,1,Delivered,30.47,True,,False,2026-03,Monday
+VL2026024430,2026-03-02,18,Mumbai,Metro / Rest of India,Express,0.49,5,6,Delivered,157.02,False,Customer unavailable,True,2026-03,Monday
+VL2026024437,2026-03-02,19,Ghaziabad,Local NCR,Express,4.15,2,1,Delivered,151.97,False,,False,2026-03,Monday
+VL2026024444,2026-03-02,19,Bengaluru,Metro / Rest of India,Standard,1.91,5,5,RTO,134.84,True,,False,2026-03,Monday
+VL2026024451,2026-03-02,20,Ghaziabad,Local NCR,Surface Cargo,3.63,2,1,Delivered,50.44,True,,False,2026-03,Monday
+VL2026024458,2026-03-03,8,Jaipur,North Zone,Express,2.98,3,3,Delivered,198.02,False,,False,2026-03,Tuesday
+VL2026024465,2026-03-03,8,Noida,Local NCR,Standard,0.86,2,1,Delivered,40.99,False,,False,2026-03,Tuesday
+VL2026024472,2026-03-03,9,Jaipur,North Zone,Standard,1.24,3,3,Delivered,80.14,False,,False,2026-03,Tuesday
+VL2026024479,2026-03-03,9,Dehradun,North Zone,Same Day,2.53,3,2,Delivered,241.33,True,,False,2026-03,Tuesday
+VL2026024486,2026-03-03,9,Bengaluru,Metro / Rest of India,Standard,5.81,5,8,Delivered,263.64,True,Wrong / incomplete address,True,2026-03,Tuesday
+VL2026024493,2026-03-03,10,Delhi,Local NCR,Express,1.18,2,1,Delivered,79.18,False,,False,2026-03,Tuesday
+VL2026024500,2026-03-03,10,Mumbai,Metro / Rest of India,Standard,0.34,5,4,Delivered,74.97,False,,False,2026-03,Tuesday
+VL2026024507,2026-03-03,10,Delhi,Local NCR,Standard,0.46,2,1,Delivered,37.19,False,,False,2026-03,Tuesday
+VL2026024514,2026-03-03,10,Chennai,Metro / Rest of India,Surface Cargo,1.87,5,4,RTO,75.52,False,,False,2026-03,Tuesday
+VL2026024521,2026-03-03,10,Delhi,Local NCR,Express,0.79,2,3,Delivered,73.61,False,Wrong / incomplete address,True,2026-03,Tuesday
+VL2026024528,2026-03-03,10,Mumbai,Metro / Rest of India,Express,0.53,5,6,Delivered,144.01,True,Weather,True,2026-03,Tuesday
+VL2026024535,2026-03-03,10,Mumbai,Metro / Rest of India,Standard,1.01,5,7,Delivered,97.17,True,Wrong / incomplete address,True,2026-03,Tuesday
+VL2026024542,2026-03-03,10,Mumbai,Metro / Rest of India,Standard,3.25,5,4,Delivered,172.23,True,,False,2026-03,Tuesday
+VL2026024549,2026-03-03,11,Lucknow,North Zone,Surface Cargo,3.73,3,2,Delivered,79.95,True,,False,2026-03,Tuesday
+VL2026024556,2026-03-03,11,Noida,Local NCR,Standard,1.57,2,1,Delivered,54.63,True,,False,2026-03,Tuesday
+VL2026024563,2026-03-03,11,Dehradun,North Zone,Same Day,1.9,3,3,Lost/Damaged,213.57,True,,False,2026-03,Tuesday
+VL2026024570,2026-03-03,11,Ghaziabad,Local NCR,Express,2.43,2,1,Delivered,101.98,False,,False,2026-03,Tuesday
+VL2026024577,2026-03-03,12,Kolkata,Metro / Rest of India,Surface Cargo,3.87,5,5,Delivered,112.5,True,,False,2026-03,Tuesday
+VL2026024584,2026-03-03,12,Ghaziabad,Local NCR,Surface Cargo,1.11,2,1,Delivered,28.77,False,,False,2026-03,Tuesday
+VL2026024591,2026-03-03,12,Jaipur,North Zone,Standard,0.36,3,3,Delivered,56.58,False,,False,2026-03,Tuesday
+VL2026024598,2026-03-03,12,Delhi,Local NCR,Standard,0.83,2,1,Delivered,45.7,True,,False,2026-03,Tuesday
+VL2026024605,2026-03-03,12,Agra,North Zone,Standard,2.03,3,3,Delivered,92.46,False,,False,2026-03,Tuesday
+VL2026024612,2026-03-03,12,Ghaziabad,Local NCR,Same Day,2.14,2,1,Delivered,159.81,True,,False,2026-03,Tuesday
+VL2026024619,2026-03-03,12,Jaipur,North Zone,Same Day,0.29,3,2,Delivered,135.71,True,,False,2026-03,Tuesday
+VL2026024626,2026-03-03,12,Lucknow,North Zone,Standard,0.38,3,2,Delivered,56.47,False,,False,2026-03,Tuesday
+VL2026024633,2026-03-03,12,Gurugram,Local NCR,Standard,0.53,2,1,Delivered,40.33,False,,False,2026-03,Tuesday
+VL2026024640,2026-03-03,13,Noida,Local NCR,Standard,0.38,2,4,Delivered,36.94,True,Customer unavailable,True,2026-03,Tuesday
+VL2026024647,2026-03-03,13,Delhi,Local NCR,Express,2.71,2,1,Delivered,109.29,False,,False,2026-03,Tuesday
+VL2026024654,2026-03-03,13,Mumbai,Metro / Rest of India,Surface Cargo,1.68,5,4,Delivered,72.37,False,,False,2026-03,Tuesday
+VL2026024661,2026-03-03,13,Mumbai,Metro / Rest of India,Surface Cargo,2.33,5,4,Delivered,83.22,False,,False,2026-03,Tuesday
+VL2026024668,2026-03-03,13,Pune,Metro / Rest of India,Surface Cargo,1.77,5,6,Delivered,78.13,True,Customer unavailable,True,2026-03,Tuesday
+VL2026024675,2026-03-03,13,Noida,Local NCR,Surface Cargo,1.54,2,1,Delivered,30.77,False,,False,2026-03,Tuesday
+VL2026024682,2026-03-03,13,Delhi,Local NCR,Standard,1.2,2,1,Delivered,46.52,True,,False,2026-03,Tuesday
+VL2026024689,2026-03-03,13,Delhi,Local NCR,Express,11.72,2,1,Delivered,318.47,False,,False,2026-03,Tuesday
+VL2026024696,2026-03-03,13,Jaipur,North Zone,Same Day,0.82,3,2,RTO,156.95,True,,False,2026-03,Tuesday
+VL2026024703,2026-03-03,13,Bengaluru,Metro / Rest of India,Standard,0.41,5,5,Delivered,81.66,True,,False,2026-03,Tuesday
+VL2026024710,2026-03-03,13,Noida,Local NCR,Standard,1.66,2,1,Delivered,57.24,False,,False,2026-03,Tuesday
+VL2026024717,2026-03-03,13,Noida,Local NCR,Standard,1.07,2,1,Delivered,42.24,True,,False,2026-03,Tuesday
+VL2026024724,2026-03-03,13,Delhi,Local NCR,Same Day,1.84,2,1,Delivered,155.43,True,,False,2026-03,Tuesday
+VL2026024731,2026-03-03,13,Chandigarh,North Zone,Same Day,0.79,3,5,Delivered,162.04,True,Weather,True,2026-03,Tuesday
+VL2026024738,2026-03-03,14,Ghaziabad,Local NCR,Standard,2.82,2,1,Delivered,69.23,False,,False,2026-03,Tuesday
+VL2026024745,2026-03-03,14,Delhi,Local NCR,Same Day,0.64,2,1,Delivered,100.77,False,,False,2026-03,Tuesday
+VL2026024752,2026-03-03,14,Ghaziabad,Local NCR,Express,0.86,2,1,Delivered,70.25,True,,False,2026-03,Tuesday
+VL2026024759,2026-03-03,14,Bengaluru,Metro / Rest of India,Standard,3.3,5,5,Delivered,172.85,False,,False,2026-03,Tuesday
+VL2026024766,2026-03-03,14,Hyderabad,Metro / Rest of India,Express,1.43,5,4,Delivered,182.05,False,,False,2026-03,Tuesday
+VL2026024773,2026-03-03,14,Ghaziabad,Local NCR,Standard,0.25,2,1,Delivered,34.79,False,,False,2026-03,Tuesday
+VL2026024780,2026-03-03,14,Hyderabad,Metro / Rest of India,Standard,1.76,5,4,Delivered,127.99,False,,False,2026-03,Tuesday
+VL2026024787,2026-03-03,15,Mumbai,Metro / Rest of India,Express,0.89,5,6,Delivered,168.46,True,Hub sorting delay,True,2026-03,Tuesday
+VL2026024794,2026-03-03,15,Bengaluru,Metro / Rest of India,Standard,1.11,5,5,Delivered,106.41,True,,False,2026-03,Tuesday
+VL2026024801,2026-03-03,15,Mumbai,Metro / Rest of India,Express,0.8,5,7,Delivered,153.57,False,Customer unavailable,True,2026-03,Tuesday
+VL2026024808,2026-03-03,15,Hyderabad,Metro / Rest of India,Standard,5.68,5,5,Delivered,262.93,False,,False,2026-03,Tuesday
+VL2026024815,2026-03-03,15,Kolkata,Metro / Rest of India,Express,3.5,5,4,RTO,297.7,False,,False,2026-03,Tuesday
+VL2026024822,2026-03-03,15,Mumbai,Metro / Rest of India,Standard,5.03,5,4,Delivered,236.52,True,,False,2026-03,Tuesday
+VL2026024829,2026-03-03,15,Gurugram,Local NCR,Standard,4.52,2,1,Delivered,99.39,False,,False,2026-03,Tuesday
+VL2026024836,2026-03-03,15,Delhi,Local NCR,Express,0.81,2,1,Delivered,79.1,False,,False,2026-03,Tuesday
+VL2026024843,2026-03-03,15,Lucknow,North Zone,Surface Cargo,1.27,3,3,Delivered,52.4,True,,False,2026-03,Tuesday
+VL2026024850,2026-03-03,15,Noida,Local NCR,Express,0.94,2,1,Delivered,70.31,True,,False,2026-03,Tuesday
+VL2026024857,2026-03-03,15,Hyderabad,Metro / Rest of India,Express,1.07,5,5,Delivered,174.81,True,,False,2026-03,Tuesday
+VL2026024864,2026-03-03,16,Delhi,Local NCR,Express,2.31,2,1,Delivered,106.85,True,,False,2026-03,Tuesday
+VL2026024871,2026-03-03,16,Noida,Local NCR,Standard,2.15,2,1,Delivered,60.96,False,,False,2026-03,Tuesday
+VL2026024878,2026-03-03,16,Delhi,Local NCR,Standard,2.0,2,1,Delivered,58.16,True,,False,2026-03,Tuesday
+VL2026024885,2026-03-03,16,Delhi,Local NCR,Standard,0.29,2,1,Delivered,29.52,False,,False,2026-03,Tuesday
+VL2026024892,2026-03-03,16,Delhi,Local NCR,Express,1.21,2,1,Delivered,74.27,True,,False,2026-03,Tuesday
+VL2026024899,2026-03-03,17,Delhi,Local NCR,Standard,0.29,2,2,Delivered,30.49,True,,False,2026-03,Tuesday
+VL2026024906,2026-03-03,17,Jaipur,North Zone,Express,2.53,3,2,Delivered,171.44,False,,False,2026-03,Tuesday
+VL2026024913,2026-03-03,17,Noida,Local NCR,Standard,2.71,2,1,Delivered,70.63,False,,False,2026-03,Tuesday
+VL2026024920,2026-03-03,17,Bengaluru,Metro / Rest of India,Standard,0.99,5,4,Delivered,99.82,True,,False,2026-03,Tuesday
+VL2026024927,2026-03-03,17,Ghaziabad,Local NCR,Same Day,0.59,2,1,Delivered,97.61,False,,False,2026-03,Tuesday
+VL2026024934,2026-03-03,17,Noida,Local NCR,Same Day,3.66,2,1,Delivered,208.36,False,,False,2026-03,Tuesday
+VL2026024941,2026-03-03,18,Ghaziabad,Local NCR,Express,2.48,2,1,RTO,114.8,False,,False,2026-03,Tuesday
+VL2026024948,2026-03-03,18,Chennai,Metro / Rest of India,Standard,1.06,5,4,Delivered,101.28,True,,False,2026-03,Tuesday
+VL2026024955,2026-03-03,18,Jaipur,North Zone,Same Day,1.12,3,3,Delivered,189.0,False,,False,2026-03,Tuesday
+VL2026024962,2026-03-03,19,Delhi,Local NCR,Standard,2.76,2,5,Delivered,72.84,False,Wrong / incomplete address,True,2026-03,Tuesday
+VL2026024969,2026-03-03,19,Bengaluru,Metro / Rest of India,Standard,1.51,5,6,Delivered,115.95,False,Weather,True,2026-03,Tuesday
+VL2026024976,2026-03-04,8,Ghaziabad,Local NCR,Express,1.19,2,3,Delivered,80.06,True,Traffic / hub congestion,True,2026-03,Wednesday
+VL2026024983,2026-03-04,8,Lucknow,North Zone,Standard,1.33,3,3,Delivered,76.98,False,,False,2026-03,Wednesday
+VL2026024990,2026-03-04,9,Kolkata,Metro / Rest of India,Standard,2.53,5,5,Delivered,149.3,True,,False,2026-03,Wednesday
+VL2026024997,2026-03-04,9,Pune,Metro / Rest of India,Standard,3.07,5,4,Delivered,167.43,True,,False,2026-03,Wednesday
+VL2026025004,2026-03-04,9,Mumbai,Metro / Rest of India,Surface Cargo,3.58,5,4,Delivered,118.9,False,,False,2026-03,Wednesday
+VL2026025011,2026-03-04,9,Faridabad,Local NCR,Express,4.03,2,1,Delivered,145.0,False,,False,2026-03,Wednesday
+VL2026025018,2026-03-04,9,Ghaziabad,Local NCR,Standard,1.01,2,1,Delivered,46.03,False,,False,2026-03,Wednesday
+VL2026025025,2026-03-04,9,Kolkata,Metro / Rest of India,Express,1.44,5,4,Lost/Damaged,188.66,False,,False,2026-03,Wednesday
+VL2026025032,2026-03-04,9,Ghaziabad,Local NCR,Surface Cargo,0.84,2,1,Delivered,26.92,False,,False,2026-03,Wednesday
+VL2026025039,2026-03-04,10,Ghaziabad,Local NCR,Standard,1.86,2,1,Delivered,58.12,False,,False,2026-03,Wednesday
+VL2026025046,2026-03-04,10,Ghaziabad,Local NCR,Surface Cargo,1.92,2,2,Delivered,39.44,True,,False,2026-03,Wednesday
+VL2026025053,2026-03-04,10,Gurugram,Local NCR,Standard,0.61,2,1,Delivered,41.86,True,,False,2026-03,Wednesday
+VL2026025060,2026-03-04,10,Mumbai,Metro / Rest of India,Standard,3.52,5,6,Delivered,187.08,True,Weather,True,2026-03,Wednesday
+VL2026025067,2026-03-04,10,Gurugram,Local NCR,Standard,0.53,2,1,Delivered,38.11,False,,False,2026-03,Wednesday
+VL2026025074,2026-03-04,10,Jaipur,North Zone,Standard,1.23,3,2,Delivered,73.36,False,,False,2026-03,Wednesday
+VL2026025081,2026-03-04,10,Delhi,Local NCR,Standard,1.35,2,1,Delivered,47.46,True,,False,2026-03,Wednesday
+VL2026025088,2026-03-04,11,Jaipur,North Zone,Standard,4.08,3,2,Delivered,133.88,False,,False,2026-03,Wednesday
+VL2026025095,2026-03-04,11,Noida,Local NCR,Express,0.79,2,3,Delivered,71.27,False,Hub sorting delay,True,2026-03,Wednesday
+VL2026025102,2026-03-04,11,Ghaziabad,Local NCR,Express,0.72,2,1,Delivered,73.83,True,,False,2026-03,Wednesday
+VL2026025109,2026-03-04,11,Chandigarh,North Zone,Standard,1.85,3,2,Delivered,90.11,False,,False,2026-03,Wednesday
+VL2026025116,2026-03-04,11,Chandigarh,North Zone,Standard,0.41,3,3,Delivered,57.47,False,,False,2026-03,Wednesday
+VL2026025123,2026-03-04,11,Mumbai,Metro / Rest of India,Standard,1.87,5,4,Delivered,138.02,False,,False,2026-03,Wednesday
+VL2026025130,2026-03-04,11,Mumbai,Metro / Rest of India,Standard,1.83,5,7,Delivered,139.4,False,Traffic / hub congestion,True,2026-03,Wednesday
+VL2026025137,2026-03-04,11,Delhi,Local NCR,Standard,0.43,2,1,Delivered,36.5,False,,False,2026-03,Wednesday
+VL2026025144,2026-03-04,12,Faridabad,Local NCR,Standard,0.83,2,1,Delivered,44.16,True,,False,2026-03,Wednesday
+VL2026025151,2026-03-04,12,Delhi,Local NCR,Standard,2.48,2,1,Delivered,61.52,False,,False,2026-03,Wednesday
+VL2026025158,2026-03-04,12,Ghaziabad,Local NCR,Standard,2.61,2,1,Delivered,65.71,False,,False,2026-03,Wednesday
+VL2026025165,2026-03-04,12,Chandigarh,North Zone,Same Day,0.47,3,3,Delivered,166.74,False,,False,2026-03,Wednesday
+VL2026025172,2026-03-04,12,Mumbai,Metro / Rest of India,Standard,1.13,5,6,Delivered,103.67,False,Customer unavailable,True,2026-03,Wednesday
+VL2026025179,2026-03-04,12,Lucknow,North Zone,Express,3.04,3,3,Delivered,190.53,False,,False,2026-03,Wednesday
+VL2026025186,2026-03-04,12,Delhi,Local NCR,Same Day,1.04,2,1,Delivered,120.1,False,,False,2026-03,Wednesday
+VL2026025193,2026-03-04,12,Faridabad,Local NCR,Standard,0.98,2,1,Delivered,43.57,False,,False,2026-03,Wednesday
+VL2026025200,2026-03-04,12,Bengaluru,Metro / Rest of India,Standard,1.43,5,5,Delivered,109.6,True,,False,2026-03,Wednesday
+VL2026025207,2026-03-04,12,Faridabad,Local NCR,Surface Cargo,0.87,2,1,Delivered,29.36,False,,False,2026-03,Wednesday
+VL2026025214,2026-03-04,13,Lucknow,North Zone,Express,0.62,3,3,Delivered,113.8,False,,False,2026-03,Wednesday
+VL2026025221,2026-03-04,13,Delhi,Local NCR,Standard,0.72,2,1,Delivered,41.76,False,,False,2026-03,Wednesday
+VL2026025228,2026-03-04,13,Noida,Local NCR,Surface Cargo,2.22,2,3,Delivered,39.06,True,Weather,True,2026-03,Wednesday
+VL2026025235,2026-03-04,13,Hyderabad,Metro / Rest of India,Express,1.53,5,6,Delivered,198.75,False,Traffic / hub congestion,True,2026-03,Wednesday
+VL2026025242,2026-03-04,14,Gurugram,Local NCR,Standard,1.56,2,1,Delivered,45.29,False,,False,2026-03,Wednesday
+VL2026025249,2026-03-04,14,Jaipur,North Zone,Standard,1.55,3,2,Delivered,86.78,False,,False,2026-03,Wednesday
+VL2026025256,2026-03-04,14,Delhi,Local NCR,Same Day,1.34,2,1,Delivered,123.12,True,,False,2026-03,Wednesday
+VL2026025263,2026-03-04,14,Delhi,Local NCR,Express,1.31,2,1,Delivered,79.62,False,,False,2026-03,Wednesday
+VL2026025270,2026-03-04,15,Lucknow,North Zone,Express,1.38,3,3,Delivered,151.34,True,,False,2026-03,Wednesday
+VL2026025277,2026-03-04,15,Kolkata,Metro / Rest of India,Surface Cargo,0.39,5,4,Delivered,49.17,False,,False,2026-03,Wednesday
+VL2026025284,2026-03-04,15,Jaipur,North Zone,Express,1.57,3,3,Delivered,143.7,False,,False,2026-03,Wednesday
+VL2026025291,2026-03-04,15,Chennai,Metro / Rest of India,Express,2.45,5,4,Delivered,224.83,False,,False,2026-03,Wednesday
+VL2026025298,2026-03-04,15,Faridabad,Local NCR,Surface Cargo,2.75,2,1,Delivered,49.59,False,,False,2026-03,Wednesday
+VL2026025305,2026-03-04,15,Jaipur,North Zone,Standard,1.97,3,3,Delivered,96.29,False,,False,2026-03,Wednesday
+VL2026025312,2026-03-04,15,Bengaluru,Metro / Rest of India,Standard,1.14,5,4,Delivered,111.84,False,,False,2026-03,Wednesday
+VL2026025319,2026-03-04,15,Chennai,Metro / Rest of India,Standard,0.73,5,4,Delivered,93.1,True,,False,2026-03,Wednesday
+VL2026025326,2026-03-04,15,Ghaziabad,Local NCR,Standard,1.65,2,1,Delivered,60.2,False,,False,2026-03,Wednesday
+VL2026025333,2026-03-04,16,Mumbai,Metro / Rest of India,Express,1.22,5,8,Delivered,171.52,True,Wrong / incomplete address,True,2026-03,Wednesday
+VL2026025340,2026-03-04,16,Ghaziabad,Local NCR,Express,1.01,2,1,Lost/Damaged,81.33,False,,False,2026-03,Wednesday
+VL2026025347,2026-03-04,16,Noida,Local NCR,Standard,3.25,2,1,Delivered,74.58,True,,False,2026-03,Wednesday
+VL2026025354,2026-03-04,16,Noida,Local NCR,Standard,8.14,2,2,Delivered,144.47,True,,False,2026-03,Wednesday
+VL2026025361,2026-03-04,17,Lucknow,North Zone,Standard,1.3,3,3,Delivered,83.2,False,,False,2026-03,Wednesday
+VL2026025368,2026-03-04,17,Noida,Local NCR,Standard,1.94,2,1,Delivered,58.59,True,,False,2026-03,Wednesday
+VL2026025375,2026-03-04,17,Ghaziabad,Local NCR,Same Day,1.75,2,1,Delivered,126.72,False,,False,2026-03,Wednesday
+VL2026025382,2026-03-04,17,Bengaluru,Metro / Rest of India,Express,1.22,5,4,RTO,160.56,False,,False,2026-03,Wednesday
+VL2026025389,2026-03-04,17,Hyderabad,Metro / Rest of India,Surface Cargo,0.8,5,4,Delivered,57.33,False,,False,2026-03,Wednesday
+VL2026025396,2026-03-04,17,Ghaziabad,Local NCR,Standard,2.6,2,1,Delivered,68.94,False,,False,2026-03,Wednesday
+VL2026025403,2026-03-04,17,Hyderabad,Metro / Rest of India,Standard,0.55,5,4,Delivered,84.84,False,,False,2026-03,Wednesday
+VL2026025410,2026-03-04,17,Hyderabad,Metro / Rest of India,Standard,0.5,5,4,Delivered,84.74,True,,False,2026-03,Wednesday
+VL2026025417,2026-03-04,18,Noida,Local NCR,Surface Cargo,1.97,2,1,Delivered,36.29,True,,False,2026-03,Wednesday
+VL2026025424,2026-03-04,18,Ghaziabad,Local NCR,Standard,0.89,2,1,Delivered,40.97,True,,False,2026-03,Wednesday
+VL2026025431,2026-03-04,19,Delhi,Local NCR,Same Day,1.66,2,3,Delivered,133.16,True,Wrong / incomplete address,True,2026-03,Wednesday
+VL2026025438,2026-03-04,20,Noida,Local NCR,Standard,0.39,2,1,Delivered,33.68,False,,False,2026-03,Wednesday
+VL2026025445,2026-03-04,20,Jaipur,North Zone,Express,0.24,3,3,Delivered,84.58,False,,False,2026-03,Wednesday
+VL2026025452,2026-03-04,20,Kolkata,Metro / Rest of India,Standard,2.06,5,5,Delivered,122.76,True,,False,2026-03,Wednesday
+VL2026025459,2026-03-04,20,Jaipur,North Zone,Standard,1.03,3,3,Delivered,67.19,True,,False,2026-03,Wednesday
+VL2026025466,2026-03-05,8,Bengaluru,Metro / Rest of India,Standard,1.87,5,4,Delivered,111.29,True,,False,2026-03,Thursday
+VL2026025473,2026-03-05,8,Noida,Local NCR,Standard,1.1,2,1,Delivered,48.17,False,,False,2026-03,Thursday
+VL2026025480,2026-03-05,8,Ghaziabad,Local NCR,Surface Cargo,0.2,2,1,Delivered,20.15,False,,False,2026-03,Thursday
+VL2026025487,2026-03-05,9,Ghaziabad,Local NCR,Surface Cargo,0.59,2,1,Delivered,25.06,False,,False,2026-03,Thursday
+VL2026025494,2026-03-05,9,Delhi,Local NCR,Standard,1.47,2,2,Delivered,46.65,False,,False,2026-03,Thursday
+VL2026025501,2026-03-05,9,Hyderabad,Metro / Rest of India,Same Day,0.67,5,4,Lost/Damaged,227.76,True,,False,2026-03,Thursday
+VL2026025508,2026-03-05,9,Bengaluru,Metro / Rest of India,Standard,1.01,5,4,Delivered,94.38,False,,False,2026-03,Thursday
+VL2026025515,2026-03-05,9,Gurugram,Local NCR,Standard,4.07,2,1,Delivered,91.73,True,,False,2026-03,Thursday
+VL2026025522,2026-03-05,9,Lucknow,North Zone,Standard,2.07,3,2,Delivered,89.79,True,,False,2026-03,Thursday
+VL2026025529,2026-03-05,9,Lucknow,North Zone,Surface Cargo,1.32,3,3,Delivered,56.4,False,,False,2026-03,Thursday
+VL2026025536,2026-03-05,10,Faridabad,Local NCR,Standard,2.18,2,1,Delivered,62.78,True,,False,2026-03,Thursday
+VL2026025543,2026-03-05,10,Noida,Local NCR,Standard,1.0,2,3,Delivered,42.73,True,Hub sorting delay,True,2026-03,Thursday
+VL2026025550,2026-03-05,10,Ghaziabad,Local NCR,Express,0.77,2,1,Delivered,64.99,True,,False,2026-03,Thursday
+VL2026025557,2026-03-05,10,Delhi,Local NCR,Standard,1.54,2,1,Delivered,50.46,False,,False,2026-03,Thursday
+VL2026025564,2026-03-05,10,Delhi,Local NCR,Standard,1.27,2,1,Delivered,50.23,False,,False,2026-03,Thursday
+VL2026025571,2026-03-05,10,Chennai,Metro / Rest of India,Same Day,1.81,5,5,Delivered,290.14,True,,False,2026-03,Thursday
+VL2026025578,2026-03-05,10,Gurugram,Local NCR,Surface Cargo,1.45,2,1,Delivered,38.7,False,,False,2026-03,Thursday
+VL2026025585,2026-03-05,10,Chennai,Metro / Rest of India,Same Day,1.22,5,6,Delivered,254.16,True,Customer unavailable,True,2026-03,Thursday
+VL2026025592,2026-03-05,11,Faridabad,Local NCR,Standard,0.23,2,1,RTO,34.06,False,,False,2026-03,Thursday
+VL2026025599,2026-03-05,11,Bengaluru,Metro / Rest of India,Standard,0.38,5,4,Delivered,78.06,True,,False,2026-03,Thursday
+VL2026025606,2026-03-05,11,Gurugram,Local NCR,Standard,0.72,2,1,Delivered,40.31,True,,False,2026-03,Thursday
+VL2026025613,2026-03-05,11,Delhi,Local NCR,Express,2.75,2,1,Delivered,108.48,False,,False,2026-03,Thursday
+VL2026025620,2026-03-05,11,Agra,North Zone,Express,1.71,3,3,RTO,141.48,False,,False,2026-03,Thursday
+VL2026025627,2026-03-05,11,Noida,Local NCR,Surface Cargo,1.78,2,3,Delivered,35.83,True,Traffic / hub congestion,True,2026-03,Thursday
+VL2026025634,2026-03-05,11,Delhi,Local NCR,Standard,0.71,2,3,Delivered,41.99,False,Hub sorting delay,True,2026-03,Thursday
+VL2026025641,2026-03-05,11,Bengaluru,Metro / Rest of India,Express,0.38,5,5,Lost/Damaged,129.92,False,,False,2026-03,Thursday
+VL2026025648,2026-03-05,11,Chennai,Metro / Rest of India,Standard,0.38,5,4,RTO,81.68,True,,False,2026-03,Thursday
+VL2026025655,2026-03-05,11,Mumbai,Metro / Rest of India,Standard,0.91,5,5,Delivered,101.24,False,,False,2026-03,Thursday
+VL2026025662,2026-03-05,11,Delhi,Local NCR,Same Day,0.59,2,1,Delivered,87.27,False,,False,2026-03,Thursday
+VL2026025669,2026-03-05,11,Lucknow,North Zone,Standard,1.55,3,2,Delivered,84.48,False,,False,2026-03,Thursday
+VL2026025676,2026-03-05,11,Gurugram,Local NCR,Surface Cargo,1.0,2,1,Delivered,30.37,False,,False,2026-03,Thursday
+VL2026025683,2026-03-05,11,Lucknow,North Zone,Surface Cargo,0.9,3,4,Delivered,40.6,False,Customer unavailable,True,2026-03,Thursday
+VL2026025690,2026-03-05,12,Hyderabad,Metro / Rest of India,Surface Cargo,0.4,5,4,Delivered,52.88,False,,False,2026-03,Thursday
+VL2026025697,2026-03-05,12,Lucknow,North Zone,Standard,5.07,3,3,Delivered,166.55,True,,False,2026-03,Thursday
+VL2026025704,2026-03-05,12,Faridabad,Local NCR,Surface Cargo,1.29,2,1,Delivered,32.51,False,,False,2026-03,Thursday
+VL2026025711,2026-03-05,12,Mumbai,Metro / Rest of India,Same Day,1.69,5,4,Delivered,329.77,True,,False,2026-03,Thursday
+VL2026025718,2026-03-05,12,Faridabad,Local NCR,Standard,1.46,2,1,Delivered,48.57,False,,False,2026-03,Thursday
+VL2026025725,2026-03-05,12,Noida,Local NCR,Express,3.85,2,1,RTO,127.07,True,,False,2026-03,Thursday
+VL2026025732,2026-03-05,13,Noida,Local NCR,Standard,4.33,2,1,Delivered,100.48,False,,False,2026-03,Thursday
+VL2026025739,2026-03-05,13,Noida,Local NCR,Same Day,1.45,2,1,Delivered,123.81,True,,False,2026-03,Thursday
+VL2026025746,2026-03-05,13,Ghaziabad,Local NCR,Standard,0.77,2,1,Delivered,43.26,False,,False,2026-03,Thursday
+VL2026025753,2026-03-05,13,Delhi,Local NCR,Same Day,1.11,2,1,Delivered,113.0,True,,False,2026-03,Thursday
+VL2026025760,2026-03-05,14,Gurugram,Local NCR,Surface Cargo,2.01,2,1,Delivered,39.15,False,,False,2026-03,Thursday
+VL2026025767,2026-03-05,14,Chennai,Metro / Rest of India,Express,1.72,5,4,RTO,194.31,False,,False,2026-03,Thursday
+VL2026025774,2026-03-05,14,Delhi,Local NCR,Express,1.0,2,2,Delivered,75.66,True,,False,2026-03,Thursday
+VL2026025781,2026-03-05,14,Chennai,Metro / Rest of India,Surface Cargo,6.54,5,7,Delivered,164.74,False,Customer unavailable,True,2026-03,Thursday
+VL2026025788,2026-03-05,15,Jaipur,North Zone,Standard,1.71,3,2,Delivered,87.84,False,,False,2026-03,Thursday
+VL2026025795,2026-03-05,15,Lucknow,North Zone,Standard,1.27,3,2,Delivered,77.75,False,,False,2026-03,Thursday
+VL2026025802,2026-03-05,15,Jaipur,North Zone,Standard,0.81,3,5,Delivered,67.29,False,Wrong / incomplete address,True,2026-03,Thursday
+VL2026025809,2026-03-05,15,Delhi,Local NCR,Express,1.56,2,1,Delivered,80.62,False,,False,2026-03,Thursday
+VL2026025816,2026-03-05,15,Chandigarh,North Zone,Standard,4.84,3,2,Delivered,140.12,False,,False,2026-03,Thursday
+VL2026025823,2026-03-05,15,Delhi,Local NCR,Express,0.72,2,1,Delivered,70.81,False,,False,2026-03,Thursday
+VL2026025830,2026-03-05,15,Chandigarh,North Zone,Surface Cargo,2.19,3,3,Delivered,66.02,False,,False,2026-03,Thursday
+VL2026025837,2026-03-05,15,Kolkata,Metro / Rest of India,Standard,1.16,5,6,Delivered,101.66,True,Traffic / hub congestion,True,2026-03,Thursday
+VL2026025844,2026-03-05,15,Delhi,Local NCR,Express,10.9,2,2,Delivered,303.78,True,,False,2026-03,Thursday
+VL2026025851,2026-03-05,15,Bengaluru,Metro / Rest of India,Surface Cargo,1.74,5,6,Delivered,77.9,True,Weather,True,2026-03,Thursday
+VL2026025858,2026-03-05,15,Lucknow,North Zone,Standard,3.04,3,3,Delivered,124.46,False,,False,2026-03,Thursday
+VL2026025865,2026-03-05,16,Jaipur,North Zone,Surface Cargo,0.81,3,3,Delivered,44.1,True,,False,2026-03,Thursday
+VL2026025872,2026-03-05,16,Mumbai,Metro / Rest of India,Standard,1.51,5,4,Delivered,118.43,False,,False,2026-03,Thursday
+VL2026025879,2026-03-05,16,Mumbai,Metro / Rest of India,Surface Cargo,3.25,5,4,Delivered,103.15,False,,False,2026-03,Thursday
+VL2026025886,2026-03-05,16,Ghaziabad,Local NCR,Standard,1.46,2,1,Delivered,51.61,False,,False,2026-03,Thursday
+VL2026025893,2026-03-05,16,Ghaziabad,Local NCR,Standard,5.57,2,1,Delivered,115.16,False,,False,2026-03,Thursday
+VL2026025900,2026-03-05,17,Bengaluru,Metro / Rest of India,Surface Cargo,4.94,5,7,Delivered,150.87,True,Vehicle breakdown,True,2026-03,Thursday
+VL2026025907,2026-03-05,17,Pune,Metro / Rest of India,Same Day,1.04,5,5,Delivered,266.54,False,,False,2026-03,Thursday
+VL2026025914,2026-03-05,17,Lucknow,North Zone,Standard,1.13,3,3,Delivered,74.93,False,,False,2026-03,Thursday
+VL2026025921,2026-03-05,17,Delhi,Local NCR,Standard,2.73,2,1,Delivered,69.18,True,,False,2026-03,Thursday
+VL2026025928,2026-03-05,18,Delhi,Local NCR,Standard,0.33,2,1,Delivered,37.57,True,,False,2026-03,Thursday
+VL2026025935,2026-03-05,18,Dehradun,North Zone,Express,1.91,3,2,Delivered,155.89,False,,False,2026-03,Thursday
+VL2026025942,2026-03-05,18,Jaipur,North Zone,Standard,1.46,3,3,Delivered,90.46,True,,False,2026-03,Thursday
+VL2026025949,2026-03-05,19,Jaipur,North Zone,Standard,0.59,3,3,Delivered,65.01,False,,False,2026-03,Thursday
+VL2026025956,2026-03-06,8,Mumbai,Metro / Rest of India,Standard,1.04,5,5,Delivered,108.89,False,,False,2026-03,Friday
+VL2026025963,2026-03-06,9,Noida,Local NCR,Standard,2.0,2,1,Delivered,56.81,False,,False,2026-03,Friday
+VL2026025970,2026-03-06,9,Gurugram,Local NCR,Standard,2.95,2,1,Delivered,69.05,True,,False,2026-03,Friday
+VL2026025977,2026-03-06,9,Gurugram,Local NCR,Standard,1.09,2,1,Delivered,44.88,True,,False,2026-03,Friday
+VL2026025984,2026-03-06,10,Faridabad,Local NCR,Standard,0.79,2,1,Delivered,45.71,True,,False,2026-03,Friday
+VL2026025991,2026-03-06,10,Mumbai,Metro / Rest of India,Same Day,1.25,5,4,Delivered,254.47,False,,False,2026-03,Friday
+VL2026025998,2026-03-06,10,Delhi,Local NCR,Express,0.38,2,3,Delivered,61.07,True,Customer unavailable,True,2026-03,Friday
+VL2026026005,2026-03-06,10,Mumbai,Metro / Rest of India,Surface Cargo,0.97,5,4,Delivered,62.22,False,,False,2026-03,Friday
+VL2026026012,2026-03-06,10,Noida,Local NCR,Standard,4.36,2,1,Delivered,93.46,True,,False,2026-03,Friday
+VL2026026019,2026-03-06,10,Mumbai,Metro / Rest of India,Express,2.58,5,6,Delivered,229.46,True,Customer unavailable,True,2026-03,Friday
+VL2026026026,2026-03-06,10,Gurugram,Local NCR,Standard,1.51,2,1,Delivered,53.15,False,,False,2026-03,Friday
+VL2026026033,2026-03-06,10,Dehradun,North Zone,Express,4.18,3,3,Delivered,236.52,False,,False,2026-03,Friday
+VL2026026040,2026-03-06,11,Mumbai,Metro / Rest of India,Standard,1.56,5,4,Delivered,122.14,True,,False,2026-03,Friday
+VL2026026047,2026-03-06,11,Bengaluru,Metro / Rest of India,Standard,0.78,5,4,Delivered,92.51,False,,False,2026-03,Friday
+VL2026026054,2026-03-06,11,Ghaziabad,Local NCR,Express,2.62,2,1,Delivered,105.78,False,,False,2026-03,Friday
+VL2026026061,2026-03-06,11,Bengaluru,Metro / Rest of India,Express,2.53,5,7,Delivered,255.2,True,Customer unavailable,True,2026-03,Friday
+VL2026026068,2026-03-06,12,Dehradun,North Zone,Express,0.95,3,2,Delivered,110.75,False,,False,2026-03,Friday
+VL2026026075,2026-03-06,12,Delhi,Local NCR,Standard,0.55,2,1,Delivered,39.2,False,,False,2026-03,Friday
+VL2026026082,2026-03-06,12,Noida,Local NCR,Surface Cargo,1.02,2,1,Delivered,31.31,True,,False,2026-03,Friday
+VL2026026089,2026-03-06,12,Jaipur,North Zone,Standard,1.61,3,2,Delivered,85.93,False,,False,2026-03,Friday
+VL2026026096,2026-03-06,12,Ghaziabad,Local NCR,Standard,0.6,2,1,Delivered,38.34,False,,False,2026-03,Friday
+VL2026026103,2026-03-06,12,Ghaziabad,Local NCR,Standard,1.34,2,3,Delivered,47.28,False,Wrong / incomplete address,True,2026-03,Friday
+VL2026026110,2026-03-06,12,Hyderabad,Metro / Rest of India,Standard,5.54,5,7,Delivered,237.02,False,Customer unavailable,True,2026-03,Friday
+VL2026026117,2026-03-06,13,Hyderabad,Metro / Rest of India,Standard,2.31,5,4,Delivered,147.33,False,,False,2026-03,Friday
+VL2026026124,2026-03-06,13,Delhi,Local NCR,Standard,2.57,2,1,Delivered,62.58,True,,False,2026-03,Friday
+VL2026026131,2026-03-06,13,Hyderabad,Metro / Rest of India,Express,1.83,5,5,Delivered,215.7,True,,False,2026-03,Friday
+VL2026026138,2026-03-06,13,Gurugram,Local NCR,Standard,1.43,2,1,Delivered,51.19,True,,False,2026-03,Friday
+VL2026026145,2026-03-06,13,Ghaziabad,Local NCR,Express,2.1,2,1,Delivered,96.43,False,,False,2026-03,Friday
+VL2026026152,2026-03-06,14,Gurugram,Local NCR,Express,0.88,2,1,Delivered,67.92,True,,False,2026-03,Friday
+VL2026026159,2026-03-06,14,Jaipur,North Zone,Same Day,0.42,3,2,Delivered,155.0,False,,False,2026-03,Friday
+VL2026026166,2026-03-06,14,Delhi,Local NCR,Express,1.04,2,1,Delivered,68.29,True,,False,2026-03,Friday
+VL2026026173,2026-03-06,14,Ghaziabad,Local NCR,Express,1.48,2,1,Delivered,81.88,False,,False,2026-03,Friday
+VL2026026180,2026-03-06,14,Faridabad,Local NCR,Standard,1.73,2,1,Delivered,60.75,False,,False,2026-03,Friday
+VL2026026187,2026-03-06,15,Mumbai,Metro / Rest of India,Express,1.46,5,5,Delivered,200.46,True,,False,2026-03,Friday
+VL2026026194,2026-03-06,15,Pune,Metro / Rest of India,Standard,1.55,5,4,Delivered,121.57,False,,False,2026-03,Friday
+VL2026026201,2026-03-06,15,Gurugram,Local NCR,Standard,4.23,2,1,Delivered,96.02,True,,False,2026-03,Friday
+VL2026026208,2026-03-06,15,Delhi,Local NCR,Standard,3.93,2,2,Delivered,92.19,False,,False,2026-03,Friday
+VL2026026215,2026-03-06,15,Lucknow,North Zone,Express,2.71,3,3,Delivered,191.77,False,,False,2026-03,Friday
+VL2026026222,2026-03-06,15,Jaipur,North Zone,Express,10.45,3,2,Delivered,510.92,False,,False,2026-03,Friday
+VL2026026229,2026-03-06,15,Ghaziabad,Local NCR,Same Day,7.48,2,1,Delivered,340.42,False,,False,2026-03,Friday
+VL2026026236,2026-03-06,15,Noida,Local NCR,Surface Cargo,0.73,2,2,Delivered,26.45,False,,False,2026-03,Friday
+VL2026026243,2026-03-06,15,Chennai,Metro / Rest of India,Standard,1.23,5,4,Delivered,114.46,False,,False,2026-03,Friday
+VL2026026250,2026-03-06,16,Bengaluru,Metro / Rest of India,Standard,6.26,5,4,Delivered,271.13,True,,False,2026-03,Friday
+VL2026026257,2026-03-06,16,Hyderabad,Metro / Rest of India,Same Day,1.35,5,4,Delivered,269.3,False,,False,2026-03,Friday
+VL2026026264,2026-03-06,16,Agra,North Zone,Same Day,1.06,3,3,Delivered,179.96,False,,False,2026-03,Friday
+VL2026026271,2026-03-06,16,Gurugram,Local NCR,Express,0.76,2,1,Delivered,56.84,False,,False,2026-03,Friday
+VL2026026278,2026-03-06,16,Ghaziabad,Local NCR,Surface Cargo,0.97,2,1,Delivered,27.39,True,,False,2026-03,Friday
+VL2026026285,2026-03-06,16,Ghaziabad,Local NCR,Surface Cargo,3.78,2,1,Delivered,59.6,True,,False,2026-03,Friday
+VL2026026292,2026-03-06,16,Gurugram,Local NCR,Standard,2.8,2,2,Delivered,70.61,True,,False,2026-03,Friday
+VL2026026299,2026-03-06,17,Hyderabad,Metro / Rest of India,Standard,0.7,5,4,RTO,89.64,False,,False,2026-03,Friday
+VL2026026306,2026-03-06,17,Dehradun,North Zone,Same Day,0.28,3,3,Delivered,145.02,False,,False,2026-03,Friday
+VL2026026313,2026-03-06,17,Chennai,Metro / Rest of India,Standard,0.41,5,4,Delivered,85.99,False,,False,2026-03,Friday
+VL2026026320,2026-03-06,17,Jaipur,North Zone,Surface Cargo,0.78,3,3,RTO,41.68,True,,False,2026-03,Friday
+VL2026026327,2026-03-06,17,Lucknow,North Zone,Standard,1.66,3,2,Delivered,81.77,True,,False,2026-03,Friday
+VL2026026334,2026-03-06,17,Lucknow,North Zone,Express,0.55,3,3,Delivered,99.48,False,,False,2026-03,Friday
+VL2026026341,2026-03-06,18,Lucknow,North Zone,Express,0.32,3,2,Delivered,91.29,False,,False,2026-03,Friday
+VL2026026348,2026-03-06,18,Delhi,Local NCR,Standard,12.02,2,1,Delivered,191.82,False,,False,2026-03,Friday
+VL2026026355,2026-03-06,18,Chandigarh,North Zone,Surface Cargo,0.97,3,2,Delivered,47.78,False,,False,2026-03,Friday
+VL2026026362,2026-03-06,19,Hyderabad,Metro / Rest of India,Express,1.41,5,6,Delivered,186.73,False,Wrong / incomplete address,True,2026-03,Friday
+VL2026026369,2026-03-06,20,Hyderabad,Metro / Rest of India,Express,1.29,5,4,Delivered,187.44,True,,False,2026-03,Friday
+VL2026026376,2026-03-07,8,Jaipur,North Zone,Standard,5.51,3,3,Delivered,170.58,True,,False,2026-03,Saturday
+VL2026026383,2026-03-07,8,Mumbai,Metro / Rest of India,Standard,0.84,5,6,Delivered,101.71,False,Wrong / incomplete address,True,2026-03,Saturday
+VL2026026390,2026-03-07,9,Delhi,Local NCR,Same Day,0.86,2,1,Delivered,107.95,False,,False,2026-03,Saturday
+VL2026026397,2026-03-07,9,Chandigarh,North Zone,Same Day,0.99,3,3,Delivered,184.54,False,,False,2026-03,Saturday
+VL2026026404,2026-03-07,9,Noida,Local NCR,Surface Cargo,0.44,2,1,Delivered,21.37,False,,False,2026-03,Saturday
+VL2026026411,2026-03-07,9,Noida,Local NCR,Standard,1.4,2,1,Delivered,51.71,False,,False,2026-03,Saturday
+VL2026026418,2026-03-07,10,Faridabad,Local NCR,Surface Cargo,2.29,2,1,Delivered,43.86,False,,False,2026-03,Saturday
+VL2026026425,2026-03-07,10,Jaipur,North Zone,Express,3.7,3,2,Delivered,184.19,True,,False,2026-03,Saturday
+VL2026026432,2026-03-07,10,Gurugram,Local NCR,Standard,1.13,2,1,Delivered,51.0,False,,False,2026-03,Saturday
+VL2026026439,2026-03-07,10,Noida,Local NCR,Standard,0.41,2,1,Delivered,37.79,True,,False,2026-03,Saturday
+VL2026026446,2026-03-07,10,Delhi,Local NCR,Standard,1.22,2,1,Delivered,49.39,False,,False,2026-03,Saturday
+VL2026026453,2026-03-07,10,Ghaziabad,Local NCR,Express,2.62,2,1,Delivered,102.36,True,,False,2026-03,Saturday
+VL2026026460,2026-03-07,11,Kolkata,Metro / Rest of India,Express,0.74,5,4,Delivered,154.84,False,,False,2026-03,Saturday
+VL2026026467,2026-03-07,11,Noida,Local NCR,Standard,0.39,2,1,Delivered,34.4,True,,False,2026-03,Saturday
+VL2026026474,2026-03-07,11,Mumbai,Metro / Rest of India,Standard,0.54,5,5,Delivered,80.73,False,,False,2026-03,Saturday
+VL2026026481,2026-03-07,11,Mumbai,Metro / Rest of India,Surface Cargo,1.36,5,4,Delivered,74.7,False,,False,2026-03,Saturday
+VL2026026488,2026-03-07,11,Delhi,Local NCR,Surface Cargo,0.47,2,1,RTO,25.3,False,,False,2026-03,Saturday
+VL2026026495,2026-03-07,11,Noida,Local NCR,Same Day,3.34,2,1,Delivered,174.67,False,,False,2026-03,Saturday
+VL2026026502,2026-03-07,11,Noida,Local NCR,Standard,1.01,2,1,Delivered,47.17,False,,False,2026-03,Saturday
+VL2026026509,2026-03-07,11,Gurugram,Local NCR,Standard,2.45,2,1,Delivered,73.8,True,,False,2026-03,Saturday
+VL2026026516,2026-03-07,11,Hyderabad,Metro / Rest of India,Express,0.94,5,4,Delivered,162.51,False,,False,2026-03,Saturday
+VL2026026523,2026-03-07,12,Delhi,Local NCR,Surface Cargo,4.2,2,1,Delivered,54.36,False,,False,2026-03,Saturday
+VL2026026530,2026-03-07,12,Delhi,Local NCR,Standard,0.53,2,1,Delivered,41.72,True,,False,2026-03,Saturday
+VL2026026537,2026-03-07,12,Ghaziabad,Local NCR,Standard,0.19,2,1,Delivered,33.28,True,,False,2026-03,Saturday
+VL2026026544,2026-03-07,12,Delhi,Local NCR,Surface Cargo,1.13,2,1,Delivered,29.41,False,,False,2026-03,Saturday
+VL2026026551,2026-03-07,12,Dehradun,North Zone,Standard,0.11,3,2,RTO,55.42,False,,False,2026-03,Saturday
+VL2026026558,2026-03-07,12,Bengaluru,Metro / Rest of India,Express,2.99,5,4,Delivered,261.28,False,,False,2026-03,Saturday
+VL2026026565,2026-03-07,12,Dehradun,North Zone,Standard,1.35,3,5,Delivered,77.97,True,Customer unavailable,True,2026-03,Saturday
+VL2026026572,2026-03-07,12,Mumbai,Metro / Rest of India,Same Day,0.5,5,5,Delivered,213.49,True,,False,2026-03,Saturday
+VL2026026579,2026-03-07,12,Faridabad,Local NCR,Surface Cargo,0.73,2,1,Delivered,25.69,False,,False,2026-03,Saturday
+VL2026026586,2026-03-07,12,Ghaziabad,Local NCR,Express,1.5,2,1,Delivered,87.67,True,,False,2026-03,Saturday
+VL2026026593,2026-03-07,12,Mumbai,Metro / Rest of India,Surface Cargo,3.1,5,4,Delivered,103.14,True,,False,2026-03,Saturday
+VL2026026600,2026-03-07,12,Delhi,Local NCR,Standard,2.88,2,1,Delivered,71.48,False,,False,2026-03,Saturday
+VL2026026607,2026-03-07,12,Mumbai,Metro / Rest of India,Standard,3.21,5,4,Lost/Damaged,172.56,True,,False,2026-03,Saturday
+VL2026026614,2026-03-07,12,Delhi,Local NCR,Surface Cargo,1.88,2,1,Delivered,34.6,False,,False,2026-03,Saturday
+VL2026026621,2026-03-07,12,Ghaziabad,Local NCR,Standard,0.56,2,1,Delivered,36.37,True,,False,2026-03,Saturday
+VL2026026628,2026-03-07,13,Ghaziabad,Local NCR,Express,0.95,2,2,Delivered,73.03,False,,False,2026-03,Saturday
+VL2026026635,2026-03-07,13,Noida,Local NCR,Same Day,0.59,2,2,Delivered,101.06,True,,False,2026-03,Saturday
+VL2026026642,2026-03-07,13,Jaipur,North Zone,Standard,1.34,3,2,Delivered,86.12,False,,False,2026-03,Saturday
+VL2026026649,2026-03-07,13,Gurugram,Local NCR,Standard,0.58,2,1,Delivered,38.63,True,,False,2026-03,Saturday
+VL2026026656,2026-03-07,13,Delhi,Local NCR,Standard,0.65,2,1,Delivered,38.04,False,,False,2026-03,Saturday
+VL2026026663,2026-03-07,13,Ghaziabad,Local NCR,Express,0.41,2,1,Delivered,57.81,False,,False,2026-03,Saturday
+VL2026026670,2026-03-07,13,Lucknow,North Zone,Standard,1.84,3,3,Delivered,84.83,False,,False,2026-03,Saturday
+VL2026026677,2026-03-07,13,Ghaziabad,Local NCR,Same Day,1.12,2,1,Delivered,130.49,True,,False,2026-03,Saturday
+VL2026026684,2026-03-07,13,Delhi,Local NCR,Standard,0.53,2,1,Delivered,39.73,True,,False,2026-03,Saturday
+VL2026026691,2026-03-07,13,Chandigarh,North Zone,Standard,1.16,3,2,Delivered,74.42,False,,False,2026-03,Saturday
+VL2026026698,2026-03-07,13,Mumbai,Metro / Rest of India,Standard,2.12,5,4,Delivered,149.31,False,,False,2026-03,Saturday
+VL2026026705,2026-03-07,13,Hyderabad,Metro / Rest of India,Express,1.22,5,5,Delivered,165.62,False,,False,2026-03,Saturday
+VL2026026712,2026-03-07,13,Hyderabad,Metro / Rest of India,Standard,0.91,5,5,RTO,92.44,False,,False,2026-03,Saturday
+VL2026026719,2026-03-07,13,Chennai,Metro / Rest of India,Standard,2.08,5,4,Delivered,125.01,False,,False,2026-03,Saturday
+VL2026026726,2026-03-07,14,Delhi,Local NCR,Express,0.54,2,1,Delivered,62.51,False,,False,2026-03,Saturday
+VL2026026733,2026-03-07,14,Mumbai,Metro / Rest of India,Standard,3.86,5,5,Delivered,177.68,True,,False,2026-03,Saturday
+VL2026026740,2026-03-07,14,Ghaziabad,Local NCR,Express,2.07,2,1,Delivered,93.79,True,,False,2026-03,Saturday
+VL2026026747,2026-03-07,14,Gurugram,Local NCR,Standard,0.9,2,1,Delivered,43.08,False,,False,2026-03,Saturday
+VL2026026754,2026-03-07,14,Delhi,Local NCR,Standard,2.17,2,1,Delivered,61.08,False,,False,2026-03,Saturday
+VL2026026761,2026-03-07,14,Hyderabad,Metro / Rest of India,Standard,3.14,5,4,Delivered,170.73,False,,False,2026-03,Saturday
+VL2026026768,2026-03-07,14,Gurugram,Local NCR,Standard,2.78,2,1,Delivered,64.55,False,,False,2026-03,Saturday
+VL2026026775,2026-03-07,14,Chandigarh,North Zone,Standard,1.32,3,3,Delivered,83.96,False,,False,2026-03,Saturday
+VL2026026782,2026-03-07,14,Delhi,Local NCR,Standard,1.66,2,1,Delivered,50.54,True,,False,2026-03,Saturday
+VL2026026789,2026-03-07,14,Noida,Local NCR,Standard,5.81,2,4,Delivered,123.31,False,Weather,True,2026-03,Saturday
+VL2026026796,2026-03-07,14,Delhi,Local NCR,Standard,2.37,2,1,Delivered,65.8,False,,False,2026-03,Saturday
+VL2026026803,2026-03-07,14,Ghaziabad,Local NCR,Express,1.53,2,1,Delivered,96.77,True,,False,2026-03,Saturday
+VL2026026810,2026-03-07,14,Kolkata,Metro / Rest of India,Express,1.55,5,5,Delivered,209.49,True,,False,2026-03,Saturday
+VL2026026817,2026-03-07,15,Delhi,Local NCR,Standard,2.2,2,3,Delivered,61.44,True,Hub sorting delay,True,2026-03,Saturday
+VL2026026824,2026-03-07,15,Gurugram,Local NCR,Standard,0.69,2,1,Delivered,40.96,True,,False,2026-03,Saturday
+VL2026026831,2026-03-07,15,Hyderabad,Metro / Rest of India,Same Day,3.68,5,4,Delivered,467.29,False,,False,2026-03,Saturday
+VL2026026838,2026-03-07,15,Bengaluru,Metro / Rest of India,Same Day,1.1,5,5,Delivered,261.07,False,,False,2026-03,Saturday
+VL2026026845,2026-03-07,15,Chennai,Metro / Rest of India,Same Day,1.92,5,4,Delivered,322.94,True,,False,2026-03,Saturday
+VL2026026852,2026-03-07,15,Delhi,Local NCR,Standard,2.13,2,1,Delivered,59.82,False,,False,2026-03,Saturday
+VL2026026859,2026-03-07,15,Bengaluru,Metro / Rest of India,Standard,3.8,5,5,Delivered,200.49,False,,False,2026-03,Saturday
+VL2026026866,2026-03-07,16,Mumbai,Metro / Rest of India,Standard,4.22,5,4,Delivered,204.91,False,,False,2026-03,Saturday
+VL2026026873,2026-03-07,16,Chandigarh,North Zone,Surface Cargo,2.45,3,2,Delivered,69.54,True,,False,2026-03,Saturday
+VL2026026880,2026-03-07,16,Bengaluru,Metro / Rest of India,Standard,3.46,5,4,Delivered,178.61,False,,False,2026-03,Saturday
+VL2026026887,2026-03-07,16,Hyderabad,Metro / Rest of India,Standard,0.71,5,4,Delivered,83.39,False,,False,2026-03,Saturday
+VL2026026894,2026-03-07,16,Delhi,Local NCR,Express,0.52,2,1,Delivered,61.08,True,,False,2026-03,Saturday
+VL2026026901,2026-03-07,16,Delhi,Local NCR,Standard,0.71,2,1,Delivered,43.53,True,,False,2026-03,Saturday
+VL2026026908,2026-03-07,16,Lucknow,North Zone,Standard,2.8,3,3,Delivered,107.68,False,,False,2026-03,Saturday
+VL2026026915,2026-03-07,16,Bengaluru,Metro / Rest of India,Standard,0.52,5,4,Delivered,84.85,False,,False,2026-03,Saturday
+VL2026026922,2026-03-07,17,Hyderabad,Metro / Rest of India,Same Day,2.26,5,4,Delivered,308.88,False,,False,2026-03,Saturday
+VL2026026929,2026-03-07,17,Bengaluru,Metro / Rest of India,Same Day,5.15,5,4,Delivered,573.24,True,,False,2026-03,Saturday
+VL2026026936,2026-03-07,17,Gurugram,Local NCR,Standard,1.07,2,1,Delivered,48.27,False,,False,2026-03,Saturday
+VL2026026943,2026-03-07,17,Gurugram,Local NCR,Standard,1.1,2,1,Delivered,46.29,False,,False,2026-03,Saturday
+VL2026026950,2026-03-07,17,Jaipur,North Zone,Standard,1.71,3,3,Delivered,95.0,False,,False,2026-03,Saturday
+VL2026026957,2026-03-07,17,Ghaziabad,Local NCR,Same Day,5.46,2,1,Delivered,269.64,False,,False,2026-03,Saturday
+VL2026026964,2026-03-07,17,Gurugram,Local NCR,Standard,0.83,2,1,Delivered,38.61,False,,False,2026-03,Saturday
+VL2026026971,2026-03-07,17,Mumbai,Metro / Rest of India,Standard,1.75,5,4,Delivered,122.17,False,,False,2026-03,Saturday
+VL2026026978,2026-03-07,17,Ghaziabad,Local NCR,Standard,0.68,2,1,Delivered,40.33,False,,False,2026-03,Saturday
+VL2026026985,2026-03-07,17,Pune,Metro / Rest of India,Standard,0.59,5,4,Delivered,84.17,True,,False,2026-03,Saturday
+VL2026026992,2026-03-07,17,Chandigarh,North Zone,Surface Cargo,0.96,3,3,Delivered,49.83,False,,False,2026-03,Saturday
+VL2026026999,2026-03-07,18,Jaipur,North Zone,Standard,3.46,3,2,Lost/Damaged,134.05,False,,False,2026-03,Saturday
+VL2026027006,2026-03-07,18,Gurugram,Local NCR,Standard,0.69,2,1,Delivered,39.54,True,,False,2026-03,Saturday
+VL2026027013,2026-03-07,19,Mumbai,Metro / Rest of India,Express,2.35,5,6,Delivered,240.61,False,Weather,True,2026-03,Saturday
+VL2026027020,2026-03-07,19,Lucknow,North Zone,Same Day,0.63,3,3,Delivered,166.07,False,,False,2026-03,Saturday
+VL2026027027,2026-03-07,21,Bengaluru,Metro / Rest of India,Standard,7.98,5,5,Delivered,276.77,False,,False,2026-03,Saturday
+VL2026027034,2026-03-07,21,Delhi,Local NCR,Standard,2.77,2,1,Delivered,68.03,False,,False,2026-03,Saturday
+VL2026027041,2026-03-08,8,Mumbai,Metro / Rest of India,Standard,1.07,5,5,Delivered,103.84,True,,False,2026-03,Sunday
+VL2026027048,2026-03-08,8,Ghaziabad,Local NCR,Standard,0.95,2,1,Delivered,43.13,True,,False,2026-03,Sunday
+VL2026027055,2026-03-08,9,Delhi,Local NCR,Express,3.02,2,1,Delivered,117.38,True,,False,2026-03,Sunday
+VL2026027062,2026-03-08,9,Chandigarh,North Zone,Express,1.42,3,2,Delivered,136.71,False,,False,2026-03,Sunday
+VL2026027069,2026-03-08,9,Chandigarh,North Zone,Express,1.66,3,3,RTO,151.49,False,,False,2026-03,Sunday
+VL2026027076,2026-03-08,9,Faridabad,Local NCR,Express,0.74,2,1,Delivered,72.05,False,,False,2026-03,Sunday
+VL2026027083,2026-03-08,10,Delhi,Local NCR,Standard,4.68,2,1,Delivered,89.05,False,,False,2026-03,Sunday
+VL2026027090,2026-03-08,10,Chandigarh,North Zone,Same Day,3.55,3,3,Delivered,350.25,True,,False,2026-03,Sunday
+VL2026027097,2026-03-08,10,Chennai,Metro / Rest of India,Standard,2.88,5,5,Delivered,147.59,True,,False,2026-03,Sunday
+VL2026027104,2026-03-08,10,Jaipur,North Zone,Surface Cargo,0.76,3,3,Delivered,45.71,True,,False,2026-03,Sunday
+VL2026027111,2026-03-08,10,Pune,Metro / Rest of India,Surface Cargo,1.08,5,5,Delivered,68.24,True,,False,2026-03,Sunday
+VL2026027118,2026-03-08,11,Gurugram,Local NCR,Standard,1.87,2,1,Delivered,58.68,True,,False,2026-03,Sunday
+VL2026027125,2026-03-08,11,Chennai,Metro / Rest of India,Standard,1.44,5,6,Delivered,109.45,False,Hub sorting delay,True,2026-03,Sunday
+VL2026027132,2026-03-08,11,Dehradun,North Zone,Express,1.93,3,3,Delivered,160.41,False,,False,2026-03,Sunday
+VL2026027139,2026-03-08,11,Gurugram,Local NCR,Standard,0.97,2,1,Delivered,41.07,False,,False,2026-03,Sunday
+VL2026027146,2026-03-08,12,Bengaluru,Metro / Rest of India,Standard,0.41,5,6,Delivered,87.72,True,Wrong / incomplete address,True,2026-03,Sunday
+VL2026027153,2026-03-08,12,Delhi,Local NCR,Standard,3.03,2,2,Lost/Damaged,74.6,False,,False,2026-03,Sunday
+VL2026027160,2026-03-08,12,Gurugram,Local NCR,Standard,1.08,2,1,Delivered,47.89,True,,False,2026-03,Sunday
+VL2026027167,2026-03-08,12,Delhi,Local NCR,Express,2.71,2,1,Delivered,116.47,False,,False,2026-03,Sunday
+VL2026027174,2026-03-08,12,Ghaziabad,Local NCR,Same Day,0.36,2,1,Delivered,84.5,True,,False,2026-03,Sunday
+VL2026027181,2026-03-08,12,Delhi,Local NCR,Same Day,3.76,2,5,Delivered,217.01,False,Hub sorting delay,True,2026-03,Sunday
+VL2026027188,2026-03-08,12,Pune,Metro / Rest of India,Standard,4.25,5,5,Lost/Damaged,201.38,True,,False,2026-03,Sunday
+VL2026027195,2026-03-08,12,Kolkata,Metro / Rest of India,Standard,2.62,5,5,Delivered,157.85,False,,False,2026-03,Sunday
+VL2026027202,2026-03-08,13,Bengaluru,Metro / Rest of India,Standard,0.57,5,4,Delivered,92.02,False,,False,2026-03,Sunday
+VL2026027209,2026-03-08,13,Gurugram,Local NCR,Express,0.46,2,1,Delivered,58.67,False,,False,2026-03,Sunday
+VL2026027216,2026-03-08,13,Noida,Local NCR,Standard,0.68,2,1,Delivered,35.39,False,,False,2026-03,Sunday
+VL2026027223,2026-03-08,13,Delhi,Local NCR,Standard,3.75,2,1,Delivered,83.97,True,,False,2026-03,Sunday
+VL2026027230,2026-03-08,13,Gurugram,Local NCR,Express,0.65,2,1,Delivered,61.03,False,,False,2026-03,Sunday
+VL2026027237,2026-03-08,13,Chennai,Metro / Rest of India,Express,2.5,5,8,Delivered,241.53,True,Wrong / incomplete address,True,2026-03,Sunday
+VL2026027244,2026-03-08,14,Bengaluru,Metro / Rest of India,Express,8.23,5,5,Delivered,565.71,True,,False,2026-03,Sunday
+VL2026027251,2026-03-08,14,Hyderabad,Metro / Rest of India,Same Day,0.43,5,4,Delivered,223.84,True,,False,2026-03,Sunday
+VL2026027258,2026-03-08,14,Lucknow,North Zone,Standard,0.51,3,2,Delivered,62.98,True,,False,2026-03,Sunday
+VL2026027265,2026-03-08,14,Chandigarh,North Zone,Standard,0.99,3,2,Delivered,72.24,False,,False,2026-03,Sunday
+VL2026027272,2026-03-08,14,Chandigarh,North Zone,Standard,2.2,3,2,Delivered,93.78,False,,False,2026-03,Sunday
+VL2026027279,2026-03-08,14,Hyderabad,Metro / Rest of India,Surface Cargo,0.79,5,4,Delivered,59.0,False,,False,2026-03,Sunday
+VL2026027286,2026-03-08,15,Lucknow,North Zone,Standard,0.63,3,2,Delivered,64.35,True,,False,2026-03,Sunday
+VL2026027293,2026-03-08,16,Pune,Metro / Rest of India,Standard,1.23,5,4,Delivered,95.65,True,,False,2026-03,Sunday
+VL2026027300,2026-03-08,16,Delhi,Local NCR,Standard,4.21,2,1,Delivered,95.77,True,,False,2026-03,Sunday
+VL2026027307,2026-03-08,17,Dehradun,North Zone,Surface Cargo,6.43,3,3,Delivered,119.24,True,,False,2026-03,Sunday
+VL2026027314,2026-03-08,17,Chandigarh,North Zone,Standard,1.1,3,2,Delivered,78.33,False,,False,2026-03,Sunday
+VL2026027321,2026-03-08,17,Chandigarh,North Zone,Standard,1.8,3,2,Delivered,83.89,False,,False,2026-03,Sunday
+VL2026027328,2026-03-08,17,Delhi,Local NCR,Standard,9.43,2,1,RTO,161.49,False,,False,2026-03,Sunday
+VL2026027335,2026-03-08,18,Gurugram,Local NCR,Standard,0.37,2,1,Delivered,40.9,False,,False,2026-03,Sunday
+VL2026027342,2026-03-08,19,Chandigarh,North Zone,Standard,0.96,3,3,Delivered,67.73,False,,False,2026-03,Sunday
+VL2026027349,2026-03-08,20,Noida,Local NCR,Surface Cargo,1.31,2,1,Lost/Damaged,35.53,False,,False,2026-03,Sunday
+VL2026027356,2026-03-08,20,Chennai,Metro / Rest of India,Standard,3.79,5,5,Delivered,209.72,True,,False,2026-03,Sunday
+VL2026027363,2026-03-09,8,Jaipur,North Zone,Express,7.99,3,3,Delivered,401.04,True,,False,2026-03,Monday
+VL2026027370,2026-03-09,8,Delhi,Local NCR,Surface Cargo,1.61,2,1,Delivered,31.53,False,,False,2026-03,Monday
+VL2026027377,2026-03-09,8,Agra,North Zone,Standard,1.19,3,3,Delivered,73.53,False,,False,2026-03,Monday
+VL2026027384,2026-03-09,8,Ghaziabad,Local NCR,Standard,4.53,2,1,Delivered,96.11,True,,False,2026-03,Monday
+VL2026027391,2026-03-09,8,Mumbai,Metro / Rest of India,Surface Cargo,0.82,5,6,Delivered,59.66,False,Hub sorting delay,True,2026-03,Monday
+VL2026027398,2026-03-09,8,Jaipur,North Zone,Express,3.85,3,2,Delivered,233.06,False,,False,2026-03,Monday
+VL2026027405,2026-03-09,9,Mumbai,Metro / Rest of India,Standard,1.16,5,6,Delivered,100.51,False,Wrong / incomplete address,True,2026-03,Monday
+VL2026027412,2026-03-09,9,Mumbai,Metro / Rest of India,Express,2.26,5,4,Delivered,218.61,False,,False,2026-03,Monday
+VL2026027419,2026-03-09,9,Faridabad,Local NCR,Standard,0.49,2,1,Delivered,39.13,False,,False,2026-03,Monday
+VL2026027426,2026-03-09,10,Hyderabad,Metro / Rest of India,Standard,1.16,5,4,Delivered,104.92,False,,False,2026-03,Monday
+VL2026027433,2026-03-09,10,Noida,Local NCR,Standard,0.51,2,1,RTO,37.42,True,,False,2026-03,Monday
+VL2026027440,2026-03-09,10,Lucknow,North Zone,Surface Cargo,1.18,3,3,Delivered,45.95,True,,False,2026-03,Monday
+VL2026027447,2026-03-09,10,Faridabad,Local NCR,Standard,0.59,2,1,Delivered,39.18,True,,False,2026-03,Monday
+VL2026027454,2026-03-09,10,Lucknow,North Zone,Express,7.49,3,5,Delivered,411.93,False,Customer unavailable,True,2026-03,Monday
+VL2026027461,2026-03-09,10,Agra,North Zone,Standard,0.59,3,5,Delivered,63.46,False,Weather,True,2026-03,Monday
+VL2026027468,2026-03-09,11,Mumbai,Metro / Rest of India,Express,0.65,5,4,Delivered,168.47,False,,False,2026-03,Monday
+VL2026027475,2026-03-09,11,Ghaziabad,Local NCR,Standard,1.39,2,1,Delivered,47.31,False,,False,2026-03,Monday
+VL2026027482,2026-03-09,11,Bengaluru,Metro / Rest of India,Surface Cargo,7.82,5,4,Delivered,194.82,True,,False,2026-03,Monday
+VL2026027489,2026-03-09,11,Faridabad,Local NCR,Standard,1.01,2,1,Delivered,47.83,False,,False,2026-03,Monday
+VL2026027496,2026-03-09,11,Delhi,Local NCR,Express,0.49,2,1,Delivered,63.8,True,,False,2026-03,Monday
+VL2026027503,2026-03-09,11,Jaipur,North Zone,Same Day,1.32,3,4,Delivered,206.25,False,Traffic / hub congestion,True,2026-03,Monday
+VL2026027510,2026-03-09,11,Pune,Metro / Rest of India,Surface Cargo,0.89,5,6,Delivered,63.25,True,Customer unavailable,True,2026-03,Monday
+VL2026027517,2026-03-09,11,Jaipur,North Zone,Standard,2.23,3,2,Delivered,99.84,False,,False,2026-03,Monday
+VL2026027524,2026-03-09,11,Pune,Metro / Rest of India,Express,1.08,5,6,Delivered,162.89,False,Weather,True,2026-03,Monday
+VL2026027531,2026-03-09,12,Bengaluru,Metro / Rest of India,Express,3.33,5,5,Delivered,266.39,False,,False,2026-03,Monday
+VL2026027538,2026-03-09,12,Pune,Metro / Rest of India,Surface Cargo,1.38,5,4,RTO,69.57,True,,False,2026-03,Monday
+VL2026027545,2026-03-09,12,Jaipur,North Zone,Express,1.36,3,2,Delivered,139.38,True,,False,2026-03,Monday
+VL2026027552,2026-03-09,12,Mumbai,Metro / Rest of India,Express,1.75,5,5,Delivered,227.92,False,,False,2026-03,Monday
+VL2026027559,2026-03-09,12,Gurugram,Local NCR,Express,1.97,2,1,Delivered,111.0,True,,False,2026-03,Monday
+VL2026027566,2026-03-09,12,Lucknow,North Zone,Express,0.43,3,4,Delivered,97.87,False,Customer unavailable,True,2026-03,Monday
+VL2026027573,2026-03-09,12,Mumbai,Metro / Rest of India,Standard,4.15,5,4,Delivered,209.39,False,,False,2026-03,Monday
+VL2026027580,2026-03-09,12,Faridabad,Local NCR,Standard,1.38,2,1,Delivered,53.72,True,,False,2026-03,Monday
+VL2026027587,2026-03-09,13,Delhi,Local NCR,Surface Cargo,1.11,2,1,Delivered,27.25,False,,False,2026-03,Monday
+VL2026027594,2026-03-09,13,Delhi,Local NCR,Standard,3.2,2,1,Delivered,75.11,False,,False,2026-03,Monday
+VL2026027601,2026-03-09,13,Chennai,Metro / Rest of India,Express,0.75,5,5,Delivered,141.26,False,,False,2026-03,Monday
+VL2026027608,2026-03-09,13,Chandigarh,North Zone,Standard,2.21,3,3,RTO,92.44,True,,False,2026-03,Monday
+VL2026027615,2026-03-09,13,Gurugram,Local NCR,Standard,2.12,2,1,Lost/Damaged,58.76,False,,False,2026-03,Monday
+VL2026027622,2026-03-09,13,Gurugram,Local NCR,Standard,0.44,2,1,Delivered,33.36,True,,False,2026-03,Monday
+VL2026027629,2026-03-09,13,Ghaziabad,Local NCR,Express,1.56,2,3,Delivered,89.8,False,Wrong / incomplete address,True,2026-03,Monday
+VL2026027636,2026-03-09,14,Mumbai,Metro / Rest of India,Standard,1.01,5,8,Delivered,100.0,True,Hub sorting delay,True,2026-03,Monday
+VL2026027643,2026-03-09,14,Gurugram,Local NCR,Standard,0.26,2,4,Delivered,36.46,False,Customer unavailable,True,2026-03,Monday
+VL2026027650,2026-03-09,14,Agra,North Zone,Standard,3.21,3,5,Delivered,120.23,True,Customer unavailable,True,2026-03,Monday
+VL2026027657,2026-03-09,14,Mumbai,Metro / Rest of India,Surface Cargo,3.18,5,5,Delivered,111.16,False,,False,2026-03,Monday
+VL2026027664,2026-03-09,14,Jaipur,North Zone,Express,1.21,3,3,Delivered,127.01,True,,False,2026-03,Monday
+VL2026027671,2026-03-09,14,Mumbai,Metro / Rest of India,Express,1.18,5,5,Delivered,179.53,False,,False,2026-03,Monday
+VL2026027678,2026-03-09,14,Noida,Local NCR,Express,0.49,2,1,Delivered,59.36,False,,False,2026-03,Monday
+VL2026027685,2026-03-09,15,Jaipur,North Zone,Express,1.28,3,2,Delivered,136.85,False,,False,2026-03,Monday
+VL2026027692,2026-03-09,15,Delhi,Local NCR,Standard,2.55,2,1,Delivered,65.64,False,,False,2026-03,Monday
+VL2026027699,2026-03-09,15,Bengaluru,Metro / Rest of India,Express,3.91,5,5,Delivered,325.25,False,,False,2026-03,Monday
+VL2026027706,2026-03-09,15,Chandigarh,North Zone,Surface Cargo,0.63,3,2,Delivered,42.25,False,,False,2026-03,Monday
+VL2026027713,2026-03-09,15,Gurugram,Local NCR,Surface Cargo,1.65,2,3,Delivered,36.37,False,Weather,True,2026-03,Monday
+VL2026027720,2026-03-09,15,Hyderabad,Metro / Rest of India,Express,1.89,5,4,Delivered,210.8,False,,False,2026-03,Monday
+VL2026027727,2026-03-09,15,Agra,North Zone,Express,2.24,3,4,Delivered,153.01,False,Wrong / incomplete address,True,2026-03,Monday
+VL2026027734,2026-03-09,15,Delhi,Local NCR,Express,0.41,2,1,Delivered,54.78,True,,False,2026-03,Monday
+VL2026027741,2026-03-09,15,Delhi,Local NCR,Surface Cargo,0.82,2,1,Delivered,27.63,False,,False,2026-03,Monday
+VL2026027748,2026-03-09,15,Lucknow,North Zone,Express,0.85,3,3,Delivered,109.81,False,,False,2026-03,Monday
+VL2026027755,2026-03-09,15,Gurugram,Local NCR,Standard,3.68,2,1,Delivered,84.89,False,,False,2026-03,Monday
+VL2026027762,2026-03-09,15,Gurugram,Local NCR,Surface Cargo,0.89,2,1,Delivered,29.21,False,,False,2026-03,Monday
+VL2026027769,2026-03-09,16,Jaipur,North Zone,Express,1.84,3,2,Delivered,142.34,False,,False,2026-03,Monday
+VL2026027776,2026-03-09,16,Gurugram,Local NCR,Express,0.64,2,1,Delivered,64.11,False,,False,2026-03,Monday
+VL2026027783,2026-03-09,16,Bengaluru,Metro / Rest of India,Standard,7.04,5,5,Delivered,319.05,True,,False,2026-03,Monday
+VL2026027790,2026-03-09,16,Hyderabad,Metro / Rest of India,Standard,1.07,5,4,Delivered,107.14,True,,False,2026-03,Monday
+VL2026027797,2026-03-09,16,Ghaziabad,Local NCR,Surface Cargo,1.76,2,1,Delivered,34.62,False,,False,2026-03,Monday
+VL2026027804,2026-03-09,16,Chennai,Metro / Rest of India,Express,1.0,5,6,Delivered,166.64,True,Traffic / hub congestion,True,2026-03,Monday
+VL2026027811,2026-03-09,17,Jaipur,North Zone,Surface Cargo,2.56,3,2,RTO,74.11,False,,False,2026-03,Monday
+VL2026027818,2026-03-09,17,Noida,Local NCR,Express,0.55,2,1,Delivered,65.39,True,,False,2026-03,Monday
+VL2026027825,2026-03-09,17,Chennai,Metro / Rest of India,Standard,1.92,5,4,Delivered,117.73,False,,False,2026-03,Monday
+VL2026027832,2026-03-09,18,Delhi,Local NCR,Same Day,5.98,2,1,Delivered,280.76,False,,False,2026-03,Monday
+VL2026027839,2026-03-09,18,Mumbai,Metro / Rest of India,Surface Cargo,2.11,5,4,Delivered,85.01,False,,False,2026-03,Monday
+VL2026027846,2026-03-09,18,Noida,Local NCR,Same Day,2.74,2,1,Lost/Damaged,182.97,False,,False,2026-03,Monday
+VL2026027853,2026-03-09,18,Lucknow,North Zone,Standard,2.6,3,2,Delivered,106.56,False,,False,2026-03,Monday
+VL2026027860,2026-03-09,18,Kolkata,Metro / Rest of India,Surface Cargo,2.45,5,4,Delivered,93.29,False,,False,2026-03,Monday
+VL2026027867,2026-03-09,19,Lucknow,North Zone,Surface Cargo,1.14,3,4,Delivered,50.13,True,Weather,True,2026-03,Monday
+VL2026027874,2026-03-09,20,Mumbai,Metro / Rest of India,Standard,3.48,5,5,Delivered,159.17,True,,False,2026-03,Monday
+VL2026027881,2026-03-09,20,Faridabad,Local NCR,Same Day,4.24,2,1,Delivered,220.48,False,,False,2026-03,Monday
+VL2026027888,2026-03-09,21,Kolkata,Metro / Rest of India,Same Day,0.7,5,5,Delivered,213.71,False,,False,2026-03,Monday
+VL2026027895,2026-03-10,8,Bengaluru,Metro / Rest of India,Standard,0.96,5,4,Delivered,95.57,False,,False,2026-03,Tuesday
+VL2026027902,2026-03-10,8,Noida,Local NCR,Standard,5.01,2,1,Delivered,101.16,False,,False,2026-03,Tuesday
+VL2026027909,2026-03-10,8,Delhi,Local NCR,Surface Cargo,1.1,2,1,Delivered,31.16,True,,False,2026-03,Tuesday
+VL2026027916,2026-03-10,9,Delhi,Local NCR,Standard,0.25,2,1,Delivered,34.83,True,,False,2026-03,Tuesday
+VL2026027923,2026-03-10,9,Agra,North Zone,Surface Cargo,0.67,3,3,Delivered,44.23,False,,False,2026-03,Tuesday
+VL2026027930,2026-03-10,9,Hyderabad,Metro / Rest of India,Standard,1.35,5,6,Delivered,114.24,False,Traffic / hub congestion,True,2026-03,Tuesday
+VL2026027937,2026-03-10,10,Mumbai,Metro / Rest of India,Standard,2.02,5,5,Delivered,138.3,True,,False,2026-03,Tuesday
+VL2026027944,2026-03-10,10,Delhi,Local NCR,Standard,9.53,2,1,Delivered,170.24,False,,False,2026-03,Tuesday
+VL2026027951,2026-03-10,10,Mumbai,Metro / Rest of India,Standard,1.32,5,4,Delivered,119.44,True,,False,2026-03,Tuesday
+VL2026027958,2026-03-10,10,Jaipur,North Zone,Surface Cargo,1.44,3,4,Delivered,56.22,False,Wrong / incomplete address,True,2026-03,Tuesday
+VL2026027965,2026-03-10,10,Delhi,Local NCR,Express,0.58,2,1,Delivered,63.96,False,,False,2026-03,Tuesday
+VL2026027972,2026-03-10,11,Gurugram,Local NCR,Standard,0.95,2,1,Delivered,45.49,True,,False,2026-03,Tuesday
+VL2026027979,2026-03-10,11,Gurugram,Local NCR,Surface Cargo,0.71,2,1,Delivered,24.86,False,,False,2026-03,Tuesday
+VL2026027986,2026-03-10,11,Noida,Local NCR,Standard,1.35,2,1,Delivered,52.33,True,,False,2026-03,Tuesday
+VL2026027993,2026-03-10,11,Ghaziabad,Local NCR,Standard,2.38,2,1,Delivered,66.92,True,,False,2026-03,Tuesday
+VL2026028000,2026-03-10,11,Hyderabad,Metro / Rest of India,Standard,0.72,5,4,Delivered,95.26,False,,False,2026-03,Tuesday
+VL2026028007,2026-03-10,11,Kolkata,Metro / Rest of India,Express,1.84,5,7,Delivered,196.66,False,Traffic / hub congestion,True,2026-03,Tuesday
+VL2026028014,2026-03-10,12,Ghaziabad,Local NCR,Standard,1.95,2,4,Delivered,61.11,True,Traffic / hub congestion,True,2026-03,Tuesday
+VL2026028021,2026-03-10,12,Lucknow,North Zone,Surface Cargo,3.97,3,2,Delivered,91.33,True,,False,2026-03,Tuesday
+VL2026028028,2026-03-10,12,Kolkata,Metro / Rest of India,Surface Cargo,0.93,5,5,Delivered,57.85,False,,False,2026-03,Tuesday
+VL2026028035,2026-03-10,12,Noida,Local NCR,Surface Cargo,3.48,2,1,Delivered,50.88,True,,False,2026-03,Tuesday
+VL2026028042,2026-03-10,12,Kolkata,Metro / Rest of India,Surface Cargo,1.96,5,5,Delivered,83.26,False,,False,2026-03,Tuesday
+VL2026028049,2026-03-10,12,Mumbai,Metro / Rest of India,Standard,1.44,5,4,Delivered,121.82,False,,False,2026-03,Tuesday
+VL2026028056,2026-03-10,12,Bengaluru,Metro / Rest of India,Standard,3.65,5,4,Delivered,186.41,False,,False,2026-03,Tuesday
+VL2026028063,2026-03-10,12,Ghaziabad,Local NCR,Standard,2.91,2,1,Delivered,68.45,False,,False,2026-03,Tuesday
+VL2026028070,2026-03-10,12,Bengaluru,Metro / Rest of India,Standard,3.2,5,6,Delivered,165.13,True,Customer unavailable,True,2026-03,Tuesday
+VL2026028077,2026-03-10,12,Delhi,Local NCR,Same Day,2.26,2,1,Delivered,150.83,False,,False,2026-03,Tuesday
+VL2026028084,2026-03-10,13,Agra,North Zone,Surface Cargo,1.77,3,2,Delivered,51.97,False,,False,2026-03,Tuesday
+VL2026028091,2026-03-10,13,Ghaziabad,Local NCR,Standard,1.07,2,1,Delivered,48.5,True,,False,2026-03,Tuesday
+VL2026028098,2026-03-10,13,Chennai,Metro / Rest of India,Express,0.68,5,4,Delivered,152.21,False,,False,2026-03,Tuesday
+VL2026028105,2026-03-10,13,Faridabad,Local NCR,Surface Cargo,1.33,2,1,Delivered,32.9,False,,False,2026-03,Tuesday
+VL2026028112,2026-03-10,13,Chennai,Metro / Rest of India,Express,1.22,5,5,Delivered,173.06,True,,False,2026-03,Tuesday
+VL2026028119,2026-03-10,13,Faridabad,Local NCR,Express,3.31,2,1,Delivered,128.71,False,,False,2026-03,Tuesday
+VL2026028126,2026-03-10,13,Dehradun,North Zone,Same Day,0.52,3,2,Delivered,158.07,False,,False,2026-03,Tuesday
+VL2026028133,2026-03-10,13,Pune,Metro / Rest of India,Standard,0.65,5,5,Delivered,89.94,False,,False,2026-03,Tuesday
+VL2026028140,2026-03-10,13,Delhi,Local NCR,Standard,3.02,2,1,Delivered,66.53,False,,False,2026-03,Tuesday
+VL2026028147,2026-03-10,13,Mumbai,Metro / Rest of India,Express,2.45,5,4,Delivered,241.99,True,,False,2026-03,Tuesday
+VL2026028154,2026-03-10,14,Delhi,Local NCR,Same Day,0.86,2,1,Delivered,95.11,True,,False,2026-03,Tuesday
+VL2026028161,2026-03-10,14,Mumbai,Metro / Rest of India,Standard,0.99,5,4,Delivered,104.72,True,,False,2026-03,Tuesday
+VL2026028168,2026-03-10,14,Delhi,Local NCR,Standard,1.22,2,5,Delivered,47.99,False,Wrong / incomplete address,True,2026-03,Tuesday
+VL2026028175,2026-03-10,14,Noida,Local NCR,Surface Cargo,3.12,2,1,Delivered,45.2,False,,False,2026-03,Tuesday
+VL2026028182,2026-03-10,14,Kolkata,Metro / Rest of India,Standard,0.94,5,4,Delivered,95.72,False,,False,2026-03,Tuesday
+VL2026028189,2026-03-10,15,Delhi,Local NCR,Express,1.7,2,1,Delivered,97.35,False,,False,2026-03,Tuesday
+VL2026028196,2026-03-10,15,Mumbai,Metro / Rest of India,Standard,0.82,5,6,Delivered,92.98,True,Customer unavailable,True,2026-03,Tuesday
+VL2026028203,2026-03-10,15,Delhi,Local NCR,Express,1.3,2,1,Delivered,80.97,False,,False,2026-03,Tuesday
+VL2026028210,2026-03-10,16,Delhi,Local NCR,Standard,0.72,2,1,Delivered,35.67,True,,False,2026-03,Tuesday
+VL2026028217,2026-03-10,16,Mumbai,Metro / Rest of India,Same Day,0.8,5,4,Delivered,241.29,False,,False,2026-03,Tuesday
+VL2026028224,2026-03-10,16,Chandigarh,North Zone,Standard,2.46,3,2,Lost/Damaged,106.01,True,,False,2026-03,Tuesday
+VL2026028231,2026-03-10,16,Gurugram,Local NCR,Express,3.16,2,1,RTO,140.99,False,,False,2026-03,Tuesday
+VL2026028238,2026-03-10,17,Lucknow,North Zone,Express,4.79,3,2,Delivered,266.04,False,,False,2026-03,Tuesday
+VL2026028245,2026-03-10,17,Delhi,Local NCR,Surface Cargo,2.92,2,1,Delivered,45.18,True,,False,2026-03,Tuesday
+VL2026028252,2026-03-10,17,Noida,Local NCR,Express,0.75,2,1,Delivered,72.07,False,,False,2026-03,Tuesday
+VL2026028259,2026-03-10,17,Delhi,Local NCR,Standard,1.61,2,1,Delivered,52.41,False,,False,2026-03,Tuesday
+VL2026028266,2026-03-10,18,Noida,Local NCR,Standard,1.21,2,1,Delivered,42.12,False,,False,2026-03,Tuesday
+VL2026028273,2026-03-10,18,Delhi,Local NCR,Surface Cargo,1.32,2,1,Delivered,27.73,False,,False,2026-03,Tuesday
+VL2026028280,2026-03-10,18,Chandigarh,North Zone,Surface Cargo,0.6,3,2,Delivered,39.26,True,,False,2026-03,Tuesday
+VL2026028287,2026-03-10,18,Noida,Local NCR,Express,0.7,2,1,Delivered,61.19,True,,False,2026-03,Tuesday
+VL2026028294,2026-03-10,19,Jaipur,North Zone,Surface Cargo,0.21,3,3,Delivered,35.92,True,,False,2026-03,Tuesday
+VL2026028301,2026-03-10,19,Faridabad,Local NCR,Same Day,1.23,2,4,Delivered,122.97,False,Wrong / incomplete address,True,2026-03,Tuesday
+VL2026028308,2026-03-10,19,Faridabad,Local NCR,Express,1.59,2,1,Delivered,91.34,False,,False,2026-03,Tuesday
+VL2026028315,2026-03-10,20,Ghaziabad,Local NCR,Express,1.18,2,1,Delivered,88.33,False,,False,2026-03,Tuesday
+VL2026028322,2026-03-11,8,Noida,Local NCR,Express,1.58,2,1,Delivered,88.81,False,,False,2026-03,Wednesday
+VL2026028329,2026-03-11,8,Kolkata,Metro / Rest of India,Express,1.49,5,6,Delivered,175.37,True,Customer unavailable,True,2026-03,Wednesday
+VL2026028336,2026-03-11,8,Noida,Local NCR,Standard,2.67,2,1,Delivered,69.47,False,,False,2026-03,Wednesday
+VL2026028343,2026-03-11,8,Jaipur,North Zone,Surface Cargo,0.49,3,2,Delivered,39.89,False,,False,2026-03,Wednesday
+VL2026028350,2026-03-11,10,Mumbai,Metro / Rest of India,Express,0.65,5,5,Delivered,161.04,False,,False,2026-03,Wednesday
+VL2026028357,2026-03-11,10,Lucknow,North Zone,Express,0.4,3,4,Delivered,94.45,True,Traffic / hub congestion,True,2026-03,Wednesday
+VL2026028364,2026-03-11,10,Noida,Local NCR,Express,1.06,2,2,Delivered,77.9,True,,False,2026-03,Wednesday
+VL2026028371,2026-03-11,10,Ghaziabad,Local NCR,Express,0.63,2,1,RTO,66.32,True,,False,2026-03,Wednesday
+VL2026028378,2026-03-11,10,Lucknow,North Zone,Same Day,1.14,3,3,Delivered,189.9,False,,False,2026-03,Wednesday
+VL2026028385,2026-03-11,10,Ghaziabad,Local NCR,Surface Cargo,1.74,2,1,Delivered,33.03,False,,False,2026-03,Wednesday
+VL2026028392,2026-03-11,10,Ghaziabad,Local NCR,Standard,1.13,2,2,Delivered,48.79,False,,False,2026-03,Wednesday
+VL2026028399,2026-03-11,10,Gurugram,Local NCR,Standard,0.78,2,1,RTO,41.28,True,,False,2026-03,Wednesday
+VL2026028406,2026-03-11,11,Noida,Local NCR,Standard,1.23,2,1,Delivered,50.88,True,,False,2026-03,Wednesday
+VL2026028413,2026-03-11,11,Gurugram,Local NCR,Express,3.5,2,1,Delivered,142.68,False,,False,2026-03,Wednesday
+VL2026028420,2026-03-11,11,Noida,Local NCR,Standard,0.82,2,1,Delivered,39.1,False,,False,2026-03,Wednesday
+VL2026028427,2026-03-11,11,Lucknow,North Zone,Express,2.3,3,5,Delivered,160.36,False,Customer unavailable,True,2026-03,Wednesday
+VL2026028434,2026-03-11,11,Pune,Metro / Rest of India,Express,5.52,5,4,Delivered,395.25,False,,False,2026-03,Wednesday
+VL2026028441,2026-03-11,12,Chandigarh,North Zone,Standard,2.82,3,3,Delivered,105.97,True,,False,2026-03,Wednesday
+VL2026028448,2026-03-11,12,Delhi,Local NCR,Surface Cargo,1.17,2,1,Delivered,32.68,True,,False,2026-03,Wednesday
+VL2026028455,2026-03-11,12,Ghaziabad,Local NCR,Express,0.8,2,1,Delivered,71.32,True,,False,2026-03,Wednesday
+VL2026028462,2026-03-11,12,Jaipur,North Zone,Standard,2.34,3,2,Delivered,98.22,False,,False,2026-03,Wednesday
+VL2026028469,2026-03-11,12,Kolkata,Metro / Rest of India,Express,1.18,5,5,Delivered,171.95,False,,False,2026-03,Wednesday
+VL2026028476,2026-03-11,12,Mumbai,Metro / Rest of India,Express,0.58,5,4,Delivered,131.21,False,,False,2026-03,Wednesday
+VL2026028483,2026-03-11,12,Ghaziabad,Local NCR,Standard,3.06,2,1,Delivered,71.7,True,,False,2026-03,Wednesday
+VL2026028490,2026-03-11,13,Faridabad,Local NCR,Express,0.96,2,1,Delivered,68.6,False,,False,2026-03,Wednesday
+VL2026028497,2026-03-11,13,Gurugram,Local NCR,Same Day,1.9,2,1,Delivered,158.05,True,,False,2026-03,Wednesday
+VL2026028504,2026-03-11,13,Delhi,Local NCR,Standard,1.72,2,1,Delivered,58.61,False,,False,2026-03,Wednesday
+VL2026028511,2026-03-11,13,Faridabad,Local NCR,Standard,3.79,2,1,Delivered,81.84,False,,False,2026-03,Wednesday
+VL2026028518,2026-03-11,13,Ghaziabad,Local NCR,Express,0.73,2,1,Delivered,67.34,False,,False,2026-03,Wednesday
+VL2026028525,2026-03-11,13,Mumbai,Metro / Rest of India,Standard,1.07,5,5,Delivered,107.03,True,,False,2026-03,Wednesday
+VL2026028532,2026-03-11,13,Bengaluru,Metro / Rest of India,Standard,1.51,5,4,Delivered,108.11,False,,False,2026-03,Wednesday
+VL2026028539,2026-03-11,13,Chandigarh,North Zone,Standard,0.15,3,3,Delivered,52.39,False,,False,2026-03,Wednesday
+VL2026028546,2026-03-11,14,Jaipur,North Zone,Standard,1.15,3,2,Delivered,74.77,True,,False,2026-03,Wednesday
+VL2026028553,2026-03-11,14,Kolkata,Metro / Rest of India,Standard,1.49,5,5,Delivered,115.19,False,,False,2026-03,Wednesday
+VL2026028560,2026-03-11,14,Kolkata,Metro / Rest of India,Standard,0.79,5,4,Delivered,95.52,True,,False,2026-03,Wednesday
+VL2026028567,2026-03-11,14,Hyderabad,Metro / Rest of India,Standard,1.22,5,4,Delivered,111.44,False,,False,2026-03,Wednesday
+VL2026028574,2026-03-11,14,Ghaziabad,Local NCR,Standard,0.95,2,1,Delivered,41.19,False,,False,2026-03,Wednesday
+VL2026028581,2026-03-11,14,Chandigarh,North Zone,Standard,7.76,3,2,Delivered,240.44,True,,False,2026-03,Wednesday
+VL2026028588,2026-03-11,14,Gurugram,Local NCR,Surface Cargo,1.95,2,1,Delivered,37.04,False,,False,2026-03,Wednesday
+VL2026028595,2026-03-11,14,Noida,Local NCR,Express,1.22,2,1,Delivered,82.82,False,,False,2026-03,Wednesday
+VL2026028602,2026-03-11,14,Ghaziabad,Local NCR,Standard,0.51,2,1,Delivered,39.38,False,,False,2026-03,Wednesday
+VL2026028609,2026-03-11,14,Delhi,Local NCR,Surface Cargo,1.93,2,3,Delivered,36.68,False,Hub sorting delay,True,2026-03,Wednesday
+VL2026028616,2026-03-11,14,Lucknow,North Zone,Express,1.66,3,2,Delivered,133.77,False,,False,2026-03,Wednesday
+VL2026028623,2026-03-11,14,Bengaluru,Metro / Rest of India,Standard,0.33,5,5,Delivered,82.21,False,,False,2026-03,Wednesday
+VL2026028630,2026-03-11,14,Delhi,Local NCR,Express,0.39,2,1,Delivered,62.67,True,,False,2026-03,Wednesday
+VL2026028637,2026-03-11,14,Noida,Local NCR,Express,6.95,2,1,Delivered,202.74,True,,False,2026-03,Wednesday
+VL2026028644,2026-03-11,14,Gurugram,Local NCR,Standard,0.79,2,1,Delivered,41.34,False,,False,2026-03,Wednesday
+VL2026028651,2026-03-11,15,Delhi,Local NCR,Express,1.23,2,1,Delivered,75.89,True,,False,2026-03,Wednesday
+VL2026028658,2026-03-11,15,Bengaluru,Metro / Rest of India,Standard,0.72,5,5,Delivered,90.57,False,,False,2026-03,Wednesday
+VL2026028665,2026-03-11,15,Jaipur,North Zone,Standard,0.55,3,3,Delivered,62.91,False,,False,2026-03,Wednesday
+VL2026028672,2026-03-11,15,Dehradun,North Zone,Express,0.76,3,2,Lost/Damaged,108.87,False,,False,2026-03,Wednesday
+VL2026028679,2026-03-11,15,Chandigarh,North Zone,Express,2.61,3,4,Delivered,159.82,False,Weather,True,2026-03,Wednesday
+VL2026028686,2026-03-11,16,Gurugram,Local NCR,Surface Cargo,0.83,2,1,Delivered,28.49,True,,False,2026-03,Wednesday
+VL2026028693,2026-03-11,16,Bengaluru,Metro / Rest of India,Standard,1.19,5,4,Delivered,108.61,False,,False,2026-03,Wednesday
+VL2026028700,2026-03-11,16,Delhi,Local NCR,Express,0.63,2,1,Delivered,65.11,False,,False,2026-03,Wednesday
+VL2026028707,2026-03-11,16,Jaipur,North Zone,Standard,1.68,3,2,Delivered,86.83,False,,False,2026-03,Wednesday
+VL2026028714,2026-03-11,16,Delhi,Local NCR,Standard,1.25,2,1,Delivered,46.15,True,,False,2026-03,Wednesday
+VL2026028721,2026-03-11,16,Delhi,Local NCR,Surface Cargo,0.47,2,1,Delivered,23.29,False,,False,2026-03,Wednesday
+VL2026028728,2026-03-11,16,Ghaziabad,Local NCR,Surface Cargo,4.31,2,1,Delivered,54.64,True,,False,2026-03,Wednesday
+VL2026028735,2026-03-11,17,Delhi,Local NCR,Express,0.79,2,1,Delivered,67.16,True,,False,2026-03,Wednesday
+VL2026028742,2026-03-11,17,Delhi,Local NCR,Standard,1.11,2,1,Delivered,44.8,True,,False,2026-03,Wednesday
+VL2026028749,2026-03-11,17,Mumbai,Metro / Rest of India,Standard,5.36,5,4,Delivered,229.04,False,,False,2026-03,Wednesday
+VL2026028756,2026-03-11,17,Ghaziabad,Local NCR,Express,4.57,2,1,Delivered,142.97,False,,False,2026-03,Wednesday
+VL2026028763,2026-03-11,18,Ghaziabad,Local NCR,Express,1.17,2,1,Delivered,86.63,False,,False,2026-03,Wednesday
+VL2026028770,2026-03-11,18,Jaipur,North Zone,Express,1.44,3,4,Delivered,144.17,True,Customer unavailable,True,2026-03,Wednesday
+VL2026028777,2026-03-11,18,Ghaziabad,Local NCR,Standard,0.67,2,1,Lost/Damaged,36.46,False,,False,2026-03,Wednesday
+VL2026028784,2026-03-11,18,Bengaluru,Metro / Rest of India,Express,1.96,5,5,Delivered,199.5,True,,False,2026-03,Wednesday
+VL2026028791,2026-03-11,19,Pune,Metro / Rest of India,Standard,0.44,5,4,Delivered,83.1,False,,False,2026-03,Wednesday
+VL2026028798,2026-03-11,19,Delhi,Local NCR,Express,1.74,2,1,Delivered,92.39,True,,False,2026-03,Wednesday
+VL2026028805,2026-03-12,8,Delhi,Local NCR,Standard,1.25,2,1,RTO,53.14,False,,False,2026-03,Thursday
+VL2026028812,2026-03-12,8,Delhi,Local NCR,Surface Cargo,2.21,2,1,Delivered,42.16,False,,False,2026-03,Thursday
+VL2026028819,2026-03-12,8,Delhi,Local NCR,Surface Cargo,5.49,2,1,Delivered,67.84,True,,False,2026-03,Thursday
+VL2026028826,2026-03-12,8,Pune,Metro / Rest of India,Standard,1.12,5,5,Delivered,106.84,True,,False,2026-03,Thursday
+VL2026028833,2026-03-12,9,Gurugram,Local NCR,Standard,0.38,2,5,Delivered,37.43,False,Hub sorting delay,True,2026-03,Thursday
+VL2026028840,2026-03-12,9,Ghaziabad,Local NCR,Express,1.41,2,1,Delivered,90.18,False,,False,2026-03,Thursday
+VL2026028847,2026-03-12,9,Chennai,Metro / Rest of India,Express,2.76,5,6,Delivered,260.06,False,Wrong / incomplete address,True,2026-03,Thursday
+VL2026028854,2026-03-12,9,Faridabad,Local NCR,Standard,1.77,2,1,Delivered,48.87,False,,False,2026-03,Thursday
+VL2026028861,2026-03-12,10,Chandigarh,North Zone,Standard,3.8,3,3,Delivered,123.23,True,,False,2026-03,Thursday
+VL2026028868,2026-03-12,10,Chennai,Metro / Rest of India,Standard,0.97,5,4,Delivered,97.02,False,,False,2026-03,Thursday
+VL2026028875,2026-03-12,10,Bengaluru,Metro / Rest of India,Standard,0.53,5,4,Delivered,95.99,False,,False,2026-03,Thursday
+VL2026028882,2026-03-12,10,Dehradun,North Zone,Surface Cargo,1.05,3,5,Lost/Damaged,44.22,True,Wrong / incomplete address,True,2026-03,Thursday
+VL2026028889,2026-03-12,10,Noida,Local NCR,Express,2.58,2,1,Delivered,108.77,False,,False,2026-03,Thursday
+VL2026028896,2026-03-12,11,Mumbai,Metro / Rest of India,Express,1.09,5,4,Delivered,176.9,True,,False,2026-03,Thursday
+VL2026028903,2026-03-12,11,Delhi,Local NCR,Express,1.31,2,1,Delivered,72.83,False,,False,2026-03,Thursday
+VL2026028910,2026-03-12,11,Gurugram,Local NCR,Express,0.79,2,1,Delivered,70.09,False,,False,2026-03,Thursday
+VL2026028917,2026-03-12,11,Delhi,Local NCR,Standard,0.25,2,1,RTO,35.96,False,,False,2026-03,Thursday
+VL2026028924,2026-03-12,11,Pune,Metro / Rest of India,Standard,1.17,5,4,Lost/Damaged,112.42,False,,False,2026-03,Thursday
+VL2026028931,2026-03-12,11,Mumbai,Metro / Rest of India,Express,2.03,5,4,Delivered,194.22,False,,False,2026-03,Thursday
+VL2026028938,2026-03-12,11,Delhi,Local NCR,Standard,0.45,2,1,Delivered,34.15,False,,False,2026-03,Thursday
+VL2026028945,2026-03-12,11,Mumbai,Metro / Rest of India,Standard,1.63,5,6,Delivered,126.14,True,Hub sorting delay,True,2026-03,Thursday
+VL2026028952,2026-03-12,11,Hyderabad,Metro / Rest of India,Express,5.27,5,4,Delivered,396.68,False,,False,2026-03,Thursday
+VL2026028959,2026-03-12,11,Gurugram,Local NCR,Standard,1.38,2,1,Delivered,51.07,False,,False,2026-03,Thursday
+VL2026028966,2026-03-12,11,Delhi,Local NCR,Express,3.99,2,1,Delivered,141.83,False,,False,2026-03,Thursday
+VL2026028973,2026-03-12,12,Lucknow,North Zone,Surface Cargo,2.08,3,2,Delivered,62.13,False,,False,2026-03,Thursday
+VL2026028980,2026-03-12,12,Kolkata,Metro / Rest of India,Standard,2.42,5,5,Delivered,142.2,False,,False,2026-03,Thursday
+VL2026028987,2026-03-12,12,Pune,Metro / Rest of India,Express,2.59,5,5,Delivered,229.04,True,,False,2026-03,Thursday
+VL2026028994,2026-03-12,12,Bengaluru,Metro / Rest of India,Standard,1.54,5,4,Delivered,112.01,False,,False,2026-03,Thursday
+VL2026029001,2026-03-12,12,Bengaluru,Metro / Rest of India,Standard,0.54,5,5,Delivered,81.18,True,,False,2026-03,Thursday
+VL2026029008,2026-03-12,12,Noida,Local NCR,Surface Cargo,0.62,2,1,Delivered,25.2,True,,False,2026-03,Thursday
+VL2026029015,2026-03-12,12,Ghaziabad,Local NCR,Surface Cargo,0.84,2,1,Delivered,24.88,False,,False,2026-03,Thursday
+VL2026029022,2026-03-12,12,Ghaziabad,Local NCR,Standard,5.89,2,1,Delivered,107.05,False,,False,2026-03,Thursday
+VL2026029029,2026-03-12,13,Delhi,Local NCR,Standard,1.01,2,1,Delivered,42.22,False,,False,2026-03,Thursday
+VL2026029036,2026-03-12,13,Noida,Local NCR,Standard,4.97,2,1,Delivered,102.84,False,,False,2026-03,Thursday
+VL2026029043,2026-03-12,13,Kolkata,Metro / Rest of India,Surface Cargo,0.81,5,5,Delivered,58.31,False,,False,2026-03,Thursday
+VL2026029050,2026-03-12,13,Mumbai,Metro / Rest of India,Standard,0.67,5,5,Delivered,90.24,False,,False,2026-03,Thursday
+VL2026029057,2026-03-12,13,Ghaziabad,Local NCR,Standard,2.73,2,1,Delivered,65.13,False,,False,2026-03,Thursday
+VL2026029064,2026-03-12,13,Noida,Local NCR,Surface Cargo,1.16,2,1,Delivered,28.48,True,,False,2026-03,Thursday
+VL2026029071,2026-03-12,13,Jaipur,North Zone,Express,2.07,3,2,Delivered,151.51,True,,False,2026-03,Thursday
+VL2026029078,2026-03-12,13,Agra,North Zone,Surface Cargo,1.47,3,3,Delivered,50.9,False,,False,2026-03,Thursday
+VL2026029085,2026-03-12,13,Hyderabad,Metro / Rest of India,Standard,0.98,5,5,Delivered,102.01,True,,False,2026-03,Thursday
+VL2026029092,2026-03-12,13,Mumbai,Metro / Rest of India,Standard,2.33,5,5,Delivered,137.71,True,,False,2026-03,Thursday
+VL2026029099,2026-03-12,14,Kolkata,Metro / Rest of India,Surface Cargo,0.15,5,5,Delivered,45.87,False,,False,2026-03,Thursday
+VL2026029106,2026-03-12,14,Mumbai,Metro / Rest of India,Same Day,1.57,5,5,Delivered,300.63,False,,False,2026-03,Thursday
+VL2026029113,2026-03-12,14,Pune,Metro / Rest of India,Surface Cargo,4.27,5,4,Delivered,128.29,True,,False,2026-03,Thursday
+VL2026029120,2026-03-12,14,Kolkata,Metro / Rest of India,Standard,3.05,5,4,Delivered,159.31,False,,False,2026-03,Thursday
+VL2026029127,2026-03-12,14,Hyderabad,Metro / Rest of India,Express,0.35,5,5,Delivered,136.45,False,,False,2026-03,Thursday
+VL2026029134,2026-03-12,14,Dehradun,North Zone,Standard,0.96,3,3,Delivered,75.85,True,,False,2026-03,Thursday
+VL2026029141,2026-03-12,14,Dehradun,North Zone,Same Day,2.47,3,2,Delivered,264.28,False,,False,2026-03,Thursday
+VL2026029148,2026-03-12,14,Hyderabad,Metro / Rest of India,Express,0.76,5,6,Delivered,159.84,False,Wrong / incomplete address,True,2026-03,Thursday
+VL2026029155,2026-03-12,14,Ghaziabad,Local NCR,Express,2.2,2,1,Delivered,111.34,True,,False,2026-03,Thursday
+VL2026029162,2026-03-12,15,Lucknow,North Zone,Standard,0.6,3,3,Delivered,64.23,False,,False,2026-03,Thursday
+VL2026029169,2026-03-12,15,Noida,Local NCR,Standard,0.34,2,1,Delivered,32.81,True,,False,2026-03,Thursday
+VL2026029176,2026-03-12,15,Chandigarh,North Zone,Standard,0.85,3,3,Delivered,63.72,False,,False,2026-03,Thursday
+VL2026029183,2026-03-12,15,Hyderabad,Metro / Rest of India,Express,2.03,5,4,Delivered,214.91,False,,False,2026-03,Thursday
+VL2026029190,2026-03-12,15,Faridabad,Local NCR,Standard,2.0,2,1,Delivered,56.11,False,,False,2026-03,Thursday
+VL2026029197,2026-03-12,15,Mumbai,Metro / Rest of India,Standard,2.19,5,4,Delivered,133.94,True,,False,2026-03,Thursday
+VL2026029204,2026-03-12,15,Agra,North Zone,Surface Cargo,1.09,3,3,Delivered,49.83,False,,False,2026-03,Thursday
+VL2026029211,2026-03-12,15,Delhi,Local NCR,Standard,2.93,2,1,Delivered,68.86,True,,False,2026-03,Thursday
+VL2026029218,2026-03-12,15,Delhi,Local NCR,Standard,3.53,2,1,Delivered,75.57,False,,False,2026-03,Thursday
+VL2026029225,2026-03-12,16,Pune,Metro / Rest of India,Standard,0.97,5,4,Delivered,98.69,True,,False,2026-03,Thursday
+VL2026029232,2026-03-12,16,Delhi,Local NCR,Standard,0.48,2,2,Delivered,38.16,False,,False,2026-03,Thursday
+VL2026029239,2026-03-12,16,Ghaziabad,Local NCR,Standard,1.34,2,2,Delivered,52.83,True,,False,2026-03,Thursday
+VL2026029246,2026-03-12,17,Delhi,Local NCR,Standard,1.62,2,1,Delivered,45.09,True,,False,2026-03,Thursday
+VL2026029253,2026-03-12,17,Kolkata,Metro / Rest of India,Surface Cargo,3.18,5,5,Delivered,110.19,False,,False,2026-03,Thursday
+VL2026029260,2026-03-12,17,Delhi,Local NCR,Standard,2.44,2,1,Delivered,72.35,True,,False,2026-03,Thursday
+VL2026029267,2026-03-12,17,Bengaluru,Metro / Rest of India,Same Day,3.65,5,7,Delivered,455.92,True,Customer unavailable,True,2026-03,Thursday
+VL2026029274,2026-03-12,18,Lucknow,North Zone,Surface Cargo,9.44,3,2,Delivered,170.47,False,,False,2026-03,Thursday
+VL2026029281,2026-03-12,19,Noida,Local NCR,Standard,2.13,2,1,Delivered,64.54,False,,False,2026-03,Thursday
+VL2026029288,2026-03-12,20,Delhi,Local NCR,Surface Cargo,0.38,2,1,Delivered,22.96,False,,False,2026-03,Thursday
+VL2026029295,2026-03-13,8,Delhi,Local NCR,Same Day,3.36,2,1,Delivered,170.33,True,,False,2026-03,Friday
+VL2026029302,2026-03-13,8,Bengaluru,Metro / Rest of India,Standard,1.21,5,5,Delivered,100.72,False,,False,2026-03,Friday
+VL2026029309,2026-03-13,8,Bengaluru,Metro / Rest of India,Standard,1.37,5,4,Delivered,109.47,True,,False,2026-03,Friday
+VL2026029316,2026-03-13,9,Agra,North Zone,Standard,2.6,3,2,Delivered,113.5,False,,False,2026-03,Friday
+VL2026029323,2026-03-13,9,Jaipur,North Zone,Surface Cargo,1.56,3,2,Delivered,50.6,True,,False,2026-03,Friday
+VL2026029330,2026-03-13,10,Noida,Local NCR,Same Day,1.49,2,1,Lost/Damaged,120.58,True,,False,2026-03,Friday
+VL2026029337,2026-03-13,10,Delhi,Local NCR,Standard,0.51,2,1,Delivered,42.89,False,,False,2026-03,Friday
+VL2026029344,2026-03-13,10,Dehradun,North Zone,Same Day,4.9,3,3,Delivered,387.33,True,,False,2026-03,Friday
+VL2026029351,2026-03-13,10,Kolkata,Metro / Rest of India,Same Day,2.57,5,5,Delivered,364.35,False,,False,2026-03,Friday
+VL2026029358,2026-03-13,10,Noida,Local NCR,Standard,1.42,2,5,Delivered,48.74,True,Customer unavailable,True,2026-03,Friday
+VL2026029365,2026-03-13,11,Lucknow,North Zone,Surface Cargo,1.13,3,2,Delivered,44.66,False,,False,2026-03,Friday
+VL2026029372,2026-03-13,11,Kolkata,Metro / Rest of India,Standard,1.09,5,5,Delivered,105.49,True,,False,2026-03,Friday
+VL2026029379,2026-03-13,11,Mumbai,Metro / Rest of India,Surface Cargo,1.28,5,5,Delivered,74.9,True,,False,2026-03,Friday
+VL2026029386,2026-03-13,11,Noida,Local NCR,Express,0.82,2,1,Delivered,76.44,False,,False,2026-03,Friday
+VL2026029393,2026-03-13,11,Delhi,Local NCR,Standard,1.69,2,1,Delivered,52.7,False,,False,2026-03,Friday
+VL2026029400,2026-03-13,11,Ghaziabad,Local NCR,Standard,0.55,2,1,Delivered,36.93,False,,False,2026-03,Friday
+VL2026029407,2026-03-13,12,Delhi,Local NCR,Surface Cargo,0.82,2,1,Delivered,27.82,False,,False,2026-03,Friday
+VL2026029414,2026-03-13,12,Chandigarh,North Zone,Same Day,3.0,3,3,Delivered,291.06,False,,False,2026-03,Friday
+VL2026029421,2026-03-13,12,Ghaziabad,Local NCR,Standard,0.59,2,5,Delivered,40.48,False,Hub sorting delay,True,2026-03,Friday
+VL2026029428,2026-03-13,12,Pune,Metro / Rest of India,Surface Cargo,0.73,5,4,Delivered,58.79,False,,False,2026-03,Friday
+VL2026029435,2026-03-13,12,Kolkata,Metro / Rest of India,Express,1.58,5,5,Delivered,194.17,False,,False,2026-03,Friday
+VL2026029442,2026-03-13,12,Delhi,Local NCR,Standard,0.75,2,1,Delivered,41.25,False,,False,2026-03,Friday
+VL2026029449,2026-03-13,12,Bengaluru,Metro / Rest of India,Surface Cargo,1.55,5,4,Delivered,77.3,True,,False,2026-03,Friday
+VL2026029456,2026-03-13,12,Faridabad,Local NCR,Standard,8.22,2,1,Delivered,143.17,False,,False,2026-03,Friday
+VL2026029463,2026-03-13,12,Ghaziabad,Local NCR,Standard,0.23,2,1,Delivered,34.06,False,,False,2026-03,Friday
+VL2026029470,2026-03-13,12,Jaipur,North Zone,Same Day,0.78,3,3,Delivered,164.92,False,,False,2026-03,Friday
+VL2026029477,2026-03-13,12,Pune,Metro / Rest of India,Express,1.51,5,4,Delivered,185.89,False,,False,2026-03,Friday
+VL2026029484,2026-03-13,12,Gurugram,Local NCR,Same Day,0.72,2,1,Delivered,97.96,True,,False,2026-03,Friday
+VL2026029491,2026-03-13,12,Delhi,Local NCR,Surface Cargo,2.95,2,1,Delivered,45.48,True,,False,2026-03,Friday
+VL2026029498,2026-03-13,12,Delhi,Local NCR,Express,6.27,2,1,Delivered,199.1,False,,False,2026-03,Friday
+VL2026029505,2026-03-13,12,Lucknow,North Zone,Surface Cargo,1.27,3,3,Delivered,52.61,False,,False,2026-03,Friday
+VL2026029512,2026-03-13,12,Delhi,Local NCR,Standard,0.91,2,1,Delivered,39.49,False,,False,2026-03,Friday
+VL2026029519,2026-03-13,13,Ghaziabad,Local NCR,Standard,1.81,2,3,Delivered,58.72,False,Traffic / hub congestion,True,2026-03,Friday
+VL2026029526,2026-03-13,13,Faridabad,Local NCR,Standard,1.07,2,1,Delivered,43.13,False,,False,2026-03,Friday
+VL2026029533,2026-03-13,13,Delhi,Local NCR,Standard,0.86,2,1,Delivered,45.85,False,,False,2026-03,Friday
+VL2026029540,2026-03-13,13,Pune,Metro / Rest of India,Express,1.66,5,6,Delivered,196.97,False,Customer unavailable,True,2026-03,Friday
+VL2026029547,2026-03-13,13,Mumbai,Metro / Rest of India,Standard,3.76,5,5,Delivered,173.96,True,,False,2026-03,Friday
+VL2026029554,2026-03-13,13,Delhi,Local NCR,Standard,0.81,2,1,Delivered,42.37,True,,False,2026-03,Friday
+VL2026029561,2026-03-13,14,Mumbai,Metro / Rest of India,Same Day,0.85,5,7,Delivered,251.08,True,Wrong / incomplete address,True,2026-03,Friday
+VL2026029568,2026-03-13,14,Dehradun,North Zone,Express,2.66,3,2,Delivered,167.84,False,,False,2026-03,Friday
+VL2026029575,2026-03-13,14,Ghaziabad,Local NCR,Standard,1.04,2,1,Delivered,45.54,True,,False,2026-03,Friday
+VL2026029582,2026-03-13,14,Faridabad,Local NCR,Same Day,0.54,2,1,Delivered,96.9,False,,False,2026-03,Friday
+VL2026029589,2026-03-13,14,Ghaziabad,Local NCR,Standard,2.62,2,1,Delivered,61.65,True,,False,2026-03,Friday
+VL2026029596,2026-03-13,14,Delhi,Local NCR,Standard,3.78,2,1,RTO,83.03,False,,False,2026-03,Friday
+VL2026029603,2026-03-13,14,Chennai,Metro / Rest of India,Standard,2.18,5,4,Delivered,144.53,False,,False,2026-03,Friday
+VL2026029610,2026-03-13,14,Noida,Local NCR,Same Day,0.78,2,1,Delivered,92.46,True,,False,2026-03,Friday
+VL2026029617,2026-03-13,15,Jaipur,North Zone,Surface Cargo,2.53,3,3,Delivered,65.46,False,,False,2026-03,Friday
+VL2026029624,2026-03-13,15,Ghaziabad,Local NCR,Express,1.6,2,3,Delivered,89.08,False,Weather,True,2026-03,Friday
+VL2026029631,2026-03-13,15,Kolkata,Metro / Rest of India,Same Day,0.52,5,5,RTO,221.14,False,,False,2026-03,Friday
+VL2026029638,2026-03-13,15,Hyderabad,Metro / Rest of India,Same Day,1.88,5,5,Delivered,303.04,False,,False,2026-03,Friday
+VL2026029645,2026-03-13,15,Ghaziabad,Local NCR,Standard,2.25,2,1,Delivered,66.18,True,,False,2026-03,Friday
+VL2026029652,2026-03-13,15,Mumbai,Metro / Rest of India,Express,1.51,5,5,Delivered,173.04,True,,False,2026-03,Friday
+VL2026029659,2026-03-13,15,Chennai,Metro / Rest of India,Express,1.39,5,5,Delivered,180.22,True,,False,2026-03,Friday
+VL2026029666,2026-03-13,15,Faridabad,Local NCR,Standard,2.07,2,1,Delivered,55.39,False,,False,2026-03,Friday
+VL2026029673,2026-03-13,16,Chandigarh,North Zone,Express,0.74,3,3,Delivered,103.57,False,,False,2026-03,Friday
+VL2026029680,2026-03-13,16,Mumbai,Metro / Rest of India,Standard,1.83,5,4,Delivered,127.57,False,,False,2026-03,Friday
+VL2026029687,2026-03-13,17,Gurugram,Local NCR,Standard,0.34,2,2,Delivered,38.83,False,,False,2026-03,Friday
+VL2026029694,2026-03-13,17,Delhi,Local NCR,Standard,1.9,2,1,Delivered,53.52,False,,False,2026-03,Friday
+VL2026029701,2026-03-13,18,Mumbai,Metro / Rest of India,Standard,0.72,5,5,Delivered,98.19,False,,False,2026-03,Friday
+VL2026029708,2026-03-13,18,Mumbai,Metro / Rest of India,Standard,0.78,5,5,Delivered,92.55,False,,False,2026-03,Friday
+VL2026029715,2026-03-13,18,Lucknow,North Zone,Surface Cargo,2.01,3,2,Delivered,57.58,False,,False,2026-03,Friday
+VL2026029722,2026-03-13,18,Mumbai,Metro / Rest of India,Standard,0.51,5,5,Delivered,88.76,False,,False,2026-03,Friday
+VL2026029729,2026-03-13,19,Noida,Local NCR,Standard,2.32,2,1,RTO,54.89,False,,False,2026-03,Friday
+VL2026029736,2026-03-13,19,Delhi,Local NCR,Standard,1.79,2,2,Delivered,52.77,False,,False,2026-03,Friday
+VL2026029743,2026-03-13,20,Mumbai,Metro / Rest of India,Standard,0.41,5,4,Delivered,83.97,False,,False,2026-03,Friday
+VL2026029750,2026-03-14,8,Hyderabad,Metro / Rest of India,Same Day,2.01,5,6,Delivered,283.13,False,Traffic / hub congestion,True,2026-03,Saturday
+VL2026029757,2026-03-14,8,Faridabad,Local NCR,Standard,2.81,2,2,Delivered,65.87,False,,False,2026-03,Saturday
+VL2026029764,2026-03-14,9,Mumbai,Metro / Rest of India,Express,2.98,5,4,Delivered,262.79,False,,False,2026-03,Saturday
+VL2026029771,2026-03-14,9,Pune,Metro / Rest of India,Standard,1.49,5,4,Delivered,112.17,True,,False,2026-03,Saturday
+VL2026029778,2026-03-14,9,Hyderabad,Metro / Rest of India,Standard,1.43,5,4,Delivered,108.6,False,,False,2026-03,Saturday
+VL2026029785,2026-03-14,9,Ghaziabad,Local NCR,Same Day,2.56,2,1,Delivered,170.14,False,,False,2026-03,Saturday
+VL2026029792,2026-03-14,9,Chennai,Metro / Rest of India,Standard,2.77,5,5,Delivered,153.88,True,,False,2026-03,Saturday
+VL2026029799,2026-03-14,9,Noida,Local NCR,Express,0.88,2,4,Delivered,66.64,True,Traffic / hub congestion,True,2026-03,Saturday
+VL2026029806,2026-03-14,9,Ghaziabad,Local NCR,Standard,0.94,2,2,Delivered,44.39,True,,False,2026-03,Saturday
+VL2026029813,2026-03-14,9,Ghaziabad,Local NCR,Standard,1.31,2,1,Delivered,44.53,False,,False,2026-03,Saturday
+VL2026029820,2026-03-14,9,Lucknow,North Zone,Same Day,0.72,3,2,Delivered,173.81,True,,False,2026-03,Saturday
+VL2026029827,2026-03-14,10,Ghaziabad,Local NCR,Surface Cargo,4.55,2,1,Delivered,67.02,True,,False,2026-03,Saturday
+VL2026029834,2026-03-14,10,Kolkata,Metro / Rest of India,Express,0.84,5,4,Delivered,166.45,False,,False,2026-03,Saturday
+VL2026029841,2026-03-14,10,Noida,Local NCR,Express,0.62,2,1,Delivered,66.38,True,,False,2026-03,Saturday
+VL2026029848,2026-03-14,10,Delhi,Local NCR,Express,0.69,2,1,Delivered,63.67,True,,False,2026-03,Saturday
+VL2026029855,2026-03-14,10,Delhi,Local NCR,Standard,0.29,2,1,Delivered,34.18,False,,False,2026-03,Saturday
+VL2026029862,2026-03-14,10,Chennai,Metro / Rest of India,Standard,1.6,5,4,Delivered,113.55,False,,False,2026-03,Saturday
+VL2026029869,2026-03-14,11,Noida,Local NCR,Express,2.07,2,2,Lost/Damaged,103.67,True,,False,2026-03,Saturday
+VL2026029876,2026-03-14,11,Bengaluru,Metro / Rest of India,Express,0.57,5,6,Delivered,156.7,False,Traffic / hub congestion,True,2026-03,Saturday
+VL2026029883,2026-03-14,11,Bengaluru,Metro / Rest of India,Standard,8.42,5,5,Delivered,328.8,False,,False,2026-03,Saturday
+VL2026029890,2026-03-14,11,Jaipur,North Zone,Standard,6.65,3,4,RTO,202.79,False,Wrong / incomplete address,True,2026-03,Saturday
+VL2026029897,2026-03-14,11,Delhi,Local NCR,Express,0.94,2,1,RTO,67.93,False,,False,2026-03,Saturday
+VL2026029904,2026-03-14,11,Jaipur,North Zone,Express,0.93,3,2,Delivered,115.49,False,,False,2026-03,Saturday
+VL2026029911,2026-03-14,11,Delhi,Local NCR,Surface Cargo,0.91,2,3,Delivered,26.6,True,Wrong / incomplete address,True,2026-03,Saturday
+VL2026029918,2026-03-14,11,Chandigarh,North Zone,Standard,0.78,3,4,Delivered,68.37,True,Wrong / incomplete address,True,2026-03,Saturday
+VL2026029925,2026-03-14,11,Agra,North Zone,Express,6.8,3,3,Delivered,349.82,False,,False,2026-03,Saturday
+VL2026029932,2026-03-14,11,Gurugram,Local NCR,Standard,0.71,2,1,Delivered,40.82,True,,False,2026-03,Saturday
+VL2026029939,2026-03-14,11,Gurugram,Local NCR,Same Day,8.21,2,1,Lost/Damaged,397.2,False,,False,2026-03,Saturday
+VL2026029946,2026-03-14,12,Gurugram,Local NCR,Standard,1.3,2,1,RTO,50.58,True,,False,2026-03,Saturday
+VL2026029953,2026-03-14,12,Gurugram,Local NCR,Surface Cargo,0.91,2,1,Delivered,29.22,False,,False,2026-03,Saturday
+VL2026029960,2026-03-14,12,Kolkata,Metro / Rest of India,Standard,0.49,5,5,Delivered,89.16,False,,False,2026-03,Saturday
+VL2026029967,2026-03-14,12,Pune,Metro / Rest of India,Express,0.4,5,5,Delivered,132.33,True,,False,2026-03,Saturday
+VL2026029974,2026-03-14,12,Mumbai,Metro / Rest of India,Surface Cargo,1.62,5,4,Delivered,77.34,True,,False,2026-03,Saturday
+VL2026029981,2026-03-14,12,Delhi,Local NCR,Standard,1.74,2,1,Delivered,55.65,True,,False,2026-03,Saturday
+VL2026029988,2026-03-14,12,Bengaluru,Metro / Rest of India,Standard,0.73,5,4,Delivered,87.2,False,,False,2026-03,Saturday
+VL2026029995,2026-03-14,13,Mumbai,Metro / Rest of India,Surface Cargo,2.41,5,5,Delivered,85.01,False,,False,2026-03,Saturday
+VL2026030002,2026-03-14,13,Noida,Local NCR,Standard,2.95,2,1,Delivered,69.4,True,,False,2026-03,Saturday
+VL2026030009,2026-03-14,13,Ghaziabad,Local NCR,Standard,1.04,2,1,Delivered,42.87,False,,False,2026-03,Saturday
+VL2026030016,2026-03-14,13,Chennai,Metro / Rest of India,Express,0.25,5,4,Delivered,143.3,True,,False,2026-03,Saturday
+VL2026030023,2026-03-14,13,Gurugram,Local NCR,Standard,0.68,2,1,Delivered,42.15,False,,False,2026-03,Saturday
+VL2026030030,2026-03-14,13,Delhi,Local NCR,Same Day,0.94,2,1,Delivered,98.56,True,,False,2026-03,Saturday
+VL2026030037,2026-03-14,13,Lucknow,North Zone,Surface Cargo,3.23,3,3,Delivered,74.94,False,,False,2026-03,Saturday
+VL2026030044,2026-03-14,13,Gurugram,Local NCR,Surface Cargo,0.12,2,1,Delivered,22.28,False,,False,2026-03,Saturday
+VL2026030051,2026-03-14,13,Ghaziabad,Local NCR,Same Day,1.11,2,1,Delivered,109.2,False,,False,2026-03,Saturday
+VL2026030058,2026-03-14,13,Chennai,Metro / Rest of India,Surface Cargo,4.37,5,4,Delivered,148.77,True,,False,2026-03,Saturday
+VL2026030065,2026-03-14,13,Lucknow,North Zone,Standard,3.25,3,2,Delivered,108.3,False,,False,2026-03,Saturday
+VL2026030072,2026-03-14,14,Delhi,Local NCR,Express,2.35,2,1,Delivered,109.5,False,,False,2026-03,Saturday
+VL2026030079,2026-03-14,14,Mumbai,Metro / Rest of India,Standard,0.93,5,8,Delivered,108.81,True,Traffic / hub congestion,True,2026-03,Saturday
+VL2026030086,2026-03-14,14,Gurugram,Local NCR,Standard,1.66,2,1,Delivered,50.03,False,,False,2026-03,Saturday
+VL2026030093,2026-03-14,14,Hyderabad,Metro / Rest of India,Standard,1.51,5,4,Delivered,116.44,False,,False,2026-03,Saturday
+VL2026030100,2026-03-14,14,Bengaluru,Metro / Rest of India,Standard,9.64,5,5,Delivered,355.05,False,,False,2026-03,Saturday
+VL2026030107,2026-03-14,14,Lucknow,North Zone,Standard,3.49,3,2,Delivered,127.29,False,,False,2026-03,Saturday
+VL2026030114,2026-03-14,14,Delhi,Local NCR,Surface Cargo,1.57,2,1,Delivered,36.67,False,,False,2026-03,Saturday
+VL2026030121,2026-03-14,14,Ghaziabad,Local NCR,Express,3.65,2,1,RTO,132.52,False,,False,2026-03,Saturday
+VL2026030128,2026-03-14,14,Delhi,Local NCR,Standard,9.78,2,1,Delivered,164.18,False,,False,2026-03,Saturday
+VL2026030135,2026-03-14,14,Kolkata,Metro / Rest of India,Standard,1.27,5,5,Delivered,117.43,True,,False,2026-03,Saturday
+VL2026030142,2026-03-14,14,Delhi,Local NCR,Express,1.83,2,1,Delivered,92.5,True,,False,2026-03,Saturday
+VL2026030149,2026-03-14,14,Noida,Local NCR,Express,2.23,2,1,RTO,100.36,False,,False,2026-03,Saturday
+VL2026030156,2026-03-14,14,Ghaziabad,Local NCR,Standard,2.08,2,1,Delivered,54.44,False,,False,2026-03,Saturday
+VL2026030163,2026-03-14,14,Bengaluru,Metro / Rest of India,Same Day,1.47,5,4,Delivered,275.17,False,,False,2026-03,Saturday
+VL2026030170,2026-03-14,14,Lucknow,North Zone,Standard,4.67,3,3,Delivered,164.76,False,,False,2026-03,Saturday
+VL2026030177,2026-03-14,14,Delhi,Local NCR,Standard,3.01,2,1,Delivered,72.94,True,,False,2026-03,Saturday
+VL2026030184,2026-03-14,15,Ghaziabad,Local NCR,Standard,1.0,2,5,Delivered,43.19,False,Traffic / hub congestion,True,2026-03,Saturday
+VL2026030191,2026-03-14,15,Agra,North Zone,Standard,1.5,3,2,Delivered,81.1,True,,False,2026-03,Saturday
+VL2026030198,2026-03-14,15,Hyderabad,Metro / Rest of India,Express,0.52,5,8,Delivered,132.46,False,Wrong / incomplete address,True,2026-03,Saturday
+VL2026030205,2026-03-14,15,Hyderabad,Metro / Rest of India,Standard,3.77,5,4,RTO,180.44,False,,False,2026-03,Saturday
+VL2026030212,2026-03-14,15,Faridabad,Local NCR,Surface Cargo,0.38,2,1,Delivered,21.72,False,,False,2026-03,Saturday
+VL2026030219,2026-03-14,15,Mumbai,Metro / Rest of India,Standard,0.73,5,4,Delivered,86.71,True,,False,2026-03,Saturday
+VL2026030226,2026-03-14,15,Chandigarh,North Zone,Standard,3.47,3,2,RTO,128.01,True,,False,2026-03,Saturday
+VL2026030233,2026-03-14,15,Gurugram,Local NCR,Standard,0.78,2,1,Delivered,41.8,False,,False,2026-03,Saturday
+VL2026030240,2026-03-14,15,Delhi,Local NCR,Express,1.07,2,1,Delivered,76.59,False,,False,2026-03,Saturday
+VL2026030247,2026-03-14,15,Delhi,Local NCR,Standard,1.03,2,1,Delivered,38.2,False,,False,2026-03,Saturday
+VL2026030254,2026-03-14,16,Delhi,Local NCR,Same Day,0.32,2,1,Delivered,76.49,True,,False,2026-03,Saturday
+VL2026030261,2026-03-14,16,Gurugram,Local NCR,Express,3.26,2,1,Delivered,135.47,True,,False,2026-03,Saturday
+VL2026030268,2026-03-14,16,Hyderabad,Metro / Rest of India,Express,5.05,5,4,Delivered,397.66,False,,False,2026-03,Saturday
+VL2026030275,2026-03-14,16,Chandigarh,North Zone,Standard,1.89,3,3,Delivered,93.4,False,,False,2026-03,Saturday
+VL2026030282,2026-03-14,16,Ghaziabad,Local NCR,Surface Cargo,0.41,2,2,Delivered,22.55,False,,False,2026-03,Saturday
+VL2026030289,2026-03-14,16,Kolkata,Metro / Rest of India,Surface Cargo,1.46,5,5,Delivered,69.11,True,,False,2026-03,Saturday
+VL2026030296,2026-03-14,16,Chandigarh,North Zone,Surface Cargo,0.4,3,2,Delivered,35.94,True,,False,2026-03,Saturday
+VL2026030303,2026-03-14,16,Lucknow,North Zone,Express,0.97,3,3,Delivered,119.19,False,,False,2026-03,Saturday
+VL2026030310,2026-03-14,16,Jaipur,North Zone,Standard,2.01,3,3,Lost/Damaged,94.58,True,,False,2026-03,Saturday
+VL2026030317,2026-03-14,16,Chennai,Metro / Rest of India,Standard,2.79,5,5,Delivered,169.82,True,,False,2026-03,Saturday
+VL2026030324,2026-03-14,16,Gurugram,Local NCR,Standard,0.74,2,1,Delivered,38.91,True,,False,2026-03,Saturday
+VL2026030331,2026-03-14,16,Kolkata,Metro / Rest of India,Standard,7.86,5,5,Delivered,307.05,False,,False,2026-03,Saturday
+VL2026030338,2026-03-14,17,Pune,Metro / Rest of India,Express,2.03,5,4,Delivered,229.81,False,,False,2026-03,Saturday
+VL2026030345,2026-03-14,17,Noida,Local NCR,Surface Cargo,1.07,2,3,Delivered,27.02,True,Hub sorting delay,True,2026-03,Saturday
+VL2026030352,2026-03-14,17,Delhi,Local NCR,Surface Cargo,1.84,2,1,Delivered,36.53,False,,False,2026-03,Saturday
+VL2026030359,2026-03-14,17,Jaipur,North Zone,Express,0.7,3,3,Delivered,114.87,False,,False,2026-03,Saturday
+VL2026030366,2026-03-14,17,Bengaluru,Metro / Rest of India,Standard,3.35,5,4,Delivered,190.05,True,,False,2026-03,Saturday
+VL2026030373,2026-03-14,17,Gurugram,Local NCR,Standard,0.61,2,1,Delivered,34.46,False,,False,2026-03,Saturday
+VL2026030380,2026-03-14,18,Faridabad,Local NCR,Express,1.95,2,1,Delivered,98.1,False,,False,2026-03,Saturday
+VL2026030387,2026-03-14,18,Chandigarh,North Zone,Standard,1.24,3,3,Delivered,71.69,False,,False,2026-03,Saturday
+VL2026030394,2026-03-14,18,Noida,Local NCR,Express,3.57,2,1,Delivered,122.67,True,,False,2026-03,Saturday
+VL2026030401,2026-03-14,19,Jaipur,North Zone,Express,3.67,3,3,Delivered,237.93,False,,False,2026-03,Saturday
+VL2026030408,2026-03-14,20,Ghaziabad,Local NCR,Surface Cargo,2.27,2,1,Delivered,40.43,False,,False,2026-03,Saturday
+VL2026030415,2026-03-15,8,Mumbai,Metro / Rest of India,Standard,0.7,5,5,Delivered,97.42,True,,False,2026-03,Sunday
+VL2026030422,2026-03-15,8,Bengaluru,Metro / Rest of India,Standard,0.31,5,4,Lost/Damaged,76.96,False,,False,2026-03,Sunday
+VL2026030429,2026-03-15,9,Faridabad,Local NCR,Standard,1.14,2,1,Delivered,43.8,False,,False,2026-03,Sunday
+VL2026030436,2026-03-15,9,Delhi,Local NCR,Standard,0.33,2,1,Delivered,36.28,True,,False,2026-03,Sunday
+VL2026030443,2026-03-15,9,Noida,Local NCR,Express,3.26,2,1,Delivered,118.5,True,,False,2026-03,Sunday
+VL2026030450,2026-03-15,9,Delhi,Local NCR,Surface Cargo,3.14,2,4,Delivered,49.19,False,Weather,True,2026-03,Sunday
+VL2026030457,2026-03-15,9,Delhi,Local NCR,Standard,1.25,2,1,Delivered,47.08,True,,False,2026-03,Sunday
+VL2026030464,2026-03-15,10,Hyderabad,Metro / Rest of India,Standard,0.5,5,4,Delivered,73.06,True,,False,2026-03,Sunday
+VL2026030471,2026-03-15,11,Jaipur,North Zone,Standard,0.59,3,2,Delivered,60.85,False,,False,2026-03,Sunday
+VL2026030478,2026-03-15,11,Mumbai,Metro / Rest of India,Surface Cargo,0.88,5,5,RTO,57.3,False,,False,2026-03,Sunday
+VL2026030485,2026-03-15,11,Bengaluru,Metro / Rest of India,Standard,2.65,5,5,Delivered,141.83,True,,False,2026-03,Sunday
+VL2026030492,2026-03-15,12,Pune,Metro / Rest of India,Standard,1.03,5,4,RTO,103.15,True,,False,2026-03,Sunday
+VL2026030499,2026-03-15,12,Delhi,Local NCR,Standard,0.28,2,1,Delivered,35.39,False,,False,2026-03,Sunday
+VL2026030506,2026-03-15,12,Ghaziabad,Local NCR,Surface Cargo,0.27,2,1,Delivered,23.05,False,,False,2026-03,Sunday
+VL2026030513,2026-03-15,12,Chennai,Metro / Rest of India,Standard,1.14,5,4,Delivered,106.46,True,,False,2026-03,Sunday
+VL2026030520,2026-03-15,13,Pune,Metro / Rest of India,Surface Cargo,1.15,5,4,Delivered,67.18,True,,False,2026-03,Sunday
+VL2026030527,2026-03-15,13,Bengaluru,Metro / Rest of India,Standard,0.37,5,5,Delivered,79.73,False,,False,2026-03,Sunday
+VL2026030534,2026-03-15,14,Delhi,Local NCR,Surface Cargo,3.85,2,1,Delivered,50.38,False,,False,2026-03,Sunday
+VL2026030541,2026-03-15,14,Faridabad,Local NCR,Express,1.12,2,1,Delivered,72.02,True,,False,2026-03,Sunday
+VL2026030548,2026-03-15,14,Agra,North Zone,Standard,0.74,3,2,Delivered,62.78,False,,False,2026-03,Sunday
+VL2026030555,2026-03-15,14,Noida,Local NCR,Standard,5.03,2,1,Delivered,96.71,False,,False,2026-03,Sunday
+VL2026030562,2026-03-15,14,Ghaziabad,Local NCR,Express,0.77,2,1,Delivered,71.54,False,,False,2026-03,Sunday
+VL2026030569,2026-03-15,15,Pune,Metro / Rest of India,Standard,0.5,5,5,Delivered,81.53,False,,False,2026-03,Sunday
+VL2026030576,2026-03-15,15,Jaipur,North Zone,Standard,1.32,3,2,Delivered,84.57,False,,False,2026-03,Sunday
+VL2026030583,2026-03-15,16,Ghaziabad,Local NCR,Standard,0.14,2,1,Delivered,29.7,False,,False,2026-03,Sunday
+VL2026030590,2026-03-15,16,Ghaziabad,Local NCR,Standard,0.39,2,1,Delivered,37.87,False,,False,2026-03,Sunday
+VL2026030597,2026-03-15,16,Ghaziabad,Local NCR,Standard,1.97,2,1,Delivered,51.71,False,,False,2026-03,Sunday
+VL2026030604,2026-03-15,17,Noida,Local NCR,Standard,0.25,2,1,Delivered,31.53,False,,False,2026-03,Sunday
+VL2026030611,2026-03-15,17,Noida,Local NCR,Standard,3.91,2,1,Delivered,81.5,False,,False,2026-03,Sunday
+VL2026030618,2026-03-15,17,Gurugram,Local NCR,Surface Cargo,0.83,2,1,Delivered,26.77,False,,False,2026-03,Sunday
+VL2026030625,2026-03-15,17,Hyderabad,Metro / Rest of India,Surface Cargo,0.89,5,5,Delivered,67.98,False,,False,2026-03,Sunday
+VL2026030632,2026-03-15,18,Ghaziabad,Local NCR,Same Day,0.63,2,1,RTO,87.44,False,,False,2026-03,Sunday
+VL2026030639,2026-03-15,18,Delhi,Local NCR,Same Day,0.34,2,1,Delivered,92.58,False,,False,2026-03,Sunday
+VL2026030646,2026-03-15,19,Delhi,Local NCR,Express,1.03,2,1,Delivered,77.46,False,,False,2026-03,Sunday
+VL2026030653,2026-03-15,19,Noida,Local NCR,Express,1.32,2,1,Delivered,83.73,False,,False,2026-03,Sunday
+VL2026030660,2026-03-16,8,Agra,North Zone,Standard,0.52,3,3,Delivered,58.74,False,,False,2026-03,Monday
+VL2026030667,2026-03-16,8,Jaipur,North Zone,Same Day,1.94,3,3,Delivered,239.2,False,,False,2026-03,Monday
+VL2026030674,2026-03-16,8,Noida,Local NCR,Standard,5.51,2,1,Delivered,113.44,True,,False,2026-03,Monday
+VL2026030681,2026-03-16,9,Hyderabad,Metro / Rest of India,Standard,3.13,5,5,Delivered,168.97,False,,False,2026-03,Monday
+VL2026030688,2026-03-16,9,Ghaziabad,Local NCR,Standard,1.66,2,4,Delivered,57.95,False,Customer unavailable,True,2026-03,Monday
+VL2026030695,2026-03-16,10,Hyderabad,Metro / Rest of India,Standard,2.13,5,7,Delivered,123.83,True,Traffic / hub congestion,True,2026-03,Monday
+VL2026030702,2026-03-16,10,Jaipur,North Zone,Express,3.35,3,3,Delivered,218.44,True,,False,2026-03,Monday
+VL2026030709,2026-03-16,10,Bengaluru,Metro / Rest of India,Express,0.78,5,4,Delivered,149.07,False,,False,2026-03,Monday
+VL2026030716,2026-03-16,10,Lucknow,North Zone,Standard,1.02,3,4,Delivered,71.47,True,Customer unavailable,True,2026-03,Monday
+VL2026030723,2026-03-16,10,Bengaluru,Metro / Rest of India,Surface Cargo,4.93,5,8,Delivered,137.61,False,Traffic / hub congestion,True,2026-03,Monday
+VL2026030730,2026-03-16,11,Dehradun,North Zone,Standard,1.25,3,2,Delivered,73.74,False,,False,2026-03,Monday
+VL2026030737,2026-03-16,11,Delhi,Local NCR,Surface Cargo,0.32,2,1,Delivered,22.68,False,,False,2026-03,Monday
+VL2026030744,2026-03-16,11,Noida,Local NCR,Express,2.44,2,1,Delivered,107.84,False,,False,2026-03,Monday
+VL2026030751,2026-03-16,11,Kolkata,Metro / Rest of India,Same Day,2.0,5,5,Delivered,332.96,True,,False,2026-03,Monday
+VL2026030758,2026-03-16,12,Delhi,Local NCR,Standard,1.39,2,1,Delivered,50.91,False,,False,2026-03,Monday
+VL2026030765,2026-03-16,12,Ghaziabad,Local NCR,Standard,1.41,2,1,Lost/Damaged,44.66,False,,False,2026-03,Monday
+VL2026030772,2026-03-16,12,Bengaluru,Metro / Rest of India,Standard,2.23,5,5,Delivered,141.37,False,,False,2026-03,Monday
+VL2026030779,2026-03-16,12,Delhi,Local NCR,Standard,4.8,2,2,Delivered,94.44,False,,False,2026-03,Monday
+VL2026030786,2026-03-16,12,Faridabad,Local NCR,Express,0.49,2,2,Delivered,62.69,True,,False,2026-03,Monday
+VL2026030793,2026-03-16,12,Bengaluru,Metro / Rest of India,Standard,2.41,5,4,Delivered,138.92,True,,False,2026-03,Monday
+VL2026030800,2026-03-16,12,Ghaziabad,Local NCR,Standard,0.56,2,1,Delivered,39.85,True,,False,2026-03,Monday
+VL2026030807,2026-03-16,13,Delhi,Local NCR,Express,2.61,2,1,Delivered,109.05,False,,False,2026-03,Monday
+VL2026030814,2026-03-16,13,Mumbai,Metro / Rest of India,Express,0.67,5,6,Delivered,155.8,True,Traffic / hub congestion,True,2026-03,Monday
+VL2026030821,2026-03-16,13,Mumbai,Metro / Rest of India,Standard,0.23,5,4,Delivered,68.77,False,,False,2026-03,Monday
+VL2026030828,2026-03-16,13,Ghaziabad,Local NCR,Standard,0.76,2,3,RTO,41.07,False,Wrong / incomplete address,True,2026-03,Monday
+VL2026030835,2026-03-16,13,Delhi,Local NCR,Standard,0.53,2,1,Delivered,42.6,True,,False,2026-03,Monday
+VL2026030842,2026-03-16,13,Chandigarh,North Zone,Standard,2.72,3,2,Delivered,113.79,False,,False,2026-03,Monday
+VL2026030849,2026-03-16,13,Mumbai,Metro / Rest of India,Standard,1.95,5,8,Delivered,144.82,False,Traffic / hub congestion,True,2026-03,Monday
+VL2026030856,2026-03-16,13,Ghaziabad,Local NCR,Standard,3.17,2,5,Delivered,74.72,False,Customer unavailable,True,2026-03,Monday
+VL2026030863,2026-03-16,13,Delhi,Local NCR,Express,0.5,2,1,Delivered,63.47,True,,False,2026-03,Monday
+VL2026030870,2026-03-16,14,Kolkata,Metro / Rest of India,Same Day,0.86,5,6,Delivered,241.1,False,Wrong / incomplete address,True,2026-03,Monday
+VL2026030877,2026-03-16,14,Mumbai,Metro / Rest of India,Same Day,2.4,5,6,Delivered,334.6,False,Wrong / incomplete address,True,2026-03,Monday
+VL2026030884,2026-03-16,14,Chennai,Metro / Rest of India,Same Day,0.63,5,5,Delivered,233.67,False,,False,2026-03,Monday
+VL2026030891,2026-03-16,14,Gurugram,Local NCR,Express,1.23,2,1,RTO,83.02,True,,False,2026-03,Monday
+VL2026030898,2026-03-16,14,Ghaziabad,Local NCR,Surface Cargo,0.71,2,1,Delivered,25.73,False,,False,2026-03,Monday
+VL2026030905,2026-03-16,14,Chennai,Metro / Rest of India,Standard,1.03,5,5,Delivered,103.27,False,,False,2026-03,Monday
+VL2026030912,2026-03-16,14,Lucknow,North Zone,Express,0.81,3,2,Delivered,107.76,True,,False,2026-03,Monday
+VL2026030919,2026-03-16,15,Lucknow,North Zone,Express,1.85,3,3,Delivered,149.36,False,,False,2026-03,Monday
+VL2026030926,2026-03-16,15,Delhi,Local NCR,Standard,1.11,2,1,Delivered,46.66,True,,False,2026-03,Monday
+VL2026030933,2026-03-16,15,Ghaziabad,Local NCR,Standard,2.4,2,1,Delivered,55.83,False,,False,2026-03,Monday
+VL2026030940,2026-03-16,15,Faridabad,Local NCR,Standard,1.38,2,2,Delivered,49.35,True,,False,2026-03,Monday
+VL2026030947,2026-03-16,15,Lucknow,North Zone,Surface Cargo,2.49,3,3,Delivered,64.48,True,,False,2026-03,Monday
+VL2026030954,2026-03-16,15,Chennai,Metro / Rest of India,Express,1.0,5,5,Delivered,182.84,True,,False,2026-03,Monday
+VL2026030961,2026-03-16,15,Bengaluru,Metro / Rest of India,Express,0.41,5,5,Delivered,152.0,True,,False,2026-03,Monday
+VL2026030968,2026-03-16,16,Ghaziabad,Local NCR,Standard,2.41,2,2,Delivered,67.19,False,,False,2026-03,Monday
+VL2026030975,2026-03-16,16,Jaipur,North Zone,Standard,1.45,3,3,Delivered,80.71,False,,False,2026-03,Monday
+VL2026030982,2026-03-16,16,Mumbai,Metro / Rest of India,Standard,0.33,5,4,Delivered,77.66,False,,False,2026-03,Monday
+VL2026030989,2026-03-16,16,Ghaziabad,Local NCR,Express,0.84,2,1,Delivered,62.12,False,,False,2026-03,Monday
+VL2026030996,2026-03-16,16,Hyderabad,Metro / Rest of India,Standard,4.57,5,5,Delivered,211.24,False,,False,2026-03,Monday
+VL2026031003,2026-03-16,16,Hyderabad,Metro / Rest of India,Same Day,1.73,5,5,Lost/Damaged,304.94,True,,False,2026-03,Monday
+VL2026031010,2026-03-16,16,Mumbai,Metro / Rest of India,Standard,1.61,5,4,Delivered,108.5,False,,False,2026-03,Monday
+VL2026031017,2026-03-16,16,Delhi,Local NCR,Express,0.57,2,1,Delivered,61.52,False,,False,2026-03,Monday
+VL2026031024,2026-03-16,16,Hyderabad,Metro / Rest of India,Surface Cargo,0.89,5,4,Delivered,62.39,True,,False,2026-03,Monday
+VL2026031031,2026-03-16,16,Mumbai,Metro / Rest of India,Standard,0.7,5,5,Delivered,91.85,False,,False,2026-03,Monday
+VL2026031038,2026-03-16,17,Ghaziabad,Local NCR,Standard,2.37,2,1,Delivered,64.91,False,,False,2026-03,Monday
+VL2026031045,2026-03-16,17,Kolkata,Metro / Rest of India,Surface Cargo,4.46,5,4,Delivered,129.83,False,,False,2026-03,Monday
+VL2026031052,2026-03-16,17,Ghaziabad,Local NCR,Standard,5.05,2,1,Delivered,92.2,False,,False,2026-03,Monday
+VL2026031059,2026-03-16,18,Mumbai,Metro / Rest of India,Express,0.57,5,5,Delivered,155.2,True,,False,2026-03,Monday
+VL2026031066,2026-03-16,18,Chandigarh,North Zone,Standard,1.67,3,2,Delivered,92.54,False,,False,2026-03,Monday
+VL2026031073,2026-03-16,18,Ghaziabad,Local NCR,Express,1.09,2,1,Delivered,78.78,False,,False,2026-03,Monday
+VL2026031080,2026-03-16,19,Ghaziabad,Local NCR,Express,0.49,2,1,Delivered,65.48,True,,False,2026-03,Monday
+VL2026031087,2026-03-16,20,Chandigarh,North Zone,Same Day,3.16,3,3,Delivered,297.91,False,,False,2026-03,Monday
+VL2026031094,2026-03-17,8,Gurugram,Local NCR,Surface Cargo,1.01,2,5,Delivered,30.35,False,Customer unavailable,True,2026-03,Tuesday
+VL2026031101,2026-03-17,8,Bengaluru,Metro / Rest of India,Standard,0.53,5,5,Delivered,81.88,True,,False,2026-03,Tuesday
+VL2026031108,2026-03-17,9,Gurugram,Local NCR,Standard,0.42,2,1,Delivered,37.52,True,,False,2026-03,Tuesday
+VL2026031115,2026-03-17,9,Mumbai,Metro / Rest of India,Express,3.51,5,5,Delivered,266.57,False,,False,2026-03,Tuesday
+VL2026031122,2026-03-17,9,Delhi,Local NCR,Express,3.15,2,1,Delivered,129.56,True,,False,2026-03,Tuesday
+VL2026031129,2026-03-17,9,Delhi,Local NCR,Standard,0.66,2,1,Delivered,38.89,False,,False,2026-03,Tuesday
+VL2026031136,2026-03-17,10,Delhi,Local NCR,Standard,1.3,2,1,Delivered,49.49,False,,False,2026-03,Tuesday
+VL2026031143,2026-03-17,10,Pune,Metro / Rest of India,Standard,0.55,5,5,Delivered,78.84,False,,False,2026-03,Tuesday
+VL2026031150,2026-03-17,10,Delhi,Local NCR,Standard,2.18,2,1,Delivered,66.45,False,,False,2026-03,Tuesday
+VL2026031157,2026-03-17,10,Jaipur,North Zone,Express,2.21,3,2,Delivered,173.91,False,,False,2026-03,Tuesday
+VL2026031164,2026-03-17,10,Delhi,Local NCR,Express,0.9,2,1,Delivered,69.23,False,,False,2026-03,Tuesday
+VL2026031171,2026-03-17,10,Bengaluru,Metro / Rest of India,Surface Cargo,1.91,5,5,Delivered,76.14,False,,False,2026-03,Tuesday
+VL2026031178,2026-03-17,11,Jaipur,North Zone,Express,0.42,3,3,Delivered,96.08,False,,False,2026-03,Tuesday
+VL2026031185,2026-03-17,11,Jaipur,North Zone,Standard,1.73,3,2,Delivered,93.51,True,,False,2026-03,Tuesday
+VL2026031192,2026-03-17,11,Lucknow,North Zone,Standard,1.1,3,4,Delivered,67.33,False,Hub sorting delay,True,2026-03,Tuesday
+VL2026031199,2026-03-17,11,Mumbai,Metro / Rest of India,Standard,2.16,5,5,Delivered,135.54,True,,False,2026-03,Tuesday
+VL2026031206,2026-03-17,11,Lucknow,North Zone,Express,1.43,3,2,Delivered,126.48,False,,False,2026-03,Tuesday
+VL2026031213,2026-03-17,11,Ghaziabad,Local NCR,Standard,0.7,2,1,Delivered,41.72,True,,False,2026-03,Tuesday
+VL2026031220,2026-03-17,11,Noida,Local NCR,Standard,2.18,2,1,Delivered,60.24,False,,False,2026-03,Tuesday
+VL2026031227,2026-03-17,11,Mumbai,Metro / Rest of India,Surface Cargo,2.08,5,4,Delivered,89.68,True,,False,2026-03,Tuesday
+VL2026031234,2026-03-17,11,Ghaziabad,Local NCR,Express,2.06,2,1,Delivered,91.23,True,,False,2026-03,Tuesday
+VL2026031241,2026-03-17,12,Mumbai,Metro / Rest of India,Surface Cargo,1.12,5,4,Delivered,65.58,False,,False,2026-03,Tuesday
+VL2026031248,2026-03-17,12,Ghaziabad,Local NCR,Standard,0.87,2,1,Delivered,46.9,False,,False,2026-03,Tuesday
+VL2026031255,2026-03-17,12,Jaipur,North Zone,Same Day,2.03,3,2,Delivered,234.99,True,,False,2026-03,Tuesday
+VL2026031262,2026-03-17,12,Mumbai,Metro / Rest of India,Express,1.21,5,5,Delivered,175.89,False,,False,2026-03,Tuesday
+VL2026031269,2026-03-17,13,Chandigarh,North Zone,Standard,0.57,3,2,Delivered,62.95,True,,False,2026-03,Tuesday
+VL2026031276,2026-03-17,13,Delhi,Local NCR,Standard,1.55,2,1,Delivered,51.71,True,,False,2026-03,Tuesday
+VL2026031283,2026-03-17,13,Delhi,Local NCR,Standard,3.95,2,1,Delivered,85.7,False,,False,2026-03,Tuesday
+VL2026031290,2026-03-17,13,Mumbai,Metro / Rest of India,Standard,1.12,5,4,Delivered,114.33,True,,False,2026-03,Tuesday
+VL2026031297,2026-03-17,13,Chennai,Metro / Rest of India,Standard,3.81,5,6,Delivered,185.41,False,Vehicle breakdown,True,2026-03,Tuesday
+VL2026031304,2026-03-17,13,Jaipur,North Zone,Surface Cargo,0.37,3,2,Delivered,40.37,True,,False,2026-03,Tuesday
+VL2026031311,2026-03-17,13,Pune,Metro / Rest of India,Express,4.09,5,5,Delivered,323.25,True,,False,2026-03,Tuesday
+VL2026031318,2026-03-17,13,Noida,Local NCR,Surface Cargo,1.93,2,1,Delivered,33.99,False,,False,2026-03,Tuesday
+VL2026031325,2026-03-17,13,Bengaluru,Metro / Rest of India,Standard,1.05,5,5,Delivered,107.22,False,,False,2026-03,Tuesday
+VL2026031332,2026-03-17,14,Mumbai,Metro / Rest of India,Standard,3.59,5,6,RTO,181.19,False,Vehicle breakdown,True,2026-03,Tuesday
+VL2026031339,2026-03-17,14,Hyderabad,Metro / Rest of India,Standard,0.22,5,4,Delivered,80.25,True,,False,2026-03,Tuesday
+VL2026031346,2026-03-17,14,Ghaziabad,Local NCR,Express,0.73,2,1,Delivered,67.04,False,,False,2026-03,Tuesday
+VL2026031353,2026-03-17,14,Ghaziabad,Local NCR,Surface Cargo,1.97,2,1,Delivered,34.94,False,,False,2026-03,Tuesday
+VL2026031360,2026-03-17,14,Delhi,Local NCR,Standard,2.85,2,1,Delivered,75.65,True,,False,2026-03,Tuesday
+VL2026031367,2026-03-17,14,Chennai,Metro / Rest of India,Express,0.53,5,4,Delivered,151.0,False,,False,2026-03,Tuesday
+VL2026031374,2026-03-17,14,Delhi,Local NCR,Express,2.85,2,1,Delivered,133.43,False,,False,2026-03,Tuesday
+VL2026031381,2026-03-17,14,Delhi,Local NCR,Standard,3.84,2,5,Delivered,77.59,False,Hub sorting delay,True,2026-03,Tuesday
+VL2026031388,2026-03-17,15,Ghaziabad,Local NCR,Surface Cargo,0.79,2,1,Delivered,27.46,False,,False,2026-03,Tuesday
+VL2026031395,2026-03-17,15,Ghaziabad,Local NCR,Express,0.56,2,1,Delivered,65.82,False,,False,2026-03,Tuesday
+VL2026031402,2026-03-17,15,Gurugram,Local NCR,Standard,3.41,2,1,Lost/Damaged,81.37,False,,False,2026-03,Tuesday
+VL2026031409,2026-03-17,15,Noida,Local NCR,Standard,1.6,2,1,Delivered,52.55,False,,False,2026-03,Tuesday
+VL2026031416,2026-03-17,15,Gurugram,Local NCR,Standard,1.53,2,1,Delivered,59.01,False,,False,2026-03,Tuesday
+VL2026031423,2026-03-17,15,Gurugram,Local NCR,Express,1.3,2,1,Delivered,79.93,False,,False,2026-03,Tuesday
+VL2026031430,2026-03-17,16,Noida,Local NCR,Same Day,4.12,2,1,Delivered,232.64,False,,False,2026-03,Tuesday
+VL2026031437,2026-03-17,16,Delhi,Local NCR,Standard,1.29,2,1,Delivered,49.32,False,,False,2026-03,Tuesday
+VL2026031444,2026-03-17,16,Noida,Local NCR,Express,1.33,2,1,Delivered,79.49,True,,False,2026-03,Tuesday
+VL2026031451,2026-03-17,16,Delhi,Local NCR,Standard,1.71,2,1,Delivered,57.46,False,,False,2026-03,Tuesday
+VL2026031458,2026-03-17,16,Delhi,Local NCR,Standard,1.05,2,1,Delivered,42.83,False,,False,2026-03,Tuesday
+VL2026031465,2026-03-17,16,Mumbai,Metro / Rest of India,Surface Cargo,1.73,5,6,Delivered,70.31,False,Traffic / hub congestion,True,2026-03,Tuesday
+VL2026031472,2026-03-17,16,Chennai,Metro / Rest of India,Surface Cargo,5.47,5,5,Delivered,132.9,True,,False,2026-03,Tuesday
+VL2026031479,2026-03-17,16,Ghaziabad,Local NCR,Standard,4.63,2,1,Delivered,90.6,True,,False,2026-03,Tuesday
+VL2026031486,2026-03-17,17,Agra,North Zone,Express,1.11,3,2,Delivered,105.68,False,,False,2026-03,Tuesday
+VL2026031493,2026-03-17,17,Lucknow,North Zone,Standard,0.55,3,2,Delivered,63.18,False,,False,2026-03,Tuesday
+VL2026031500,2026-03-17,17,Lucknow,North Zone,Standard,1.03,3,2,Delivered,74.99,False,,False,2026-03,Tuesday
+VL2026031507,2026-03-17,17,Ghaziabad,Local NCR,Standard,0.56,2,1,Delivered,37.11,False,,False,2026-03,Tuesday
+VL2026031514,2026-03-17,17,Jaipur,North Zone,Standard,0.72,3,3,Delivered,65.77,False,,False,2026-03,Tuesday
+VL2026031521,2026-03-17,19,Bengaluru,Metro / Rest of India,Standard,0.84,5,4,Delivered,96.04,True,,False,2026-03,Tuesday
+VL2026031528,2026-03-17,19,Kolkata,Metro / Rest of India,Express,1.18,5,4,Delivered,159.74,True,,False,2026-03,Tuesday
+VL2026031535,2026-03-17,19,Agra,North Zone,Express,1.4,3,3,Delivered,141.24,False,,False,2026-03,Tuesday
+VL2026031542,2026-03-18,9,Gurugram,Local NCR,Standard,0.91,2,1,Delivered,42.86,True,,False,2026-03,Wednesday
+VL2026031549,2026-03-18,9,Ghaziabad,Local NCR,Standard,1.27,2,1,Delivered,47.39,False,,False,2026-03,Wednesday
+VL2026031556,2026-03-18,9,Noida,Local NCR,Same Day,3.2,2,1,Delivered,172.36,True,,False,2026-03,Wednesday
+VL2026031563,2026-03-18,10,Jaipur,North Zone,Standard,0.64,3,6,Delivered,64.04,False,Vehicle breakdown,True,2026-03,Wednesday
+VL2026031570,2026-03-18,10,Chandigarh,North Zone,Surface Cargo,3.07,3,6,Delivered,79.78,False,Customer unavailable,True,2026-03,Wednesday
+VL2026031577,2026-03-18,11,Gurugram,Local NCR,Standard,1.91,2,3,Delivered,52.77,False,Traffic / hub congestion,True,2026-03,Wednesday
+VL2026031584,2026-03-18,11,Ghaziabad,Local NCR,Same Day,1.4,2,1,Delivered,121.78,False,,False,2026-03,Wednesday
+VL2026031591,2026-03-18,11,Noida,Local NCR,Surface Cargo,1.67,2,2,Delivered,36.6,True,,False,2026-03,Wednesday
+VL2026031598,2026-03-18,11,Mumbai,Metro / Rest of India,Surface Cargo,2.32,5,4,Delivered,87.1,True,,False,2026-03,Wednesday
+VL2026031605,2026-03-18,11,Delhi,Local NCR,Standard,0.44,2,1,Delivered,37.54,True,,False,2026-03,Wednesday
+VL2026031612,2026-03-18,11,Noida,Local NCR,Standard,0.5,2,1,Delivered,37.67,True,,False,2026-03,Wednesday
+VL2026031619,2026-03-18,11,Delhi,Local NCR,Same Day,0.41,2,1,Delivered,101.71,False,,False,2026-03,Wednesday
+VL2026031626,2026-03-18,11,Jaipur,North Zone,Surface Cargo,2.51,3,3,Delivered,71.35,False,,False,2026-03,Wednesday
+VL2026031633,2026-03-18,11,Lucknow,North Zone,Same Day,20.33,3,3,Delivered,1317.08,False,,False,2026-03,Wednesday
+VL2026031640,2026-03-18,12,Chandigarh,North Zone,Express,3.57,3,4,Delivered,241.37,True,Wrong / incomplete address,True,2026-03,Wednesday
+VL2026031647,2026-03-18,12,Gurugram,Local NCR,Standard,2.62,2,1,Delivered,68.04,False,,False,2026-03,Wednesday
+VL2026031654,2026-03-18,12,Ghaziabad,Local NCR,Standard,0.64,2,1,Delivered,40.96,True,,False,2026-03,Wednesday
+VL2026031661,2026-03-18,12,Ghaziabad,Local NCR,Express,1.53,2,1,Delivered,86.03,True,,False,2026-03,Wednesday
+VL2026031668,2026-03-18,12,Mumbai,Metro / Rest of India,Same Day,3.36,5,5,Delivered,438.09,False,,False,2026-03,Wednesday
+VL2026031675,2026-03-18,12,Hyderabad,Metro / Rest of India,Surface Cargo,3.88,5,4,Delivered,110.91,False,,False,2026-03,Wednesday
+VL2026031682,2026-03-18,12,Lucknow,North Zone,Standard,1.53,3,3,Delivered,83.12,False,,False,2026-03,Wednesday
+VL2026031689,2026-03-18,12,Ghaziabad,Local NCR,Standard,1.18,2,1,Delivered,47.45,False,,False,2026-03,Wednesday
+VL2026031696,2026-03-18,12,Bengaluru,Metro / Rest of India,Express,1.79,5,5,Delivered,198.04,False,,False,2026-03,Wednesday
+VL2026031703,2026-03-18,13,Noida,Local NCR,Express,3.04,2,1,Delivered,127.79,True,,False,2026-03,Wednesday
+VL2026031710,2026-03-18,13,Bengaluru,Metro / Rest of India,Standard,2.47,5,6,Delivered,158.57,True,Vehicle breakdown,True,2026-03,Wednesday
+VL2026031717,2026-03-18,13,Hyderabad,Metro / Rest of India,Standard,4.19,5,4,Delivered,202.64,True,,False,2026-03,Wednesday
+VL2026031724,2026-03-18,13,Delhi,Local NCR,Standard,2.03,2,1,Delivered,55.82,True,,False,2026-03,Wednesday
+VL2026031731,2026-03-18,13,Gurugram,Local NCR,Standard,1.14,2,1,Delivered,42.95,True,,False,2026-03,Wednesday
+VL2026031738,2026-03-18,13,Ghaziabad,Local NCR,Standard,0.71,2,1,Delivered,38.86,False,,False,2026-03,Wednesday
+VL2026031745,2026-03-18,13,Delhi,Local NCR,Standard,0.73,2,1,Delivered,42.84,True,,False,2026-03,Wednesday
+VL2026031752,2026-03-18,14,Faridabad,Local NCR,Express,0.77,2,1,Delivered,70.49,True,,False,2026-03,Wednesday
+VL2026031759,2026-03-18,14,Hyderabad,Metro / Rest of India,Express,0.77,5,5,Delivered,160.98,False,,False,2026-03,Wednesday
+VL2026031766,2026-03-18,14,Lucknow,North Zone,Surface Cargo,0.4,3,4,Delivered,36.51,False,Wrong / incomplete address,True,2026-03,Wednesday
+VL2026031773,2026-03-18,14,Kolkata,Metro / Rest of India,Same Day,0.77,5,4,Delivered,238.46,False,,False,2026-03,Wednesday
+VL2026031780,2026-03-18,14,Noida,Local NCR,Standard,2.76,2,1,Delivered,69.15,False,,False,2026-03,Wednesday
+VL2026031787,2026-03-18,14,Jaipur,North Zone,Standard,0.58,3,2,RTO,60.91,False,,False,2026-03,Wednesday
+VL2026031794,2026-03-18,14,Bengaluru,Metro / Rest of India,Standard,2.03,5,5,Delivered,123.26,False,,False,2026-03,Wednesday
+VL2026031801,2026-03-18,15,Lucknow,North Zone,Same Day,1.49,3,3,Delivered,207.35,False,,False,2026-03,Wednesday
+VL2026031808,2026-03-18,15,Faridabad,Local NCR,Standard,2.61,2,1,Delivered,70.53,False,,False,2026-03,Wednesday
+VL2026031815,2026-03-18,15,Jaipur,North Zone,Surface Cargo,1.15,3,3,Delivered,41.96,True,,False,2026-03,Wednesday
+VL2026031822,2026-03-18,15,Ghaziabad,Local NCR,Standard,2.67,2,1,Delivered,66.38,False,,False,2026-03,Wednesday
+VL2026031829,2026-03-18,15,Ghaziabad,Local NCR,Express,0.75,2,5,Delivered,69.65,True,Customer unavailable,True,2026-03,Wednesday
+VL2026031836,2026-03-18,15,Delhi,Local NCR,Standard,1.12,2,1,Delivered,47.53,False,,False,2026-03,Wednesday
+VL2026031843,2026-03-18,15,Noida,Local NCR,Standard,3.95,2,1,Delivered,85.49,False,,False,2026-03,Wednesday
+VL2026031850,2026-03-18,15,Gurugram,Local NCR,Standard,0.5,2,1,Delivered,38.76,True,,False,2026-03,Wednesday
+VL2026031857,2026-03-18,15,Mumbai,Metro / Rest of India,Surface Cargo,2.91,5,5,Delivered,97.81,False,,False,2026-03,Wednesday
+VL2026031864,2026-03-18,15,Bengaluru,Metro / Rest of India,Standard,1.79,5,4,Delivered,116.55,True,,False,2026-03,Wednesday
+VL2026031871,2026-03-18,16,Mumbai,Metro / Rest of India,Surface Cargo,0.64,5,7,Delivered,62.57,False,Traffic / hub congestion,True,2026-03,Wednesday
+VL2026031878,2026-03-18,16,Faridabad,Local NCR,Standard,3.32,2,4,Delivered,79.64,False,Customer unavailable,True,2026-03,Wednesday
+VL2026031885,2026-03-18,16,Delhi,Local NCR,Standard,1.93,2,1,Delivered,61.85,False,,False,2026-03,Wednesday
+VL2026031892,2026-03-18,16,Mumbai,Metro / Rest of India,Standard,0.49,5,6,RTO,85.96,False,Customer unavailable,True,2026-03,Wednesday
+VL2026031899,2026-03-18,17,Mumbai,Metro / Rest of India,Standard,0.84,5,5,Delivered,94.36,True,,False,2026-03,Wednesday
+VL2026031906,2026-03-18,17,Gurugram,Local NCR,Standard,2.1,2,1,Delivered,61.03,True,,False,2026-03,Wednesday
+VL2026031913,2026-03-18,18,Chennai,Metro / Rest of India,Express,5.71,5,4,Delivered,418.41,False,,False,2026-03,Wednesday
+VL2026031920,2026-03-18,18,Gurugram,Local NCR,Standard,1.88,2,1,Delivered,62.35,False,,False,2026-03,Wednesday
+VL2026031927,2026-03-18,19,Lucknow,North Zone,Surface Cargo,4.29,3,2,Delivered,91.72,False,,False,2026-03,Wednesday
+VL2026031934,2026-03-18,19,Jaipur,North Zone,Same Day,1.02,3,3,Delivered,185.93,False,,False,2026-03,Wednesday
+VL2026031941,2026-03-18,21,Lucknow,North Zone,Surface Cargo,0.66,3,2,Delivered,41.24,False,,False,2026-03,Wednesday
+VL2026031948,2026-03-19,8,Mumbai,Metro / Rest of India,Standard,4.46,5,5,Delivered,197.87,False,,False,2026-03,Thursday
+VL2026031955,2026-03-19,8,Ghaziabad,Local NCR,Express,2.98,2,1,Delivered,126.96,False,,False,2026-03,Thursday
+VL2026031962,2026-03-19,9,Delhi,Local NCR,Same Day,0.54,2,1,Delivered,98.31,False,,False,2026-03,Thursday
+VL2026031969,2026-03-19,9,Jaipur,North Zone,Standard,1.32,3,2,Delivered,77.78,False,,False,2026-03,Thursday
+VL2026031976,2026-03-19,9,Jaipur,North Zone,Standard,4.68,3,2,Delivered,157.44,True,,False,2026-03,Thursday
+VL2026031983,2026-03-19,9,Delhi,Local NCR,Standard,2.79,2,1,Delivered,73.76,True,,False,2026-03,Thursday
+VL2026031990,2026-03-19,9,Gurugram,Local NCR,Standard,0.31,2,1,Delivered,35.88,False,,False,2026-03,Thursday
+VL2026031997,2026-03-19,10,Bengaluru,Metro / Rest of India,Standard,1.1,5,6,Delivered,98.69,False,Customer unavailable,True,2026-03,Thursday
+VL2026032004,2026-03-19,10,Delhi,Local NCR,Standard,0.52,2,4,Delivered,39.93,True,Hub sorting delay,True,2026-03,Thursday
+VL2026032011,2026-03-19,10,Bengaluru,Metro / Rest of India,Express,5.83,5,5,Delivered,402.24,True,,False,2026-03,Thursday
+VL2026032018,2026-03-19,11,Delhi,Local NCR,Standard,2.11,2,1,Delivered,67.54,False,,False,2026-03,Thursday
+VL2026032025,2026-03-19,11,Hyderabad,Metro / Rest of India,Express,1.04,5,5,Delivered,148.99,True,,False,2026-03,Thursday
+VL2026032032,2026-03-19,11,Mumbai,Metro / Rest of India,Standard,1.29,5,5,Delivered,111.84,False,,False,2026-03,Thursday
+VL2026032039,2026-03-19,11,Chennai,Metro / Rest of India,Surface Cargo,1.61,5,6,Delivered,78.25,False,Wrong / incomplete address,True,2026-03,Thursday
+VL2026032046,2026-03-19,11,Delhi,Local NCR,Standard,4.27,2,1,Delivered,93.16,False,,False,2026-03,Thursday
+VL2026032053,2026-03-19,11,Lucknow,North Zone,Surface Cargo,1.11,3,5,Delivered,50.49,True,Weather,True,2026-03,Thursday
+VL2026032060,2026-03-19,11,Noida,Local NCR,Standard,2.87,2,5,Delivered,70.76,False,Customer unavailable,True,2026-03,Thursday
+VL2026032067,2026-03-19,11,Hyderabad,Metro / Rest of India,Standard,1.25,5,4,RTO,110.53,True,,False,2026-03,Thursday
+VL2026032074,2026-03-19,12,Mumbai,Metro / Rest of India,Standard,0.76,5,4,Delivered,97.29,False,,False,2026-03,Thursday
+VL2026032081,2026-03-19,12,Jaipur,North Zone,Standard,0.6,3,2,Delivered,65.77,True,,False,2026-03,Thursday
+VL2026032088,2026-03-19,12,Noida,Local NCR,Surface Cargo,0.93,2,1,Delivered,28.94,False,,False,2026-03,Thursday
+VL2026032095,2026-03-19,12,Hyderabad,Metro / Rest of India,Standard,1.26,5,5,Delivered,112.81,True,,False,2026-03,Thursday
+VL2026032102,2026-03-19,12,Bengaluru,Metro / Rest of India,Standard,1.49,5,5,Delivered,110.62,False,,False,2026-03,Thursday
+VL2026032109,2026-03-19,13,Faridabad,Local NCR,Standard,3.99,2,1,Delivered,81.53,False,,False,2026-03,Thursday
+VL2026032116,2026-03-19,13,Ghaziabad,Local NCR,Surface Cargo,1.28,2,3,RTO,31.58,False,Customer unavailable,True,2026-03,Thursday
+VL2026032123,2026-03-19,13,Gurugram,Local NCR,Standard,1.28,2,1,Delivered,47.6,False,,False,2026-03,Thursday
+VL2026032130,2026-03-19,13,Chandigarh,North Zone,Standard,0.83,3,3,Delivered,64.52,True,,False,2026-03,Thursday
+VL2026032137,2026-03-19,13,Dehradun,North Zone,Standard,5.57,3,3,Delivered,171.26,True,,False,2026-03,Thursday
+VL2026032144,2026-03-19,13,Delhi,Local NCR,Same Day,0.46,2,1,Delivered,82.71,False,,False,2026-03,Thursday
+VL2026032151,2026-03-19,13,Chandigarh,North Zone,Standard,1.37,3,3,Lost/Damaged,75.36,True,,False,2026-03,Thursday
+VL2026032158,2026-03-19,13,Bengaluru,Metro / Rest of India,Standard,2.73,5,5,Delivered,153.9,True,,False,2026-03,Thursday
+VL2026032165,2026-03-19,13,Delhi,Local NCR,Standard,0.92,2,1,Delivered,45.54,False,,False,2026-03,Thursday
+VL2026032172,2026-03-19,14,Hyderabad,Metro / Rest of India,Surface Cargo,1.15,5,4,Delivered,67.8,True,,False,2026-03,Thursday
+VL2026032179,2026-03-19,14,Mumbai,Metro / Rest of India,Standard,2.62,5,4,RTO,136.64,True,,False,2026-03,Thursday
+VL2026032186,2026-03-19,14,Agra,North Zone,Standard,1.48,3,3,Delivered,87.5,False,,False,2026-03,Thursday
+VL2026032193,2026-03-19,14,Chandigarh,North Zone,Surface Cargo,1.41,3,2,Delivered,55.29,False,,False,2026-03,Thursday
+VL2026032200,2026-03-19,14,Hyderabad,Metro / Rest of India,Standard,0.29,5,4,Delivered,79.31,False,,False,2026-03,Thursday
+VL2026032207,2026-03-19,14,Bengaluru,Metro / Rest of India,Standard,1.43,5,5,Delivered,108.16,False,,False,2026-03,Thursday
+VL2026032214,2026-03-19,14,Gurugram,Local NCR,Standard,2.51,2,1,Delivered,73.09,False,,False,2026-03,Thursday
+VL2026032221,2026-03-19,14,Ghaziabad,Local NCR,Express,0.75,2,4,Delivered,64.89,False,Wrong / incomplete address,True,2026-03,Thursday
+VL2026032228,2026-03-19,14,Kolkata,Metro / Rest of India,Standard,2.28,5,5,Delivered,141.78,False,,False,2026-03,Thursday
+VL2026032235,2026-03-19,15,Delhi,Local NCR,Surface Cargo,1.5,2,1,Delivered,32.89,False,,False,2026-03,Thursday
+VL2026032242,2026-03-19,15,Gurugram,Local NCR,Express,2.17,2,1,Delivered,104.7,True,,False,2026-03,Thursday
+VL2026032249,2026-03-19,15,Noida,Local NCR,Standard,1.66,2,1,Delivered,50.07,False,,False,2026-03,Thursday
+VL2026032256,2026-03-19,15,Ghaziabad,Local NCR,Surface Cargo,0.97,2,1,Delivered,28.98,True,,False,2026-03,Thursday
+VL2026032263,2026-03-19,15,Jaipur,North Zone,Surface Cargo,3.33,3,2,Delivered,77.1,False,,False,2026-03,Thursday
+VL2026032270,2026-03-19,16,Noida,Local NCR,Standard,3.56,2,1,Delivered,86.68,False,,False,2026-03,Thursday
+VL2026032277,2026-03-19,16,Delhi,Local NCR,Express,4.87,2,1,Delivered,156.49,False,,False,2026-03,Thursday
+VL2026032284,2026-03-19,16,Ghaziabad,Local NCR,Same Day,5.77,2,2,Delivered,265.77,True,,False,2026-03,Thursday
+VL2026032291,2026-03-19,16,Ghaziabad,Local NCR,Standard,1.97,2,1,Delivered,58.71,False,,False,2026-03,Thursday
+VL2026032298,2026-03-19,16,Faridabad,Local NCR,Standard,0.71,2,1,Delivered,41.77,False,,False,2026-03,Thursday
+VL2026032305,2026-03-19,16,Noida,Local NCR,Standard,0.13,2,1,Delivered,33.23,False,,False,2026-03,Thursday
+VL2026032312,2026-03-19,16,Pune,Metro / Rest of India,Same Day,1.28,5,7,Delivered,292.66,True,Wrong / incomplete address,True,2026-03,Thursday
+VL2026032319,2026-03-19,17,Chennai,Metro / Rest of India,Express,1.53,5,4,RTO,199.93,True,,False,2026-03,Thursday
+VL2026032326,2026-03-19,17,Noida,Local NCR,Express,1.6,2,1,Delivered,98.01,False,,False,2026-03,Thursday
+VL2026032333,2026-03-19,18,Noida,Local NCR,Standard,1.16,2,1,Delivered,47.0,True,,False,2026-03,Thursday
+VL2026032340,2026-03-19,18,Noida,Local NCR,Surface Cargo,2.78,2,1,Delivered,43.17,True,,False,2026-03,Thursday
+VL2026032347,2026-03-19,18,Jaipur,North Zone,Standard,2.34,3,4,Delivered,95.19,False,Wrong / incomplete address,True,2026-03,Thursday
+VL2026032354,2026-03-19,18,Faridabad,Local NCR,Standard,2.73,2,1,Delivered,73.86,False,,False,2026-03,Thursday
+VL2026032361,2026-03-19,18,Hyderabad,Metro / Rest of India,Standard,0.46,5,6,Delivered,87.84,True,Wrong / incomplete address,True,2026-03,Thursday
+VL2026032368,2026-03-19,19,Ghaziabad,Local NCR,Standard,6.49,2,1,Delivered,104.83,True,,False,2026-03,Thursday
+VL2026032375,2026-03-19,21,Kolkata,Metro / Rest of India,Surface Cargo,1.59,5,4,Delivered,73.76,False,,False,2026-03,Thursday
+VL2026032382,2026-03-19,21,Hyderabad,Metro / Rest of India,Surface Cargo,0.43,5,4,Delivered,54.31,False,,False,2026-03,Thursday
+VL2026032389,2026-03-20,8,Bengaluru,Metro / Rest of India,Standard,0.41,5,4,Delivered,85.49,False,,False,2026-03,Friday
+VL2026032396,2026-03-20,9,Faridabad,Local NCR,Standard,2.68,2,1,Delivered,74.54,True,,False,2026-03,Friday
+VL2026032403,2026-03-20,9,Kolkata,Metro / Rest of India,Standard,1.34,5,4,Delivered,112.99,False,,False,2026-03,Friday
+VL2026032410,2026-03-20,9,Chandigarh,North Zone,Express,1.49,3,2,Delivered,141.43,True,,False,2026-03,Friday
+VL2026032417,2026-03-20,10,Gurugram,Local NCR,Standard,0.89,2,3,Delivered,41.66,True,Customer unavailable,True,2026-03,Friday
+VL2026032424,2026-03-20,10,Delhi,Local NCR,Same Day,4.19,2,1,Delivered,219.82,True,,False,2026-03,Friday
+VL2026032431,2026-03-20,10,Chennai,Metro / Rest of India,Standard,1.28,5,4,Delivered,110.6,True,,False,2026-03,Friday
+VL2026032438,2026-03-20,10,Faridabad,Local NCR,Surface Cargo,0.68,2,1,Delivered,26.21,False,,False,2026-03,Friday
+VL2026032445,2026-03-20,10,Lucknow,North Zone,Surface Cargo,1.15,3,2,Delivered,46.56,False,,False,2026-03,Friday
+VL2026032452,2026-03-20,10,Chennai,Metro / Rest of India,Surface Cargo,2.57,5,4,Delivered,87.48,True,,False,2026-03,Friday
+VL2026032459,2026-03-20,10,Mumbai,Metro / Rest of India,Standard,1.95,5,7,Delivered,132.95,False,Wrong / incomplete address,True,2026-03,Friday
+VL2026032466,2026-03-20,10,Ghaziabad,Local NCR,Surface Cargo,1.66,2,1,Delivered,29.59,False,,False,2026-03,Friday
+VL2026032473,2026-03-20,10,Bengaluru,Metro / Rest of India,Express,3.17,5,4,Delivered,279.47,True,,False,2026-03,Friday
+VL2026032480,2026-03-20,11,Jaipur,North Zone,Express,1.85,3,3,Delivered,157.4,True,,False,2026-03,Friday
+VL2026032487,2026-03-20,11,Gurugram,Local NCR,Express,0.37,2,1,Delivered,59.44,False,,False,2026-03,Friday
+VL2026032494,2026-03-20,11,Chennai,Metro / Rest of India,Same Day,0.76,5,5,Delivered,236.5,False,,False,2026-03,Friday
+VL2026032501,2026-03-20,11,Lucknow,North Zone,Same Day,1.52,3,3,Delivered,206.41,False,,False,2026-03,Friday
+VL2026032508,2026-03-20,11,Noida,Local NCR,Standard,1.52,2,2,Delivered,49.02,False,,False,2026-03,Friday
+VL2026032515,2026-03-20,11,Ghaziabad,Local NCR,Surface Cargo,3.1,2,1,Delivered,44.9,False,,False,2026-03,Friday
+VL2026032522,2026-03-20,11,Delhi,Local NCR,Standard,0.82,2,1,Delivered,37.33,False,,False,2026-03,Friday
+VL2026032529,2026-03-20,11,Delhi,Local NCR,Standard,1.81,2,1,Delivered,60.7,True,,False,2026-03,Friday
+VL2026032536,2026-03-20,12,Delhi,Local NCR,Standard,1.23,2,1,Delivered,47.59,False,,False,2026-03,Friday
+VL2026032543,2026-03-20,12,Dehradun,North Zone,Same Day,2.31,3,3,Delivered,243.28,False,,False,2026-03,Friday
+VL2026032550,2026-03-20,12,Jaipur,North Zone,Express,2.47,3,3,Delivered,190.08,True,,False,2026-03,Friday
+VL2026032557,2026-03-20,12,Faridabad,Local NCR,Surface Cargo,0.72,2,1,Delivered,24.2,False,,False,2026-03,Friday
+VL2026032564,2026-03-20,12,Ghaziabad,Local NCR,Standard,0.81,2,1,Delivered,40.65,True,,False,2026-03,Friday
+VL2026032571,2026-03-20,12,Faridabad,Local NCR,Surface Cargo,3.85,2,1,Delivered,55.54,False,,False,2026-03,Friday
+VL2026032578,2026-03-20,12,Ghaziabad,Local NCR,Standard,0.25,2,1,Delivered,32.4,False,,False,2026-03,Friday
+VL2026032585,2026-03-20,12,Gurugram,Local NCR,Express,6.15,2,1,Delivered,168.67,False,,False,2026-03,Friday
+VL2026032592,2026-03-20,12,Mumbai,Metro / Rest of India,Standard,1.73,5,5,Delivered,129.97,True,,False,2026-03,Friday
+VL2026032599,2026-03-20,12,Chennai,Metro / Rest of India,Standard,0.3,5,4,Delivered,74.09,True,,False,2026-03,Friday
+VL2026032606,2026-03-20,13,Delhi,Local NCR,Standard,6.69,2,1,Delivered,113.44,False,,False,2026-03,Friday
+VL2026032613,2026-03-20,13,Ghaziabad,Local NCR,Surface Cargo,2.06,2,1,Delivered,41.16,False,,False,2026-03,Friday
+VL2026032620,2026-03-20,13,Bengaluru,Metro / Rest of India,Surface Cargo,1.65,5,5,Delivered,75.58,True,,False,2026-03,Friday
+VL2026032627,2026-03-20,13,Noida,Local NCR,Express,2.42,2,1,Delivered,102.27,True,,False,2026-03,Friday
+VL2026032634,2026-03-20,13,Gurugram,Local NCR,Standard,0.79,2,1,Delivered,39.38,True,,False,2026-03,Friday
+VL2026032641,2026-03-20,13,Delhi,Local NCR,Standard,1.27,2,1,Delivered,43.62,False,,False,2026-03,Friday
+VL2026032648,2026-03-20,13,Lucknow,North Zone,Standard,0.35,3,3,Delivered,55.14,False,,False,2026-03,Friday
+VL2026032655,2026-03-20,13,Ghaziabad,Local NCR,Express,1.39,2,1,Delivered,83.19,False,,False,2026-03,Friday
+VL2026032662,2026-03-20,13,Ghaziabad,Local NCR,Standard,1.66,2,1,Delivered,49.15,True,,False,2026-03,Friday
+VL2026032669,2026-03-20,13,Bengaluru,Metro / Rest of India,Standard,2.89,5,5,Delivered,158.0,True,,False,2026-03,Friday
+VL2026032676,2026-03-20,14,Ghaziabad,Local NCR,Surface Cargo,1.31,2,1,Delivered,36.52,True,,False,2026-03,Friday
+VL2026032683,2026-03-20,14,Hyderabad,Metro / Rest of India,Standard,0.87,5,4,Delivered,96.22,False,,False,2026-03,Friday
+VL2026032690,2026-03-20,14,Delhi,Local NCR,Express,0.64,2,2,Delivered,65.3,False,,False,2026-03,Friday
+VL2026032697,2026-03-20,14,Bengaluru,Metro / Rest of India,Same Day,0.69,5,7,Delivered,211.12,False,Wrong / incomplete address,True,2026-03,Friday
+VL2026032704,2026-03-20,14,Bengaluru,Metro / Rest of India,Standard,0.92,5,5,Delivered,101.87,False,,False,2026-03,Friday
+VL2026032711,2026-03-20,14,Noida,Local NCR,Express,1.19,2,1,Delivered,69.45,False,,False,2026-03,Friday
+VL2026032718,2026-03-20,14,Mumbai,Metro / Rest of India,Standard,0.72,5,5,Delivered,92.71,False,,False,2026-03,Friday
+VL2026032725,2026-03-20,14,Pune,Metro / Rest of India,Standard,2.0,5,8,Delivered,142.15,True,Customer unavailable,True,2026-03,Friday
+VL2026032732,2026-03-20,14,Gurugram,Local NCR,Standard,0.8,2,1,Delivered,45.17,False,,False,2026-03,Friday
+VL2026032739,2026-03-20,14,Chandigarh,North Zone,Express,0.85,3,2,Delivered,114.61,True,,False,2026-03,Friday
+VL2026032746,2026-03-20,14,Gurugram,Local NCR,Standard,0.23,2,2,Delivered,35.39,False,,False,2026-03,Friday
+VL2026032753,2026-03-20,15,Bengaluru,Metro / Rest of India,Express,1.25,5,5,Delivered,181.22,True,,False,2026-03,Friday
+VL2026032760,2026-03-20,15,Delhi,Local NCR,Standard,1.03,2,1,RTO,42.92,True,,False,2026-03,Friday
+VL2026032767,2026-03-20,15,Jaipur,North Zone,Surface Cargo,1.26,3,2,Delivered,43.21,False,,False,2026-03,Friday
+VL2026032774,2026-03-20,15,Bengaluru,Metro / Rest of India,Standard,1.45,5,4,Delivered,106.61,True,,False,2026-03,Friday
+VL2026032781,2026-03-20,15,Ghaziabad,Local NCR,Express,1.31,2,1,Delivered,77.13,False,,False,2026-03,Friday
+VL2026032788,2026-03-20,15,Lucknow,North Zone,Standard,1.14,3,2,Delivered,77.0,False,,False,2026-03,Friday
+VL2026032795,2026-03-20,15,Ghaziabad,Local NCR,Express,2.17,2,1,Delivered,102.66,False,,False,2026-03,Friday
+VL2026032802,2026-03-20,15,Lucknow,North Zone,Standard,0.39,3,2,Delivered,58.57,False,,False,2026-03,Friday
+VL2026032809,2026-03-20,15,Kolkata,Metro / Rest of India,Express,1.32,5,4,Delivered,178.01,False,,False,2026-03,Friday
+VL2026032816,2026-03-20,15,Noida,Local NCR,Standard,0.33,2,1,Delivered,32.83,False,,False,2026-03,Friday
+VL2026032823,2026-03-20,16,Delhi,Local NCR,Same Day,3.04,2,1,Delivered,204.27,False,,False,2026-03,Friday
+VL2026032830,2026-03-20,16,Delhi,Local NCR,Express,2.45,2,1,Delivered,113.65,False,,False,2026-03,Friday
+VL2026032837,2026-03-20,16,Faridabad,Local NCR,Express,1.74,2,1,Delivered,92.19,False,,False,2026-03,Friday
+VL2026032844,2026-03-20,16,Hyderabad,Metro / Rest of India,Standard,0.6,5,4,Delivered,92.37,True,,False,2026-03,Friday
+VL2026032851,2026-03-20,16,Pune,Metro / Rest of India,Standard,1.72,5,4,Delivered,120.81,False,,False,2026-03,Friday
+VL2026032858,2026-03-20,16,Lucknow,North Zone,Surface Cargo,1.23,3,5,Delivered,49.02,False,Wrong / incomplete address,True,2026-03,Friday
+VL2026032865,2026-03-20,16,Hyderabad,Metro / Rest of India,Standard,2.78,5,5,Delivered,163.7,False,,False,2026-03,Friday
+VL2026032872,2026-03-20,16,Dehradun,North Zone,Standard,0.32,3,3,Delivered,57.34,False,,False,2026-03,Friday
+VL2026032879,2026-03-20,16,Gurugram,Local NCR,Standard,0.47,2,1,Delivered,38.61,False,,False,2026-03,Friday
+VL2026032886,2026-03-20,17,Mumbai,Metro / Rest of India,Standard,3.98,5,5,Delivered,219.74,True,,False,2026-03,Friday
+VL2026032893,2026-03-20,17,Ghaziabad,Local NCR,Standard,2.56,2,1,Delivered,70.34,False,,False,2026-03,Friday
+VL2026032900,2026-03-20,17,Agra,North Zone,Express,0.39,3,3,Delivered,97.38,False,,False,2026-03,Friday
+VL2026032907,2026-03-20,17,Noida,Local NCR,Standard,0.76,2,1,Delivered,40.39,False,,False,2026-03,Friday
+VL2026032914,2026-03-20,17,Dehradun,North Zone,Express,1.67,3,2,Delivered,160.6,False,,False,2026-03,Friday
+VL2026032921,2026-03-20,17,Noida,Local NCR,Standard,1.21,2,1,Delivered,49.12,False,,False,2026-03,Friday
+VL2026032928,2026-03-20,18,Kolkata,Metro / Rest of India,Standard,4.12,5,5,Delivered,195.47,True,,False,2026-03,Friday
+VL2026032935,2026-03-20,18,Mumbai,Metro / Rest of India,Surface Cargo,1.39,5,5,Delivered,81.59,True,,False,2026-03,Friday
+VL2026032942,2026-03-20,18,Delhi,Local NCR,Standard,0.91,2,1,Delivered,46.76,False,,False,2026-03,Friday
+VL2026032949,2026-03-20,18,Delhi,Local NCR,Express,6.03,2,1,Delivered,194.22,True,,False,2026-03,Friday
+VL2026032956,2026-03-20,18,Faridabad,Local NCR,Standard,1.55,2,1,Delivered,51.64,False,,False,2026-03,Friday
+VL2026032963,2026-03-20,18,Noida,Local NCR,Standard,1.2,2,1,Delivered,44.28,False,,False,2026-03,Friday
+VL2026032970,2026-03-20,18,Chandigarh,North Zone,Express,1.02,3,2,Delivered,121.27,True,,False,2026-03,Friday
+VL2026032977,2026-03-20,18,Mumbai,Metro / Rest of India,Same Day,2.09,5,8,Delivered,351.98,False,Vehicle breakdown,True,2026-03,Friday
+VL2026032984,2026-03-20,18,Bengaluru,Metro / Rest of India,Standard,0.53,5,4,Delivered,92.71,True,,False,2026-03,Friday
+VL2026032991,2026-03-20,19,Chennai,Metro / Rest of India,Express,3.35,5,4,Delivered,281.96,False,,False,2026-03,Friday
+VL2026032998,2026-03-20,20,Delhi,Local NCR,Standard,4.11,2,1,Delivered,95.71,True,,False,2026-03,Friday
+VL2026033005,2026-03-20,21,Bengaluru,Metro / Rest of India,Standard,0.96,5,4,Delivered,99.96,True,,False,2026-03,Friday
+VL2026033012,2026-03-21,8,Delhi,Local NCR,Surface Cargo,2.58,2,3,Delivered,40.4,True,Weather,True,2026-03,Saturday
+VL2026033019,2026-03-21,8,Lucknow,North Zone,Standard,2.58,3,5,Delivered,103.62,True,Customer unavailable,True,2026-03,Saturday
+VL2026033026,2026-03-21,9,Chandigarh,North Zone,Standard,6.05,3,2,Delivered,195.32,False,,False,2026-03,Saturday
+VL2026033033,2026-03-21,9,Chandigarh,North Zone,Standard,1.24,3,3,RTO,72.63,False,,False,2026-03,Saturday
+VL2026033040,2026-03-21,9,Ghaziabad,Local NCR,Standard,1.73,2,1,Delivered,52.85,True,,False,2026-03,Saturday
+VL2026033047,2026-03-21,9,Mumbai,Metro / Rest of India,Surface Cargo,0.62,5,4,Delivered,54.43,False,,False,2026-03,Saturday
+VL2026033054,2026-03-21,9,Kolkata,Metro / Rest of India,Express,1.6,5,5,Delivered,181.3,True,,False,2026-03,Saturday
+VL2026033061,2026-03-21,9,Ghaziabad,Local NCR,Surface Cargo,8.67,2,1,Delivered,96.0,True,,False,2026-03,Saturday
+VL2026033068,2026-03-21,9,Jaipur,North Zone,Same Day,0.77,3,3,Delivered,152.49,True,,False,2026-03,Saturday
+VL2026033075,2026-03-21,10,Jaipur,North Zone,Standard,4.04,3,3,Delivered,117.22,False,,False,2026-03,Saturday
+VL2026033082,2026-03-21,10,Gurugram,Local NCR,Express,0.76,2,1,Delivered,72.7,True,,False,2026-03,Saturday
+VL2026033089,2026-03-21,10,Jaipur,North Zone,Surface Cargo,1.11,3,3,Delivered,49.29,True,,False,2026-03,Saturday
+VL2026033096,2026-03-21,10,Ghaziabad,Local NCR,Same Day,2.0,2,1,Delivered,142.5,True,,False,2026-03,Saturday
+VL2026033103,2026-03-21,10,Delhi,Local NCR,Standard,2.81,2,1,Delivered,71.66,False,,False,2026-03,Saturday
+VL2026033110,2026-03-21,11,Ghaziabad,Local NCR,Standard,1.26,2,1,Delivered,53.51,True,,False,2026-03,Saturday
+VL2026033117,2026-03-21,11,Hyderabad,Metro / Rest of India,Standard,1.69,5,4,Delivered,113.33,False,,False,2026-03,Saturday
+VL2026033124,2026-03-21,11,Dehradun,North Zone,Express,2.71,3,3,Delivered,186.15,False,,False,2026-03,Saturday
+VL2026033131,2026-03-21,11,Chandigarh,North Zone,Express,0.48,3,2,Delivered,98.45,False,,False,2026-03,Saturday
+VL2026033138,2026-03-21,11,Ghaziabad,Local NCR,Standard,0.96,2,1,Delivered,43.47,True,,False,2026-03,Saturday
+VL2026033145,2026-03-21,12,Lucknow,North Zone,Express,0.56,3,3,Delivered,107.42,True,,False,2026-03,Saturday
+VL2026033152,2026-03-21,12,Pune,Metro / Rest of India,Express,1.07,5,8,Delivered,152.82,False,Wrong / incomplete address,True,2026-03,Saturday
+VL2026033159,2026-03-21,12,Kolkata,Metro / Rest of India,Express,1.61,5,6,Delivered,205.46,True,Customer unavailable,True,2026-03,Saturday
+VL2026033166,2026-03-21,12,Kolkata,Metro / Rest of India,Same Day,5.44,5,5,Delivered,600.94,False,,False,2026-03,Saturday
+VL2026033173,2026-03-21,12,Bengaluru,Metro / Rest of India,Standard,2.1,5,4,Delivered,132.9,True,,False,2026-03,Saturday
+VL2026033180,2026-03-21,12,Ghaziabad,Local NCR,Standard,1.45,2,1,Delivered,50.99,True,,False,2026-03,Saturday
+VL2026033187,2026-03-21,12,Delhi,Local NCR,Standard,0.34,2,1,Delivered,33.43,True,,False,2026-03,Saturday
+VL2026033194,2026-03-21,12,Chandigarh,North Zone,Surface Cargo,1.56,3,3,Delivered,57.62,False,,False,2026-03,Saturday
+VL2026033201,2026-03-21,12,Delhi,Local NCR,Standard,0.96,2,1,Delivered,41.14,False,,False,2026-03,Saturday
+VL2026033208,2026-03-21,12,Delhi,Local NCR,Surface Cargo,2.12,2,1,Delivered,35.23,False,,False,2026-03,Saturday
+VL2026033215,2026-03-21,12,Jaipur,North Zone,Standard,1.14,3,2,Delivered,76.65,False,,False,2026-03,Saturday
+VL2026033222,2026-03-21,12,Ghaziabad,Local NCR,Standard,1.22,2,1,Delivered,47.51,False,,False,2026-03,Saturday
+VL2026033229,2026-03-21,12,Delhi,Local NCR,Standard,1.44,2,1,Delivered,46.13,False,,False,2026-03,Saturday
+VL2026033236,2026-03-21,12,Chandigarh,North Zone,Express,1.83,3,2,RTO,160.53,False,,False,2026-03,Saturday
+VL2026033243,2026-03-21,12,Delhi,Local NCR,Standard,1.5,2,1,Lost/Damaged,52.74,True,,False,2026-03,Saturday
+VL2026033250,2026-03-21,12,Noida,Local NCR,Express,0.9,2,1,Delivered,71.73,False,,False,2026-03,Saturday
+VL2026033257,2026-03-21,13,Noida,Local NCR,Standard,0.42,2,1,Delivered,38.91,True,,False,2026-03,Saturday
+VL2026033264,2026-03-21,13,Bengaluru,Metro / Rest of India,Standard,1.1,5,4,Delivered,103.91,True,,False,2026-03,Saturday
+VL2026033271,2026-03-21,13,Noida,Local NCR,Same Day,0.33,2,2,Delivered,87.51,True,,False,2026-03,Saturday
+VL2026033278,2026-03-21,13,Noida,Local NCR,Standard,2.71,2,1,Delivered,68.57,False,,False,2026-03,Saturday
+VL2026033285,2026-03-21,13,Noida,Local NCR,Standard,1.09,2,1,Delivered,46.1,True,,False,2026-03,Saturday
+VL2026033292,2026-03-21,13,Noida,Local NCR,Standard,1.55,2,1,Delivered,50.1,True,,False,2026-03,Saturday
+VL2026033299,2026-03-21,13,Noida,Local NCR,Express,0.44,2,1,Delivered,59.19,False,,False,2026-03,Saturday
+VL2026033306,2026-03-21,13,Bengaluru,Metro / Rest of India,Surface Cargo,0.31,5,5,Delivered,53.5,True,,False,2026-03,Saturday
+VL2026033313,2026-03-21,13,Delhi,Local NCR,Same Day,5.21,2,4,Delivered,262.67,False,Traffic / hub congestion,True,2026-03,Saturday
+VL2026033320,2026-03-21,13,Jaipur,North Zone,Standard,1.57,3,3,Delivered,81.74,False,,False,2026-03,Saturday
+VL2026033327,2026-03-21,13,Hyderabad,Metro / Rest of India,Standard,0.77,5,4,Delivered,93.92,False,,False,2026-03,Saturday
+VL2026033334,2026-03-21,13,Noida,Local NCR,Standard,1.41,2,1,Delivered,47.65,True,,False,2026-03,Saturday
+VL2026033341,2026-03-21,14,Pune,Metro / Rest of India,Standard,2.38,5,5,Delivered,136.95,True,,False,2026-03,Saturday
+VL2026033348,2026-03-21,14,Delhi,Local NCR,Same Day,1.23,2,2,Delivered,112.4,True,,False,2026-03,Saturday
+VL2026033355,2026-03-21,14,Pune,Metro / Rest of India,Express,3.65,5,4,Delivered,274.29,True,,False,2026-03,Saturday
+VL2026033362,2026-03-21,14,Bengaluru,Metro / Rest of India,Standard,1.53,5,5,Delivered,126.71,False,,False,2026-03,Saturday
+VL2026033369,2026-03-21,14,Ghaziabad,Local NCR,Standard,3.06,2,1,Lost/Damaged,76.23,False,,False,2026-03,Saturday
+VL2026033376,2026-03-21,14,Delhi,Local NCR,Standard,0.78,2,1,Delivered,37.72,False,,False,2026-03,Saturday
+VL2026033383,2026-03-21,14,Delhi,Local NCR,Standard,1.44,2,3,Delivered,56.22,False,Wrong / incomplete address,True,2026-03,Saturday
+VL2026033390,2026-03-21,14,Delhi,Local NCR,Standard,0.64,2,1,Delivered,40.57,False,,False,2026-03,Saturday
+VL2026033397,2026-03-21,14,Gurugram,Local NCR,Express,1.12,2,1,Delivered,76.2,False,,False,2026-03,Saturday
+VL2026033404,2026-03-21,14,Noida,Local NCR,Standard,1.44,2,1,Delivered,55.02,True,,False,2026-03,Saturday
+VL2026033411,2026-03-21,15,Bengaluru,Metro / Rest of India,Surface Cargo,0.77,5,8,Lost/Damaged,61.3,False,Customer unavailable,True,2026-03,Saturday
+VL2026033418,2026-03-21,15,Jaipur,North Zone,Standard,0.4,3,2,Delivered,61.78,False,,False,2026-03,Saturday
+VL2026033425,2026-03-21,15,Ghaziabad,Local NCR,Surface Cargo,3.13,2,1,Delivered,51.07,True,,False,2026-03,Saturday
+VL2026033432,2026-03-21,15,Gurugram,Local NCR,Express,2.64,2,4,Delivered,114.46,True,Vehicle breakdown,True,2026-03,Saturday
+VL2026033439,2026-03-21,16,Delhi,Local NCR,Standard,2.57,2,1,Delivered,58.46,False,,False,2026-03,Saturday
+VL2026033446,2026-03-21,16,Noida,Local NCR,Express,1.35,2,1,Delivered,80.27,False,,False,2026-03,Saturday
+VL2026033453,2026-03-21,16,Mumbai,Metro / Rest of India,Standard,0.89,5,5,Delivered,96.19,True,,False,2026-03,Saturday
+VL2026033460,2026-03-21,16,Noida,Local NCR,Standard,0.78,2,1,Delivered,35.99,True,,False,2026-03,Saturday
+VL2026033467,2026-03-21,16,Jaipur,North Zone,Express,3.0,3,2,Delivered,191.79,False,,False,2026-03,Saturday
+VL2026033474,2026-03-21,16,Mumbai,Metro / Rest of India,Standard,1.73,5,5,Delivered,122.24,True,,False,2026-03,Saturday
+VL2026033481,2026-03-21,16,Pune,Metro / Rest of India,Express,0.96,5,5,Delivered,163.98,False,,False,2026-03,Saturday
+VL2026033488,2026-03-21,16,Chennai,Metro / Rest of India,Express,1.34,5,4,Delivered,201.02,False,,False,2026-03,Saturday
+VL2026033495,2026-03-21,17,Lucknow,North Zone,Standard,2.56,3,2,Delivered,96.71,False,,False,2026-03,Saturday
+VL2026033502,2026-03-21,17,Delhi,Local NCR,Surface Cargo,2.76,2,5,Delivered,44.61,False,Traffic / hub congestion,True,2026-03,Saturday
+VL2026033509,2026-03-21,18,Delhi,Local NCR,Standard,1.06,2,1,Delivered,41.73,True,,False,2026-03,Saturday
+VL2026033516,2026-03-21,18,Noida,Local NCR,Express,0.96,2,1,Delivered,70.89,False,,False,2026-03,Saturday
+VL2026033523,2026-03-21,18,Bengaluru,Metro / Rest of India,Same Day,2.76,5,6,Delivered,365.47,True,Weather,True,2026-03,Saturday
+VL2026033530,2026-03-21,18,Gurugram,Local NCR,Standard,0.84,2,1,Delivered,39.54,False,,False,2026-03,Saturday
+VL2026033537,2026-03-21,18,Ghaziabad,Local NCR,Standard,1.02,2,4,Delivered,45.17,False,Traffic / hub congestion,True,2026-03,Saturday
+VL2026033544,2026-03-21,18,Bengaluru,Metro / Rest of India,Express,0.51,5,4,Delivered,145.45,False,,False,2026-03,Saturday
+VL2026033551,2026-03-21,19,Delhi,Local NCR,Standard,7.68,2,1,Delivered,131.84,True,,False,2026-03,Saturday
+VL2026033558,2026-03-21,19,Gurugram,Local NCR,Standard,6.05,2,1,Delivered,121.83,False,,False,2026-03,Saturday
+VL2026033565,2026-03-21,19,Ghaziabad,Local NCR,Same Day,1.53,2,1,Delivered,128.54,False,,False,2026-03,Saturday
+VL2026033572,2026-03-21,20,Noida,Local NCR,Express,0.85,2,1,Delivered,72.65,False,,False,2026-03,Saturday
+VL2026033579,2026-03-21,20,Noida,Local NCR,Surface Cargo,2.61,2,1,Delivered,50.21,True,,False,2026-03,Saturday
+VL2026033586,2026-03-21,21,Mumbai,Metro / Rest of India,Standard,1.57,5,7,Delivered,132.05,True,Customer unavailable,True,2026-03,Saturday
+VL2026033593,2026-03-22,8,Ghaziabad,Local NCR,Standard,2.18,2,1,Delivered,60.16,False,,False,2026-03,Sunday
+VL2026033600,2026-03-22,10,Agra,North Zone,Standard,0.91,3,2,Delivered,67.01,False,,False,2026-03,Sunday
+VL2026033607,2026-03-22,11,Jaipur,North Zone,Same Day,0.66,3,2,Delivered,167.34,True,,False,2026-03,Sunday
+VL2026033614,2026-03-22,11,Pune,Metro / Rest of India,Same Day,2.4,5,4,Delivered,357.19,False,,False,2026-03,Sunday
+VL2026033621,2026-03-22,11,Bengaluru,Metro / Rest of India,Standard,0.33,5,5,Delivered,79.76,True,,False,2026-03,Sunday
+VL2026033628,2026-03-22,11,Delhi,Local NCR,Express,1.18,2,5,Delivered,76.06,False,Wrong / incomplete address,True,2026-03,Sunday
+VL2026033635,2026-03-22,12,Delhi,Local NCR,Standard,1.38,2,1,Delivered,47.94,True,,False,2026-03,Sunday
+VL2026033642,2026-03-22,12,Ghaziabad,Local NCR,Standard,0.95,2,1,Delivered,45.77,False,,False,2026-03,Sunday
+VL2026033649,2026-03-22,12,Mumbai,Metro / Rest of India,Express,1.04,5,4,Delivered,168.16,True,,False,2026-03,Sunday
+VL2026033656,2026-03-22,12,Delhi,Local NCR,Standard,0.45,2,1,Delivered,37.29,False,,False,2026-03,Sunday
+VL2026033663,2026-03-22,13,Gurugram,Local NCR,Standard,2.32,2,1,Delivered,66.58,False,,False,2026-03,Sunday
+VL2026033670,2026-03-22,13,Hyderabad,Metro / Rest of India,Standard,2.79,5,6,Delivered,146.65,False,Vehicle breakdown,True,2026-03,Sunday
+VL2026033677,2026-03-22,13,Gurugram,Local NCR,Same Day,1.13,2,1,Delivered,116.48,False,,False,2026-03,Sunday
+VL2026033684,2026-03-22,13,Lucknow,North Zone,Express,1.21,3,3,Delivered,127.66,False,,False,2026-03,Sunday
+VL2026033691,2026-03-22,13,Hyderabad,Metro / Rest of India,Express,1.09,5,6,Delivered,170.0,True,Customer unavailable,True,2026-03,Sunday
+VL2026033698,2026-03-22,14,Dehradun,North Zone,Standard,0.7,3,2,Delivered,67.6,True,,False,2026-03,Sunday
+VL2026033705,2026-03-22,15,Ghaziabad,Local NCR,Express,1.51,2,1,Delivered,85.8,False,,False,2026-03,Sunday
+VL2026033712,2026-03-22,15,Delhi,Local NCR,Standard,4.43,2,1,Delivered,91.38,True,,False,2026-03,Sunday
+VL2026033719,2026-03-22,15,Noida,Local NCR,Standard,1.43,2,1,Delivered,54.86,False,,False,2026-03,Sunday
+VL2026033726,2026-03-22,15,Agra,North Zone,Express,5.86,3,3,Delivered,322.27,True,,False,2026-03,Sunday
+VL2026033733,2026-03-22,15,Hyderabad,Metro / Rest of India,Express,1.63,5,4,Delivered,192.36,False,,False,2026-03,Sunday
+VL2026033740,2026-03-22,16,Delhi,Local NCR,Surface Cargo,0.69,2,1,Delivered,26.93,False,,False,2026-03,Sunday
+VL2026033747,2026-03-22,16,Gurugram,Local NCR,Standard,2.02,2,4,Delivered,60.8,False,Customer unavailable,True,2026-03,Sunday
+VL2026033754,2026-03-22,17,Chennai,Metro / Rest of India,Surface Cargo,1.54,5,4,Delivered,74.09,False,,False,2026-03,Sunday
+VL2026033761,2026-03-22,17,Faridabad,Local NCR,Same Day,1.29,2,1,Delivered,107.4,True,,False,2026-03,Sunday
+VL2026033768,2026-03-22,17,Ghaziabad,Local NCR,Standard,0.8,2,1,Delivered,44.73,False,,False,2026-03,Sunday
+VL2026033775,2026-03-22,18,Jaipur,North Zone,Standard,0.7,3,2,Delivered,61.01,True,,False,2026-03,Sunday
+VL2026033782,2026-03-22,18,Mumbai,Metro / Rest of India,Standard,1.37,5,5,Delivered,111.74,False,,False,2026-03,Sunday
+VL2026033789,2026-03-22,19,Ghaziabad,Local NCR,Express,0.88,2,1,Delivered,62.31,True,,False,2026-03,Sunday
+VL2026033796,2026-03-22,20,Noida,Local NCR,Express,0.77,2,1,Delivered,71.25,False,,False,2026-03,Sunday
+VL2026033803,2026-03-22,21,Ghaziabad,Local NCR,Surface Cargo,2.62,2,1,Delivered,41.9,True,,False,2026-03,Sunday
+VL2026033810,2026-03-22,21,Gurugram,Local NCR,Standard,6.64,2,1,Delivered,123.75,False,,False,2026-03,Sunday
+VL2026033817,2026-03-22,21,Ghaziabad,Local NCR,Standard,3.67,2,1,Delivered,80.86,True,,False,2026-03,Sunday
+VL2026033824,2026-03-23,8,Kolkata,Metro / Rest of India,Standard,1.54,5,5,Delivered,117.73,True,,False,2026-03,Monday
+VL2026033831,2026-03-23,8,Chennai,Metro / Rest of India,Same Day,0.91,5,4,Delivered,257.83,True,,False,2026-03,Monday
+VL2026033838,2026-03-23,9,Jaipur,North Zone,Express,1.22,3,2,Delivered,119.29,False,,False,2026-03,Monday
+VL2026033845,2026-03-23,9,Lucknow,North Zone,Express,0.87,3,2,Delivered,115.86,False,,False,2026-03,Monday
+VL2026033852,2026-03-23,9,Gurugram,Local NCR,Standard,2.47,2,1,Delivered,61.06,False,,False,2026-03,Monday
+VL2026033859,2026-03-23,9,Delhi,Local NCR,Express,1.02,2,1,Delivered,73.82,False,,False,2026-03,Monday
+VL2026033866,2026-03-23,10,Ghaziabad,Local NCR,Express,1.53,2,1,Delivered,83.99,True,,False,2026-03,Monday
+VL2026033873,2026-03-23,10,Delhi,Local NCR,Standard,0.27,2,1,Delivered,34.72,True,,False,2026-03,Monday
+VL2026033880,2026-03-23,10,Delhi,Local NCR,Same Day,1.38,2,1,Delivered,141.88,True,,False,2026-03,Monday
+VL2026033887,2026-03-23,10,Gurugram,Local NCR,Standard,0.91,2,1,RTO,41.94,True,,False,2026-03,Monday
+VL2026033894,2026-03-23,10,Mumbai,Metro / Rest of India,Standard,0.34,5,4,Delivered,81.66,False,,False,2026-03,Monday
+VL2026033901,2026-03-23,10,Ghaziabad,Local NCR,Same Day,2.29,2,1,Delivered,180.24,True,,False,2026-03,Monday
+VL2026033908,2026-03-23,10,Pune,Metro / Rest of India,Standard,2.43,5,4,Delivered,143.29,True,,False,2026-03,Monday
+VL2026033915,2026-03-23,10,Gurugram,Local NCR,Surface Cargo,1.81,2,2,Delivered,37.69,False,,False,2026-03,Monday
+VL2026033922,2026-03-23,10,Ghaziabad,Local NCR,Express,4.42,2,1,Delivered,159.66,False,,False,2026-03,Monday
+VL2026033929,2026-03-23,11,Mumbai,Metro / Rest of India,Same Day,1.65,5,4,Delivered,320.59,False,,False,2026-03,Monday
+VL2026033936,2026-03-23,11,Dehradun,North Zone,Same Day,2.14,3,3,Delivered,231.15,True,,False,2026-03,Monday
+VL2026033943,2026-03-23,11,Bengaluru,Metro / Rest of India,Standard,0.77,5,4,Delivered,97.23,True,,False,2026-03,Monday
+VL2026033950,2026-03-23,11,Bengaluru,Metro / Rest of India,Standard,0.51,5,6,Delivered,87.32,False,Weather,True,2026-03,Monday
+VL2026033957,2026-03-23,11,Faridabad,Local NCR,Standard,3.54,2,1,Delivered,81.85,False,,False,2026-03,Monday
+VL2026033964,2026-03-23,11,Chandigarh,North Zone,Standard,1.69,3,2,Delivered,93.49,False,,False,2026-03,Monday
+VL2026033971,2026-03-23,11,Bengaluru,Metro / Rest of India,Standard,5.75,5,5,Delivered,224.16,True,,False,2026-03,Monday
+VL2026033978,2026-03-23,12,Noida,Local NCR,Standard,0.45,2,1,RTO,39.17,True,,False,2026-03,Monday
+VL2026033985,2026-03-23,12,Delhi,Local NCR,Express,1.31,2,1,Delivered,78.0,False,,False,2026-03,Monday
+VL2026033992,2026-03-23,12,Mumbai,Metro / Rest of India,Express,0.69,5,5,Delivered,158.76,True,,False,2026-03,Monday
+VL2026033999,2026-03-23,12,Jaipur,North Zone,Surface Cargo,2.01,3,3,Delivered,58.16,True,,False,2026-03,Monday
+VL2026034006,2026-03-23,12,Kolkata,Metro / Rest of India,Standard,0.86,5,4,Delivered,98.8,False,,False,2026-03,Monday
+VL2026034013,2026-03-23,12,Gurugram,Local NCR,Express,3.27,2,1,Delivered,110.86,True,,False,2026-03,Monday
+VL2026034020,2026-03-23,12,Ghaziabad,Local NCR,Express,2.27,2,1,Delivered,95.52,True,,False,2026-03,Monday
+VL2026034027,2026-03-23,12,Delhi,Local NCR,Express,0.72,2,1,Delivered,73.51,False,,False,2026-03,Monday
+VL2026034034,2026-03-23,12,Hyderabad,Metro / Rest of India,Standard,0.4,5,4,Delivered,83.14,False,,False,2026-03,Monday
+VL2026034041,2026-03-23,12,Faridabad,Local NCR,Express,3.03,2,1,Delivered,127.95,False,,False,2026-03,Monday
+VL2026034048,2026-03-23,13,Hyderabad,Metro / Rest of India,Same Day,3.91,5,4,Delivered,465.03,False,,False,2026-03,Monday
+VL2026034055,2026-03-23,13,Delhi,Local NCR,Standard,0.86,2,1,Delivered,44.45,False,,False,2026-03,Monday
+VL2026034062,2026-03-23,13,Delhi,Local NCR,Surface Cargo,1.33,2,1,Delivered,31.07,True,,False,2026-03,Monday
+VL2026034069,2026-03-23,13,Ghaziabad,Local NCR,Standard,1.7,2,2,Delivered,54.25,False,,False,2026-03,Monday
+VL2026034076,2026-03-23,13,Gurugram,Local NCR,Standard,0.6,2,1,Delivered,40.81,False,,False,2026-03,Monday
+VL2026034083,2026-03-23,13,Noida,Local NCR,Express,2.38,2,1,Delivered,107.25,False,,False,2026-03,Monday
+VL2026034090,2026-03-23,13,Faridabad,Local NCR,Standard,0.69,2,1,Lost/Damaged,41.34,False,,False,2026-03,Monday
+VL2026034097,2026-03-23,14,Delhi,Local NCR,Express,2.03,2,1,Delivered,84.87,False,,False,2026-03,Monday
+VL2026034104,2026-03-23,14,Mumbai,Metro / Rest of India,Standard,1.84,5,5,Delivered,133.67,True,,False,2026-03,Monday
+VL2026034111,2026-03-23,14,Lucknow,North Zone,Standard,4.42,3,3,Delivered,149.68,True,,False,2026-03,Monday
+VL2026034118,2026-03-23,14,Jaipur,North Zone,Standard,1.72,3,3,Delivered,99.22,False,,False,2026-03,Monday
+VL2026034125,2026-03-23,14,Chennai,Metro / Rest of India,Surface Cargo,0.51,5,5,Delivered,58.15,True,,False,2026-03,Monday
+VL2026034132,2026-03-23,14,Chandigarh,North Zone,Express,2.4,3,2,Delivered,161.35,False,,False,2026-03,Monday
+VL2026034139,2026-03-23,14,Noida,Local NCR,Express,0.84,2,1,Delivered,65.39,False,,False,2026-03,Monday
+VL2026034146,2026-03-23,14,Kolkata,Metro / Rest of India,Standard,0.78,5,4,Delivered,94.35,False,,False,2026-03,Monday
+VL2026034153,2026-03-23,14,Delhi,Local NCR,Surface Cargo,5.24,2,1,Delivered,63.75,False,,False,2026-03,Monday
+VL2026034160,2026-03-23,15,Agra,North Zone,Standard,0.55,3,2,Lost/Damaged,65.34,False,,False,2026-03,Monday
+VL2026034167,2026-03-23,15,Ghaziabad,Local NCR,Standard,1.31,2,1,Delivered,52.35,True,,False,2026-03,Monday
+VL2026034174,2026-03-23,15,Jaipur,North Zone,Standard,3.98,3,3,Delivered,137.95,False,,False,2026-03,Monday
+VL2026034181,2026-03-23,15,Ghaziabad,Local NCR,Standard,1.53,2,1,Delivered,54.24,False,,False,2026-03,Monday
+VL2026034188,2026-03-23,15,Noida,Local NCR,Standard,1.5,2,2,Delivered,51.43,True,,False,2026-03,Monday
+VL2026034195,2026-03-23,15,Noida,Local NCR,Standard,2.71,2,1,Delivered,61.58,False,,False,2026-03,Monday
+VL2026034202,2026-03-23,15,Faridabad,Local NCR,Standard,2.06,2,1,Delivered,62.09,True,,False,2026-03,Monday
+VL2026034209,2026-03-23,16,Delhi,Local NCR,Standard,1.7,2,1,Delivered,57.26,True,,False,2026-03,Monday
+VL2026034216,2026-03-23,16,Noida,Local NCR,Standard,0.37,2,1,Delivered,35.78,True,,False,2026-03,Monday
+VL2026034223,2026-03-23,16,Jaipur,North Zone,Standard,1.62,3,3,Delivered,80.96,False,,False,2026-03,Monday
+VL2026034230,2026-03-23,16,Chandigarh,North Zone,Surface Cargo,1.09,3,2,Delivered,52.67,False,,False,2026-03,Monday
+VL2026034237,2026-03-23,16,Jaipur,North Zone,Same Day,2.03,3,3,Delivered,256.38,False,,False,2026-03,Monday
+VL2026034244,2026-03-23,16,Noida,Local NCR,Standard,1.82,2,1,Delivered,57.62,False,,False,2026-03,Monday
+VL2026034251,2026-03-23,16,Noida,Local NCR,Surface Cargo,2.86,2,1,Delivered,45.63,True,,False,2026-03,Monday
+VL2026034258,2026-03-23,16,Mumbai,Metro / Rest of India,Standard,0.3,5,5,Delivered,74.16,True,,False,2026-03,Monday
+VL2026034265,2026-03-23,16,Chandigarh,North Zone,Standard,0.44,3,3,Delivered,55.71,True,,False,2026-03,Monday
+VL2026034272,2026-03-23,16,Lucknow,North Zone,Express,1.64,3,3,Delivered,156.07,False,,False,2026-03,Monday
+VL2026034279,2026-03-23,17,Delhi,Local NCR,Express,0.66,2,5,Delivered,68.03,True,Wrong / incomplete address,True,2026-03,Monday
+VL2026034286,2026-03-23,17,Delhi,Local NCR,Same Day,1.73,2,1,Delivered,153.58,False,,False,2026-03,Monday
+VL2026034293,2026-03-23,17,Hyderabad,Metro / Rest of India,Standard,0.96,5,4,Delivered,102.36,True,,False,2026-03,Monday
+VL2026034300,2026-03-23,17,Gurugram,Local NCR,Standard,1.63,2,1,Delivered,54.68,True,,False,2026-03,Monday
+VL2026034307,2026-03-23,17,Ghaziabad,Local NCR,Express,0.43,2,1,Delivered,68.29,True,,False,2026-03,Monday
+VL2026034314,2026-03-23,17,Noida,Local NCR,Same Day,10.18,2,2,Delivered,428.43,False,,False,2026-03,Monday
+VL2026034321,2026-03-23,17,Chandigarh,North Zone,Standard,0.94,3,2,Delivered,66.79,False,,False,2026-03,Monday
+VL2026034328,2026-03-23,17,Delhi,Local NCR,Express,3.55,2,1,RTO,137.09,False,,False,2026-03,Monday
+VL2026034335,2026-03-23,18,Chennai,Metro / Rest of India,Surface Cargo,1.66,5,4,Delivered,67.93,True,,False,2026-03,Monday
+VL2026034342,2026-03-23,18,Faridabad,Local NCR,Same Day,1.19,2,1,Delivered,105.48,False,,False,2026-03,Monday
+VL2026034349,2026-03-23,18,Lucknow,North Zone,Standard,0.73,3,2,RTO,67.49,True,,False,2026-03,Monday
+VL2026034356,2026-03-23,18,Jaipur,North Zone,Standard,0.99,3,2,RTO,75.23,True,,False,2026-03,Monday
+VL2026034363,2026-03-23,20,Agra,North Zone,Standard,4.92,3,3,Delivered,160.12,True,,False,2026-03,Monday
+VL2026034370,2026-03-23,21,Lucknow,North Zone,Standard,1.02,3,2,Delivered,70.85,False,,False,2026-03,Monday
+VL2026034377,2026-03-24,8,Hyderabad,Metro / Rest of India,Surface Cargo,1.81,5,6,Delivered,74.66,False,Wrong / incomplete address,True,2026-03,Tuesday
+VL2026034384,2026-03-24,8,Lucknow,North Zone,Standard,0.49,3,5,Delivered,59.92,True,Weather,True,2026-03,Tuesday
+VL2026034391,2026-03-24,8,Ghaziabad,Local NCR,Standard,0.69,2,1,Delivered,40.53,True,,False,2026-03,Tuesday
+VL2026034398,2026-03-24,8,Ghaziabad,Local NCR,Standard,1.49,2,1,Delivered,48.63,True,,False,2026-03,Tuesday
+VL2026034405,2026-03-24,9,Ghaziabad,Local NCR,Standard,4.11,2,1,Delivered,89.57,True,,False,2026-03,Tuesday
+VL2026034412,2026-03-24,9,Ghaziabad,Local NCR,Standard,1.67,2,1,Delivered,50.2,False,,False,2026-03,Tuesday
+VL2026034419,2026-03-24,9,Ghaziabad,Local NCR,Standard,1.68,2,1,Delivered,54.25,False,,False,2026-03,Tuesday
+VL2026034426,2026-03-24,10,Mumbai,Metro / Rest of India,Express,0.7,5,4,Delivered,145.46,True,,False,2026-03,Tuesday
+VL2026034433,2026-03-24,10,Chandigarh,North Zone,Standard,2.49,3,2,Delivered,111.66,False,,False,2026-03,Tuesday
+VL2026034440,2026-03-24,10,Mumbai,Metro / Rest of India,Standard,2.89,5,4,Delivered,156.04,True,,False,2026-03,Tuesday
+VL2026034447,2026-03-24,11,Mumbai,Metro / Rest of India,Standard,0.47,5,5,Delivered,85.26,True,,False,2026-03,Tuesday
+VL2026034454,2026-03-24,11,Bengaluru,Metro / Rest of India,Same Day,2.16,5,5,Delivered,356.39,False,,False,2026-03,Tuesday
+VL2026034461,2026-03-24,12,Faridabad,Local NCR,Surface Cargo,1.09,2,1,Delivered,30.2,True,,False,2026-03,Tuesday
+VL2026034468,2026-03-24,12,Hyderabad,Metro / Rest of India,Express,11.54,5,5,Delivered,755.82,False,,False,2026-03,Tuesday
+VL2026034475,2026-03-24,12,Lucknow,North Zone,Standard,1.61,3,3,Delivered,73.83,True,,False,2026-03,Tuesday
+VL2026034482,2026-03-24,12,Delhi,Local NCR,Same Day,2.08,2,1,Delivered,144.15,True,,False,2026-03,Tuesday
+VL2026034489,2026-03-24,12,Delhi,Local NCR,Standard,1.05,2,1,Delivered,45.47,False,,False,2026-03,Tuesday
+VL2026034496,2026-03-24,12,Hyderabad,Metro / Rest of India,Standard,0.6,5,4,Delivered,98.12,True,,False,2026-03,Tuesday
+VL2026034503,2026-03-24,12,Delhi,Local NCR,Standard,0.7,2,1,Delivered,36.43,False,,False,2026-03,Tuesday
+VL2026034510,2026-03-24,13,Mumbai,Metro / Rest of India,Standard,4.39,5,5,Delivered,200.31,True,,False,2026-03,Tuesday
+VL2026034517,2026-03-24,13,Gurugram,Local NCR,Surface Cargo,0.69,2,2,Delivered,26.51,False,,False,2026-03,Tuesday
+VL2026034524,2026-03-24,13,Ghaziabad,Local NCR,Standard,0.85,2,1,Delivered,41.53,False,,False,2026-03,Tuesday
+VL2026034531,2026-03-24,13,Bengaluru,Metro / Rest of India,Standard,0.3,5,5,Delivered,74.7,False,,False,2026-03,Tuesday
+VL2026034538,2026-03-24,13,Bengaluru,Metro / Rest of India,Express,0.26,5,4,Delivered,132.79,False,,False,2026-03,Tuesday
+VL2026034545,2026-03-24,14,Ghaziabad,Local NCR,Express,1.74,2,1,RTO,90.16,False,,False,2026-03,Tuesday
+VL2026034552,2026-03-24,14,Delhi,Local NCR,Standard,2.48,2,1,Delivered,71.6,True,,False,2026-03,Tuesday
+VL2026034559,2026-03-24,14,Gurugram,Local NCR,Standard,1.93,2,1,Delivered,55.68,False,,False,2026-03,Tuesday
+VL2026034566,2026-03-24,14,Bengaluru,Metro / Rest of India,Standard,3.43,5,5,Delivered,174.59,False,,False,2026-03,Tuesday
+VL2026034573,2026-03-24,14,Lucknow,North Zone,Standard,1.55,3,3,Delivered,82.62,False,,False,2026-03,Tuesday
+VL2026034580,2026-03-24,14,Ghaziabad,Local NCR,Express,2.52,2,1,Delivered,117.21,True,,False,2026-03,Tuesday
+VL2026034587,2026-03-24,15,Mumbai,Metro / Rest of India,Express,0.98,5,7,Delivered,159.52,True,Wrong / incomplete address,True,2026-03,Tuesday
+VL2026034594,2026-03-24,15,Dehradun,North Zone,Same Day,1.9,3,3,Delivered,228.52,False,,False,2026-03,Tuesday
+VL2026034601,2026-03-24,15,Mumbai,Metro / Rest of India,Standard,1.04,5,5,Delivered,105.16,True,,False,2026-03,Tuesday
+VL2026034608,2026-03-24,15,Ghaziabad,Local NCR,Express,3.05,2,1,Delivered,120.25,False,,False,2026-03,Tuesday
+VL2026034615,2026-03-24,16,Delhi,Local NCR,Express,1.42,2,1,Delivered,90.46,False,,False,2026-03,Tuesday
+VL2026034622,2026-03-24,16,Ghaziabad,Local NCR,Same Day,0.69,2,1,Delivered,100.52,False,,False,2026-03,Tuesday
+VL2026034629,2026-03-24,16,Delhi,Local NCR,Standard,2.02,2,1,Delivered,57.35,False,,False,2026-03,Tuesday
+VL2026034636,2026-03-24,16,Mumbai,Metro / Rest of India,Standard,0.98,5,4,Delivered,97.99,False,,False,2026-03,Tuesday
+VL2026034643,2026-03-24,16,Gurugram,Local NCR,Surface Cargo,2.35,2,1,Lost/Damaged,37.12,True,,False,2026-03,Tuesday
+VL2026034650,2026-03-24,16,Mumbai,Metro / Rest of India,Same Day,0.75,5,4,Delivered,217.07,False,,False,2026-03,Tuesday
+VL2026034657,2026-03-24,17,Gurugram,Local NCR,Same Day,1.25,2,1,Delivered,119.5,False,,False,2026-03,Tuesday
+VL2026034664,2026-03-24,17,Delhi,Local NCR,Surface Cargo,0.49,2,1,Delivered,23.28,True,,False,2026-03,Tuesday
+VL2026034671,2026-03-24,17,Faridabad,Local NCR,Standard,0.92,2,1,Delivered,49.15,True,,False,2026-03,Tuesday
+VL2026034678,2026-03-24,17,Ghaziabad,Local NCR,Standard,0.73,2,1,Delivered,38.92,True,,False,2026-03,Tuesday
+VL2026034685,2026-03-24,18,Delhi,Local NCR,Standard,6.56,2,1,Delivered,127.43,False,,False,2026-03,Tuesday
+VL2026034692,2026-03-24,18,Delhi,Local NCR,Express,0.7,2,1,Delivered,65.76,False,,False,2026-03,Tuesday
+VL2026034699,2026-03-24,19,Chandigarh,North Zone,Standard,3.75,3,2,Delivered,151.48,True,,False,2026-03,Tuesday
+VL2026034706,2026-03-24,19,Lucknow,North Zone,Standard,1.85,3,2,Delivered,89.67,True,,False,2026-03,Tuesday
+VL2026034713,2026-03-24,20,Delhi,Local NCR,Standard,2.89,2,1,Delivered,74.76,False,,False,2026-03,Tuesday
+VL2026034720,2026-03-25,8,Mumbai,Metro / Rest of India,Standard,1.52,5,4,Delivered,113.86,True,,False,2026-03,Wednesday
+VL2026034727,2026-03-25,9,Ghaziabad,Local NCR,Express,0.95,2,1,Delivered,67.28,True,,False,2026-03,Wednesday
+VL2026034734,2026-03-25,9,Ghaziabad,Local NCR,Express,1.8,2,1,Delivered,100.03,False,,False,2026-03,Wednesday
+VL2026034741,2026-03-25,9,Hyderabad,Metro / Rest of India,Express,0.62,5,4,Delivered,145.56,False,,False,2026-03,Wednesday
+VL2026034748,2026-03-25,9,Delhi,Local NCR,Express,5.57,2,1,Delivered,180.97,False,,False,2026-03,Wednesday
+VL2026034755,2026-03-25,9,Lucknow,North Zone,Standard,0.58,3,2,Delivered,60.62,False,,False,2026-03,Wednesday
+VL2026034762,2026-03-25,10,Delhi,Local NCR,Surface Cargo,4.52,2,2,Delivered,62.74,False,,False,2026-03,Wednesday
+VL2026034769,2026-03-25,10,Noida,Local NCR,Same Day,1.12,2,1,Delivered,114.19,False,,False,2026-03,Wednesday
+VL2026034776,2026-03-25,10,Delhi,Local NCR,Express,4.59,2,1,Delivered,163.47,False,,False,2026-03,Wednesday
+VL2026034783,2026-03-25,10,Jaipur,North Zone,Standard,1.32,3,3,Delivered,83.67,False,,False,2026-03,Wednesday
+VL2026034790,2026-03-25,10,Chandigarh,North Zone,Standard,0.73,3,3,Delivered,66.72,True,,False,2026-03,Wednesday
+VL2026034797,2026-03-25,10,Mumbai,Metro / Rest of India,Standard,1.87,5,5,Delivered,116.06,False,,False,2026-03,Wednesday
+VL2026034804,2026-03-25,10,Ghaziabad,Local NCR,Standard,1.13,2,2,Delivered,43.15,False,,False,2026-03,Wednesday
+VL2026034811,2026-03-25,10,Noida,Local NCR,Surface Cargo,1.4,2,1,Delivered,31.27,False,,False,2026-03,Wednesday
+VL2026034818,2026-03-25,11,Ghaziabad,Local NCR,Surface Cargo,1.97,2,1,Delivered,35.08,False,,False,2026-03,Wednesday
+VL2026034825,2026-03-25,11,Ghaziabad,Local NCR,Standard,2.52,2,4,Delivered,61.81,False,Traffic / hub congestion,True,2026-03,Wednesday
+VL2026034832,2026-03-25,11,Noida,Local NCR,Express,0.42,2,1,Delivered,64.1,False,,False,2026-03,Wednesday
+VL2026034839,2026-03-25,11,Gurugram,Local NCR,Standard,2.01,2,1,Delivered,61.89,False,,False,2026-03,Wednesday
+VL2026034846,2026-03-25,11,Chandigarh,North Zone,Standard,0.81,3,4,Delivered,66.08,False,Traffic / hub congestion,True,2026-03,Wednesday
+VL2026034853,2026-03-25,11,Delhi,Local NCR,Same Day,4.06,2,3,Delivered,220.71,True,Hub sorting delay,True,2026-03,Wednesday
+VL2026034860,2026-03-25,11,Delhi,Local NCR,Standard,1.94,2,1,Delivered,59.23,False,,False,2026-03,Wednesday
+VL2026034867,2026-03-25,12,Noida,Local NCR,Standard,2.65,2,2,Delivered,63.15,False,,False,2026-03,Wednesday
